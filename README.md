@@ -12,6 +12,6 @@ At the end of 1896, Lathrop succeeded in having a version of the collaboration s
 
 ## Pen Notes
 
-1 Telegraphic communication Mars:100,000 hp steel wheel Penokee Range. dots dashes. 3 yrs to reach the alphabet.  **OK**
+1 Telegraphic communication Mars:100,000 hp steel wheel Penokee Range. dots dashes. 3 yrs to reach the alphabet.  **OK** <span style="color:blue">some *blue* text</span>.
 
 2 Space filled lunar force: Sun Magnet break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— Max di difference emf at Equatorial Regions. Tails comets repelled by magnet lines Tail being an electric Stress in the Ether.   <OK> 
