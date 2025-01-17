@@ -10,15 +10,15 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 	3 Germs came on our Ether from rock entering our atmosphere at about same velocity= ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
 	==X=={description= "marginalia added by Lathrop"}. 4 6th sense. Terpen[e]s periodic. <[What apparatus for utilizing this?]>a ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
-AD
+D
 ==X=={description= "marginalia added by Lathrop"}. 5 Electric Locomotion in Cities Licensed wagons.
-A
+
 	==X=={description= "marginalia added by Lathrop"}. 6e■Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, frictionb to work done being too great.
-ABE
+BE
 	7e■Direct thrust— Sailsb done away with wave motion used to condense air— <OK>f
 EBF
 	==X=={description= "marginalia added by Lathrop"}. 8g Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
-AG
+G
 	9■going NS & EW— blown out line generate current to put them back in line■magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps continuous proper altitude. Caught by sails on Towers— <OK>h
 H
 	==X=={description= "marginalia added by Lathrop"}. Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron— Pig iron steel mj made fromb steel by passing current thr pig iron by pas[sin]g current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before useb & bricked by Coking Coal,b & fluxes so small furnaces used.
@@ -30,20 +30,20 @@ BMN
 
 .ve-media D9004AFW- Image 27
 	==X=={description= "marginalia added by Lathrop"}. neutralization of gravitation by a r a molecular Screeno regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheildb adjusted to attain speeds of 100▪000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5b hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
-ABO
+BO
 	==X=={description= "marginalia added by Lathrop"}. Artesian Bore holes. 135▪000 feet deep temperature of 400?— Source of power. central pipe.
 	Drop[pin]g Dynamite from Balloonsb—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
-AB
+B
 	==X=={description= "marginalia added by Lathrop"}. To accomplish what?>a■Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacuab [-]p powerful temperature
-ABP
+BP
 	==X=={description= "marginalia added by Lathrop"}. Artific[ia]l mother pearl by dipping plates. <OK>
-A
+
 	==X=={description= "marginalia added by Lathrop"}. Photography in the dark by radiant heat.
         
 .ve-media D9004AFW- Image 29	
 using large bricks everything laid by machinery Controlled by few men=
 	Carbonado made by fusing Syrian asphalt in steel pure ironq shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago■Then slowly heating the steel ironm bathb to the temperature of melting—softening.
-ABMQ
+BMQ
 	<X>k■Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide of Carbon in glass bulbs of pure Quartz blow by the aid of ab magnetically diflected arc plumbagoing the surface & electrom plating purem Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
 BK
 	Society of Harmonic Curves
@@ -55,86 +55,80 @@ P
 	==X=={description= "marginalia added by Lathrop"}. Rigid bRoad bed bandedb driving wheels for elasticity.
 	Music instruments controlledb by Jacquard tapes. 
 	Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
-AB
+B
 	==X=={description= "marginalia added by Lathrop"}. Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiledb <?>s & worked like wood■fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking■Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusingb surfaces together.
 	Animal matter not used■fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
-ABRS
+BRS
 	==X=={description= "marginalia added by Lathrop"}. Artificial silk made from by _____ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 
 .ve-media D9004AFW- Image 31
 	applies Electricity foot dia— dif quant sugar etc■artfcl Light
-AB
+B
 	==X=={description= "marginalia added by Lathrop"}. Hypnotizg Machine—
 	Cannon balls form cannot. Cannon prevent busting by 2nd Chamber outside to make Counter pressure
 	Forts defenderb■solidb streams of water on 50▪000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
 Everything so efficient & deadly war obselete keept up for show—
 	Panama—canal— work up ship RR biz—
-AB
+B
 	==X=={description= "marginalia added by Lathrop"}. Color Music—
 	7th Sense—
 	Gold Silver transformed from Lead— Platinum not yet transformable—
 	Military Signally—
-A
+
 	==X=={description= "marginalia added by Lathrop"}. Ocean teleghy between ships at sea■<OK>
 	Cyclones were found to be do to the a change in the the Electrical Conditionsb atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
-AB
+B
 
 .ve-media D9004AFW- Image 32
-	<X>a■Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
+	==X=={description= "marginalia added by Lathrop"}. Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
 	Electricity direct fromt coal—described in another law
 	Gas used for heat. Electricity for Light & power■40 700 candles per 1 lb of pure Carbon per hour—
-AT
-	<X>a■Glow wormi <?>a— not popular— striving for perfect steadiness, beautiful [eyes?]b no irritation—
+T
+	==X=={description= "marginalia added by Lathrop"}. Glow wormi <?>a— not popular— striving for perfect steadiness, beautiful [eyes?]b no irritation—
 	Darwinian Society at Para. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
 	Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100▪000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
-ABI
-	<X■Details?>a■Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations■Trans Method Construction of the molecules ofu Carbohydrates andb methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
-ABU
+BI
+	==X=={description= "marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations■Trans Method Construction of the molecules ofu Carbohydrates andb methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
+BU
 	<X>k■Turpentine by Vacuum— <OK> 
 	Factories auto run by one man.
 	Siberian Railroad,— RR from Alaska to End Chili■Centralb African RR—
 BK
-	<X>a■Microbesb propylectic.
+	==X=={description= "marginalia added by Lathrop"}.Microbesb propylectic.
 
 .ve-media D9004AFW- Image 26	
 state children— paring Longlivity custodians of knowledge—
 	Music by telephone.
 	Phonogh newspapers—Operas— <OK> 
-AB
-	<X>a■Kinetoscopic Operas with phono Every family wealth. <OK> 
-A
-	<X>a■New teeth started by Calcerousb antispierized bandages
-AB
-	<X>a■Bald headness due to want circulation ventilation■open hats.
-A
-	<X>a■Artificial Silk—
-A
-	<X>a■■"■■Leather from Gelatin Vegetable gelatin:b fixation of N in Carbohydrates Electrically.
-AB
-	<X>a■fixation Electrically of Nitrogen in [-]p■Electrical Machinery Each farmi <?>a by wind to fix Nitrogen in soil— Luxuriant Vegitation.
-API
-	<X>a■Sun Engines— Sun Light directly into Electricity
-A
-	<X>a■Reflecting telescopes 130 ft Dia. RR trains bldgs Cities Seen on Mars■Teleghg Kept upv■<OK
-AV
-	<X>a■Photography colors—
-A
-	<X>a■photoghy of surface sun by iron salts in a alternating field— only ultra waves due to high temperatures.
-A
+B
+	==X=={description= "marginalia added by Lathrop"}. Kinetoscopic Operas with phono Every family wealth. <OK> 
+
+	==X=={description= "marginalia added by Lathrop"}. New teeth started by Calcerousb antispierized bandages
+B
+	==X=={description= "marginalia added by Lathrop"}. Bald headness due to want circulation ventilation■open hats.
+
+	==X=={description= "marginalia added by Lathrop"}. Artificial Silk—
+
+	==X=={description= "marginalia added by Lathrop"}. "■■Leather from Gelatin Vegetable gelatin:b fixation of N in Carbohydrates Electrically.
+B
+	==X=={description= "marginalia added by Lathrop"}. fixation Electrically of Nitrogen in [-]p■Electrical Machinery Each farmi <?>a by wind to fix Nitrogen in soil— Luxuriant Vegitation.
+PI
+	==X=={description= "marginalia added by Lathrop"}. Sun Engines— Sun Light directly into Electricity
+
+	==X=={description= "marginalia added by Lathrop"}. Reflecting telescopes 130 ft Dia. RR trains bldgs Cities Seen on Mars■Teleghg Kept upv■<OK
+V
+	==X=={description= "marginalia added by Lathrop"}. Photography colors—
+
+	==X=={description= "marginalia added by Lathrop"}. photoghy of surface sun by iron salts in a alternating field— only ultra waves due to high temperatures.
 
 .ve-media D9004AFW- Image 33	
-<X>a■System street RR suburbianb
+==X=={description= "marginalia added by Lathrop"}. System street RR suburbianb
 AB
-	<X>a■Glass squirted.
-A
-	<X>a■Pottery dried Vac— Vitrified instantly by nitre on surface—
-A
-	<X>a■Shoes moulded.
+	==X=={description= "marginalia added by Lathrop"}. Glass squirted.
+	==X=={description= "marginalia added by Lathrop"}. Pottery dried Vac— Vitrified instantly by nitre on surface—
+	==X=={description= "marginalia added by Lathrop"}. Shoes moulded.
 	Improvements in Newspaper 
-A
-	
-ADf, NjWOE, Edison Manuscripts (TAED PA3001). 
-aMarginalia by Lathrop.
+
  bObscured overwritten text.
  cParagraph followed by dividing mark.
  dEdison drew a line connecting his “OK” notations on items 1–4.
