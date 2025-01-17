@@ -10,17 +10,17 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 	3 Germs came on our Ether from rock entering our atmosphere at about same velocity= ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
 	==X=={description= "marginalia added by Lathrop"}. 4 6th sense. Terpen[e]s periodic. <[What apparatus for utilizing this?]>a ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
-D
+
 ==X=={description= "marginalia added by Lathrop"}. 5 Electric Locomotion in Cities Licensed wagons.
 
-	==X=={description= "marginalia added by Lathrop"}. 6e■Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, frictionb to work done being too great.
-BE
-	7e■Direct thrust— Sailsb done away with wave motion used to condense air— <OK>f
-EBF
-	==X=={description= "marginalia added by Lathrop"}. 8g Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
-G
-	9■going NS & EW— blown out line generate current to put them back in line■magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps continuous proper altitude. Caught by sails on Towers— <OK>h
-H
+	==X=={description= "marginalia added by Lathrop"}. ==6=={description="Edison drew a circle around the numbers 6, 7, and 8."} Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, frictionb to work done being too great.
+
+	==7=={description="Edison drew a circle around the numbers 6, 7, and 8."} Direct thrust— Sailsb done away with wave motion used to condense air— ==OK=={description="Edison’s “OK” followed by vertical lines to indicate combination of items 6 and 7."}.
+
+	==X=={description= "marginalia added by Lathrop"}. ==8=={description="Edison drew a circle to connect “8" to its text."} Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
+
+	9■going NS & EW— blown out line generate current to put them back in line■magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps continuous proper altitude. Caught by sails on Towers— ==OK=={description="Edison’s “OK” followed by vertical line to indicate combination of items 8 and 9."}
+
 	==X=={description= "marginalia added by Lathrop"}. Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron— Pig iron steel mj made fromb steel by passing current thr pig iron by pas[sin]g current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before useb & bricked by Coking Coal,b & fluxes so small furnaces used.
 AIJB
 	<X■What new force?>k■Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.b <OK>l
