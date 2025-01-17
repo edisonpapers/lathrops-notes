@@ -1,32 +1,27 @@
 # 1 Edison's Pen Notes
 
-Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. X indicates a note by Lathrop that he wanted Edison to return to, and provide more information.
+Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. X indicates a note by Lathrop that he wanted Edison to return to, and provide more information. Some paragraphs are followed by dividing marks. Marginalia by Edison unless marked otherwise. Lathrop’s marginalia and underlining made in red pencil unless marked otherwise. 
 
 .ve-media D9004AFW- Image 28
-	X  1 ==Tele[rap]hic communication Mars=={description= "marginalia added by Lathrop"}. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet.c ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+	==X=={description= "marginalia added by Lathrop"}.  1 Tele(rap)hic communication Mars. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet.==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
     
+	==X=={description= "marginalia added by Lathrop"}. 2 Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences■matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines■Tail being an electric stress in the ether.==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+    
+	3 Germs came on our Ether from rock entering our atmosphere at about same velocity= ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
-
-
-
-**Bedroom in Arles** (French: _La Chambre à Arles_; Dutch: _Slaapkamer te Arles_) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter ==Vincent van Gogh=={description="A text only popover"}.
-	<X>a■2■Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences■matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines■Tail being an electric stress in the ether.c <OK>d
-ACD
-	3■Germs came on our Ether from rock entering our atmosphere at about same velocity= <OK>d
-D
-	<X>a■4■6th sense. Terpen[e]s periodic. <[What apparatus for utilizing this?]>a <OK>d 
+	==X=={description= "marginalia added by Lathrop"}. 4 6th sense. Terpen[e]s periodic. <[What apparatus for utilizing this?]>a ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 AD
-<X>a■5■Electric Locomotion in Cities■Licensed wagons.
+==X=={description= "marginalia added by Lathrop"}. 5 Electric Locomotion in Cities Licensed wagons.
 A
-	<X>a■6e■Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, frictionb to work done being too great.
+	==X=={description= "marginalia added by Lathrop"}. 6e■Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, frictionb to work done being too great.
 ABE
 	7e■Direct thrust— Sailsb done away with wave motion used to condense air— <OK>f
 EBF
-	<X>a■8g■Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
+	==X=={description= "marginalia added by Lathrop"}. 8g Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
 AG
 	9■going NS & EW— blown out line generate current to put them back in line■magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps continuous proper altitude. Caught by sails on Towers— <OK>h
 H
-	<X>a■Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron— Pig iron steel mj made fromb steel by passing current thr pig iron by pas[sin]g current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before useb & bricked by Coking Coal,b & fluxes so small furnaces used.
+	==X=={description= "marginalia added by Lathrop"}. Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron— Pig iron steel mj made fromb steel by passing current thr pig iron by pas[sin]g current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before useb & bricked by Coking Coal,b & fluxes so small furnaces used.
 AIJB
 	<X■What new force?>k■Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.b <OK>l
 KBL
@@ -34,16 +29,16 @@ KBL
 BMN
 
 .ve-media D9004AFW- Image 27
-	<X>a■neutralization of gravitation by a r a molecular Screeno regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheildb adjusted to attain speeds of 100▪000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5b hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
+	==X=={description= "marginalia added by Lathrop"}. neutralization of gravitation by a r a molecular Screeno regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheildb adjusted to attain speeds of 100▪000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5b hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
 ABO
-	<X>a■Artesian Bore holes. 135▪000 feet deep temperature of 400?— Source of power. central pipe.
+	==X=={description= "marginalia added by Lathrop"}. Artesian Bore holes. 135▪000 feet deep temperature of 400?— Source of power. central pipe.
 	Drop[pin]g Dynamite from Balloonsb—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
 AB
-	 <X■To accomplish what?>a■Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacuab [-]p powerful temperature
+	==X=={description= "marginalia added by Lathrop"}. To accomplish what?>a■Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacuab [-]p powerful temperature
 ABP
-	<X>a■Artific[ia]l mother pearl by dipping plates. <OK>
+	==X=={description= "marginalia added by Lathrop"}. Artific[ia]l mother pearl by dipping plates. <OK>
 A
-	<X>a■Photography in the dark by radiant heat.
+	==X=={description= "marginalia added by Lathrop"}. Photography in the dark by radiant heat.
         
 .ve-media D9004AFW- Image 29	
 using large bricks everything laid by machinery Controlled by few men=
@@ -57,30 +52,30 @@ BK
 .ve-media D9004AFW- Image 30
 	Aluminium=
 P
-	<X>a■Rigid bRoad bed bandedb driving wheels for elasticity.
+	==X=={description= "marginalia added by Lathrop"}. Rigid bRoad bed bandedb driving wheels for elasticity.
 	Music instruments controlledb by Jacquard tapes. 
 	Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
 AB
-	<X■Detail?>a■Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiledb <?>s & worked like wood■fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking■Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusingb surfaces together.
+	==X=={description= "marginalia added by Lathrop"}. Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiledb <?>s & worked like wood■fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking■Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusingb surfaces together.
 	Animal matter not used■fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
 ABRS
-	<X>a■Artificial silk made from by _____ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
+	==X=={description= "marginalia added by Lathrop"}. Artificial silk made from by _____ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 
 .ve-media D9004AFW- Image 31
 	applies Electricity foot dia— dif quant sugar etc■artfcl Light
 AB
-	<X>a■Hypnotizg Machine—
+	==X=={description= "marginalia added by Lathrop"}. Hypnotizg Machine—
 	Cannon balls form cannot. Cannon prevent busting by 2nd Chamber outside to make Counter pressure
 	Forts defenderb■solidb streams of water on 50▪000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
 Everything so efficient & deadly war obselete keept up for show—
 	Panama—canal— work up ship RR biz—
 AB
-	<X>a■Color Music—
+	==X=={description= "marginalia added by Lathrop"}. Color Music—
 	7th Sense—
 	Gold Silver transformed from Lead— Platinum not yet transformable—
 	Military Signally—
 A
-	<X>a■Ocean teleghy between ships at sea■<OK>
+	==X=={description= "marginalia added by Lathrop"}. Ocean teleghy between ships at sea■<OK>
 	Cyclones were found to be do to the a change in the the Electrical Conditionsb atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 AB
 
@@ -138,7 +133,7 @@ A
 	Improvements in Newspaper 
 A
 	
-ADf, NjWOE, Edison Manuscripts (TAED PA3001). Marginalia by Edison unless marked otherwise. Lathrop’s marginalia and underlining made in red pencil unless marked otherwise. 
+ADf, NjWOE, Edison Manuscripts (TAED PA3001). 
 aMarginalia by Lathrop.
  bObscured overwritten text.
  cParagraph followed by dividing mark.
