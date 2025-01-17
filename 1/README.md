@@ -1,6 +1,6 @@
 # 1 Edison's Pen Notes
 
-Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist.
+Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. X indicates a note by Lathrop that he wanted Edison to return to, and provide more information.
 
 .ve-media D9004AFW- Image 28
 	<X>a■1■Teleg[rap]hic communication Mars. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet.c <OK>d
