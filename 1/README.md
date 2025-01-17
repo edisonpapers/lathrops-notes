@@ -90,10 +90,10 @@ T
 I
 	==X=={description= "marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations■Trans Method Construction of the molecules ofu Carbohydrates andb methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
 U
-	<X>k■Turpentine by Vacuum— <OK> 
+	<X>k■==Turpentine by Vacuum=={description="Lathrop’s marginalia followed by vertical red line."}— <OK> 
 	Factories auto run by one man.
 	Siberian Railroad,— RR from Alaska to End Chili■Centralb African RR—
-K
+
 	==X=={description= "marginalia added by Lathrop"}.Microbesb propylectic.
 
 .ve-media D9004AFW- Image 26	
