@@ -3,8 +3,13 @@
 Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. X indicates a note by Lathrop that he wanted Edison to return to, and provide more information.
 
 .ve-media D9004AFW- Image 28
-	<X>a■1■Teleg[rap]hic communication Mars. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet.c <OK>d
-ABCD
+	X  1 ==Tele[rap]hic communication Mars=={description= "marginalia added by Lathrop"}. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet.c ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+    
+
+
+
+
+**Bedroom in Arles** (French: _La Chambre à Arles_; Dutch: _Slaapkamer te Arles_) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter ==Vincent van Gogh=={description="A text only popover"}.
 	<X>a■2■Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences■matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines■Tail being an electric stress in the ether.c <OK>d
 ACD
 	3■Germs came on our Ether from rock entering our atmosphere at about same velocity= <OK>d
@@ -133,7 +138,8 @@ A
 	Improvements in Newspaper 
 A
 	
-ADf, NjWOE, Edison Manuscripts (TAED PA3001). Marginalia by Edison unless marked otherwise. Lathrop’s marginalia and underlining made in red pencil unless marked otherwise. aMarginalia by Lathrop.
+ADf, NjWOE, Edison Manuscripts (TAED PA3001). Marginalia by Edison unless marked otherwise. Lathrop’s marginalia and underlining made in red pencil unless marked otherwise. 
+aMarginalia by Lathrop.
  bObscured overwritten text.
  cParagraph followed by dividing mark.
  dEdison drew a line connecting his “OK” notations on items 1–4.
