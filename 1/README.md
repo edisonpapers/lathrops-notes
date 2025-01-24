@@ -51,7 +51,8 @@ MQ
 K
 	Society of Harmonic Curves
 	Currency of a country based on the taxable property of the Country [which are covered?]p taxable Values on more scientific & exact basis— platina only used as small change & of as token character
-
+ 
+ ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
 	Aluminium=
 P
