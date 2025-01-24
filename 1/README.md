@@ -47,9 +47,9 @@ using large bricks everything laid by machinery Controlled by few men=
 MQ
 	<X>k■Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide of Carbon in glass bulbs of pure Quartz blow by the aid of ab magnetically diflected arc plumbagoing the surface & electrom plating purem Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
 K
-	Society of Harmonic Curves
-	Currency of a country based on the taxable property of the Country [which are covered?]p taxable Values on more scientific & exact basis— platina only used as small change & of as token character
- ##
+Society of Harmonic Curves
+Currency of a country based on the taxable property of the Country [which are covered?]p taxable Values on more scientific & exact basis— platina only used as small change & of as token character
+##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
 	Aluminium=
 P
@@ -63,7 +63,7 @@ RS
 ==X=={description= "marginalia added by Lathrop"}. Artificial silk made from by _____ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="31" right
-	applies Electricity foot dia— dif quant sugar etc■artfcl Light
+applies Electricity foot dia— dif quant sugar etc■artfcl Light
 
 ==X=={description= "marginalia added by Lathrop"}. Hypnotizg Machine—
 Cannon balls form cannot. Cannon prevent busting by 2nd Chamber outside to make Counter pressure
