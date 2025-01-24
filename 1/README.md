@@ -28,7 +28,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 KL
 Animation suspended by Chloroform then Submersion in pureb cyanogen■Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels animation thusm preventing decomposition by the action of Bacteria internal & external= reanimatedb by Exhaustionb of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action■<OK>n
 MN
-
+##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="27" right
 ==X=={description= "marginalia added by Lathrop"}. neutralization of gravitation by a r a molecular Screeno regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheildb adjusted to attain speeds of 100▪000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5b hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
 O
@@ -40,6 +40,8 @@ P
 ==X=={description= "marginalia added by Lathrop"}. Artific[ia]l mother pearl by dipping plates. <OK>
 
 ==X=={description= "marginalia added by Lathrop"}. Photography in the dark by radiant heat.
+
+##
         
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="29" right
 using large bricks everything laid by machinery Controlled by few men=
