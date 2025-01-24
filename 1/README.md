@@ -1,6 +1,7 @@
 # 1 Edison's Pen Notes
 
 Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. X indicates a note by Lathrop that he wanted Edison to return to, and provide more information. Some paragraphs are followed by dividing marks. Marginalia by Edison unless marked otherwise. Lathrop’s marginalia and underlining made in red pencil unless marked otherwise. Some words have been overwritten and obscured.
+##
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="28" right
 
