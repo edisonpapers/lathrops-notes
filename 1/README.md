@@ -6,40 +6,40 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 ==X=={description= "marginalia added by Lathrop"}.  1 Tele(rap)hic communication Mars. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet.==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
     
-	==X=={description= "marginalia added by Lathrop"}. 2 Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences■matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines■Tail being an electric stress in the ether.==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+==X=={description= "marginalia added by Lathrop"}. 2 Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences■matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines■Tail being an electric stress in the ether.==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
     
-	3 Germs came on our Ether from rock entering our atmosphere at about same velocity= ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+3 Germs came on our Ether from rock entering our atmosphere at about same velocity= ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
-	==X=={description= "marginalia added by Lathrop"}. 4 6th sense. Terpen[e]s periodic. <[What apparatus for utilizing this?]>a ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+==X=={description= "marginalia added by Lathrop"}. 4 6th sense. Terpen[e]s periodic. <[What apparatus for utilizing this?]>a ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
 ==X=={description= "marginalia added by Lathrop"}. 5 Electric Locomotion in Cities Licensed wagons.
 
-	==X=={description= "marginalia added by Lathrop"}. ==6=={description="Edison drew a circle around the numbers 6, 7, and 8."} Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, frictionb to work done being too great.
+==X=={description= "marginalia added by Lathrop"}. ==6=={description="Edison drew a circle around the numbers 6, 7, and 8."} Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, frictionb to work done being too great.
 
-	==7=={description="Edison drew a circle around the numbers 6, 7, and 8."} Direct thrust— Sailsb done away with wave motion used to condense air— ==OK=={description="Edison’s “OK” followed by vertical lines to indicate combination of items 6 and 7."}.
+==7=={description="Edison drew a circle around the numbers 6, 7, and 8."} Direct thrust— Sailsb done away with wave motion used to condense air— ==OK=={description="Edison’s “OK” followed by vertical lines to indicate combination of items 6 and 7."}.
 
-	==X=={description= "marginalia added by Lathrop"}. ==8=={description="Edison drew a circle to connect “8" to its text."} Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
+==X=={description= "marginalia added by Lathrop"}. ==8=={description="Edison drew a circle to connect “8" to its text."} Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
 
-	9 going NS & EW— blown out line generate current to put them back in line magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps continuous proper altitude. Caught by sails on Towers— ==OK=={description="Edison’s “OK” followed by vertical line to indicate combination of items 8 and 9."}
+9 going NS & EW— blown out line generate current to put them back in line magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps continuous proper altitude. Caught by sails on Towers— ==OK=={description="Edison’s “OK” followed by vertical line to indicate combination of items 8 and 9."}
 
-	==X=={description= "marginalia added by Lathrop"}. Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—== Pig iron steel m=={description="Underlined by Lathrop."} made fromb steel by passing current thr pig iron by pas[sin]g current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before useb & bricked by Coking Coal,b & fluxes so small furnaces used.
+==X=={description= "marginalia added by Lathrop"}. Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—== Pig iron steel m=={description="Underlined by Lathrop."} made fromb steel by passing current thr pig iron by pas[sin]g current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before useb & bricked by Coking Coal,b & fluxes so small furnaces used.
 
-	<X■What new force?>k■Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.b <OK>l
+<X■What new force?>k■Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.b <OK>l
 KL
-	Animation suspended by Chloroform then Submersion in pureb cyanogen■Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels animation thusm preventing decomposition by the action of Bacteria internal & external= reanimatedb by Exhaustionb of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action■<OK>n
+Animation suspended by Chloroform then Submersion in pureb cyanogen■Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels animation thusm preventing decomposition by the action of Bacteria internal & external= reanimatedb by Exhaustionb of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action■<OK>n
 MN
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="27" right
-	==X=={description= "marginalia added by Lathrop"}. neutralization of gravitation by a r a molecular Screeno regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheildb adjusted to attain speeds of 100▪000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5b hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
+==X=={description= "marginalia added by Lathrop"}. neutralization of gravitation by a r a molecular Screeno regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheildb adjusted to attain speeds of 100▪000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5b hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
 O
-	==X=={description= "marginalia added by Lathrop"}. Artesian Bore holes. 135▪000 feet deep temperature of 400?— Source of power. central pipe.
-	Drop[pin]g Dynamite from Balloonsb—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
+==X=={description= "marginalia added by Lathrop"}. Artesian Bore holes. 135▪000 feet deep temperature of 400?— Source of power. central pipe.
+Drop[pin]g Dynamite from Balloonsb—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
 
-	==X=={description= "marginalia added by Lathrop"}. To accomplish what?>a■Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacuab [-]p powerful temperature
+==X=={description= "marginalia added by Lathrop"}. To accomplish what?>a■Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacuab [-]p powerful temperature
 P
-	==X=={description= "marginalia added by Lathrop"}. Artific[ia]l mother pearl by dipping plates. <OK>
+==X=={description= "marginalia added by Lathrop"}. Artific[ia]l mother pearl by dipping plates. <OK>
 
-	==X=={description= "marginalia added by Lathrop"}. Photography in the dark by radiant heat.
+==X=={description= "marginalia added by Lathrop"}. Photography in the dark by radiant heat.
         
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="29" right
 using large bricks everything laid by machinery Controlled by few men=
