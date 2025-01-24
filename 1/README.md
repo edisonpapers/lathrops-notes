@@ -40,9 +40,7 @@ P
 ==X=={description= "marginalia added by Lathrop"}. Artific[ia]l mother pearl by dipping plates. <OK>
 
 ==X=={description= "marginalia added by Lathrop"}. Photography in the dark by radiant heat.
-
-##
-        
+##        
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="29" right
 using large bricks everything laid by machinery Controlled by few men=
 	Carbonado made by fusing Syrian asphalt in steel pure ironq shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago■Then slowly heating the steel ironm bathb to the temperature of melting—softening.
@@ -51,7 +49,6 @@ MQ
 K
 	Society of Harmonic Curves
 	Currency of a country based on the taxable property of the Country [which are covered?]p taxable Values on more scientific & exact basis— platina only used as small change & of as token character
- 
  ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
 	Aluminium=
