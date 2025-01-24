@@ -29,7 +29,7 @@ KL
 	Animation suspended by Chloroform then Submersion in pureb cyanogen■Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels animation thusm preventing decomposition by the action of Bacteria internal & external= reanimatedb by Exhaustionb of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action■<OK>n
 MN
 
-.ve-media D9004AFW- Image 27
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="27" right
 	==X=={description= "marginalia added by Lathrop"}. neutralization of gravitation by a r a molecular Screeno regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheildb adjusted to attain speeds of 100▪000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5b hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
 O
 	==X=={description= "marginalia added by Lathrop"}. Artesian Bore holes. 135▪000 feet deep temperature of 400?— Source of power. central pipe.
@@ -41,7 +41,7 @@ P
 
 	==X=={description= "marginalia added by Lathrop"}. Photography in the dark by radiant heat.
         
-.ve-media D9004AFW- Image 29	
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="29" right
 using large bricks everything laid by machinery Controlled by few men=
 	Carbonado made by fusing Syrian asphalt in steel pure ironq shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago■Then slowly heating the steel ironm bathb to the temperature of melting—softening.
 MQ
@@ -50,7 +50,7 @@ K
 	Society of Harmonic Curves
 	Currency of a country based on the taxable property of the Country [which are covered?]p taxable Values on more scientific & exact basis— platina only used as small change & of as token character
 
-.ve-media D9004AFW- Image 30
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
 	Aluminium=
 P
 	==X=={description= "marginalia added by Lathrop"}. Rigid bRoad bed bandedb driving wheels for elasticity.
@@ -62,7 +62,7 @@ P
 RS
 	==X=={description= "marginalia added by Lathrop"}. Artificial silk made from by _____ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 
-.ve-media D9004AFW- Image 31
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="31" right
 	applies Electricity foot dia— dif quant sugar etc■artfcl Light
 
 	==X=={description= "marginalia added by Lathrop"}. Hypnotizg Machine—
@@ -80,7 +80,7 @@ Everything so efficient & deadly war obselete keept up for show—
 	Cyclones were found to be do to the a change in the the Electrical Conditionsb atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 
 
-.ve-media D9004AFW- Image 32
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="32" right
 	==X=={description= "marginalia added by Lathrop"}. Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
 	Electricity direct fromt coal—described in another law
 	Gas used for heat. Electricity for Light & power■40 700 candles per 1 lb of pure Carbon per hour—
@@ -97,7 +97,7 @@ U
 
 	==X=={description= "marginalia added by Lathrop"}.Microbesb propylectic.
 
-.ve-media D9004AFW- Image 26	
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="26" right	
 state children— paring Longlivity custodians of knowledge—
 	Music by telephone.
 	Phonogh newspapers—Operas— <OK> 
@@ -122,7 +122,7 @@ I
 
 	==X=={description= "marginalia added by Lathrop"}. photoghy of surface sun by iron salts in a alternating field— only ultra waves due to high temperatures.
 
-.ve-media D9004AFW- Image 33	
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="33" right	
 ==X=={description= "marginalia added by Lathrop"}. System street RR suburbianb
 
 	==X=={description= "marginalia added by Lathrop"}. Glass squirted.
