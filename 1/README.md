@@ -53,83 +53,83 @@ K
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
 	Aluminium=
 P
-	==X=={description= "marginalia added by Lathrop"}. Rigid bRoad bed bandedb driving wheels for elasticity.
-	Music instruments controlledb by Jacquard tapes. 
-	Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
+==X=={description= "marginalia added by Lathrop"}. Rigid bRoad bed bandedb driving wheels for elasticity.
+Music instruments controlledb by Jacquard tapes. 
+Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
 
-	==X=={description= "marginalia added by Lathrop"}. Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiledb <?>s & worked like wood■fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking■Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusingb surfaces together.
-	Animal matter not used■fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
+==X=={description= "marginalia added by Lathrop"}. Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiledb <?>s & worked like wood■fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking■Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusingb surfaces together.
+Animal matter not used■fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
 RS
-	==X=={description= "marginalia added by Lathrop"}. Artificial silk made from by _____ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
+==X=={description= "marginalia added by Lathrop"}. Artificial silk made from by _____ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="31" right
 	applies Electricity foot dia— dif quant sugar etc■artfcl Light
 
-	==X=={description= "marginalia added by Lathrop"}. Hypnotizg Machine—
-	Cannon balls form cannot. Cannon prevent busting by 2nd Chamber outside to make Counter pressure
-	Forts defenderb■solidb streams of water on 50▪000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
+==X=={description= "marginalia added by Lathrop"}. Hypnotizg Machine—
+Cannon balls form cannot. Cannon prevent busting by 2nd Chamber outside to make Counter pressure
+Forts defenderb■solidb streams of water on 50▪000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
 Everything so efficient & deadly war obselete keept up for show—
-	Panama—canal— work up ship RR biz—
+Panama—canal— work up ship RR biz—
 
-	==X=={description= "marginalia added by Lathrop"}. Color Music—
-	7th Sense—
-	Gold Silver transformed from Lead— Platinum not yet transformable—
-	Military Signally—
+==X=={description= "marginalia added by Lathrop"}. Color Music—
+7th Sense—
+Gold Silver transformed from Lead— Platinum not yet transformable—
+Military Signally—
 
-	==X=={description= "marginalia added by Lathrop"}. Ocean teleghy between ships at sea■<OK>
-	Cyclones were found to be do to the a change in the the Electrical Conditionsb atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
+==X=={description= "marginalia added by Lathrop"}. Ocean teleghy between ships at sea■<OK>
+Cyclones were found to be do to the a change in the the Electrical Conditionsb atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="32" right
-	==X=={description= "marginalia added by Lathrop"}. Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
-	Electricity direct fromt coal—described in another law
-	Gas used for heat. Electricity for Light & power■40 700 candles per 1 lb of pure Carbon per hour—
+==X=={description= "marginalia added by Lathrop"}. Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
+Electricity direct fromt coal—described in another law
+Gas used for heat. Electricity for Light & power■40 700 candles per 1 lb of pure Carbon per hour—
 T
-	==X=={description= "marginalia added by Lathrop"}. Glow wormi <?>a— not popular— striving for perfect steadiness, beautiful [eyes?]b no irritation—
-	Darwinian Society at Para. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
-	Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100▪000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
+==X=={description= "marginalia added by Lathrop"}. Glow wormi <?>a— not popular— striving for perfect steadiness, beautiful [eyes?]b no irritation—
+Darwinian Society at Para. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
+Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100▪000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
 I
-	==X=={description= "marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations■Trans Method Construction of the molecules ofu Carbohydrates andb methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
+==X=={description= "marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations■Trans Method Construction of the molecules ofu Carbohydrates andb methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
 U
-	<X>k■==Turpentine by Vacuum=={description="Lathrop’s marginalia followed by vertical red line."}— <OK> 
-	Factories auto run by one man.
-	Siberian Railroad,— RR from Alaska to End Chili■Centralb African RR—
+<X>k■==Turpentine by Vacuum=={description="Lathrop’s marginalia followed by vertical red line."}— <OK> 
+Factories auto run by one man.
+Siberian Railroad,— RR from Alaska to End Chili■Centralb African RR—
 
-	==X=={description= "marginalia added by Lathrop"}.Microbesb propylectic.
+==X=={description= "marginalia added by Lathrop"}.Microbesb propylectic.
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="26" right	
 state children— paring Longlivity custodians of knowledge—
-	Music by telephone.
-	Phonogh newspapers—Operas— <OK> 
+Music by telephone.
+Phonogh newspapers—Operas— <OK> 
 
-	==X=={description= "marginalia added by Lathrop"}. Kinetoscopic Operas with phono Every family wealth. <OK> 
+==X=={description= "marginalia added by Lathrop"}. Kinetoscopic Operas with phono Every family wealth. <OK> 
 
-	==X=={description= "marginalia added by Lathrop"}. New teeth started by Calcerousb antispierized bandages
+==X=={description= "marginalia added by Lathrop"}. New teeth started by Calcerousb antispierized bandages
 
-	==X=={description= "marginalia added by Lathrop"}. Bald headness due to want circulation ventilation■open hats.
+==X=={description= "marginalia added by Lathrop"}. Bald headness due to want circulation ventilation■open hats.
 
-	==X=={description= "marginalia added by Lathrop"}. Artificial Silk—
+==X=={description= "marginalia added by Lathrop"}. Artificial Silk—
 
-	==X=={description= "marginalia added by Lathrop"}. "■■Leather from Gelatin Vegetable gelatin:b fixation of N in Carbohydrates Electrically.
+==X=={description= "marginalia added by Lathrop"}. "■■Leather from Gelatin Vegetable gelatin:b fixation of N in Carbohydrates Electrically.
 
-	==X=={description= "marginalia added by Lathrop"}. fixation Electrically of Nitrogen in ==-=={description="Canceled."} Electrical Machinery Each farmi <?>a by wind to fix Nitrogen in soil— Luxuriant Vegitation.
+==X=={description= "marginalia added by Lathrop"}. fixation Electrically of Nitrogen in ==-=={description="Canceled."} Electrical Machinery Each farmi <?>a by wind to fix Nitrogen in soil— Luxuriant Vegitation.
 I
-	==X=={description= "marginalia added by Lathrop"}. Sun Engines— Sun Light directly into Electricity
+==X=={description= "marginalia added by Lathrop"}. Sun Engines— Sun Light directly into Electricity
 
-	==X=={description= "marginalia added by Lathrop"}. Reflecting telescopes 130 ft Dia. RR trains bldgs Cities Seen on Mars ==Teleghg Kept up=={description="circled by Edison."}.
+==X=={description= "marginalia added by Lathrop"}. Reflecting telescopes 130 ft Dia. RR trains bldgs Cities Seen on Mars ==Teleghg Kept up=={description="circled by Edison."}.
 
-	==X=={description= "marginalia added by Lathrop"}. Photography colors—
+==X=={description= "marginalia added by Lathrop"}. Photography colors—
 
-	==X=={description= "marginalia added by Lathrop"}. photoghy of surface sun by iron salts in a alternating field— only ultra waves due to high temperatures.
+==X=={description= "marginalia added by Lathrop"}. photoghy of surface sun by iron salts in a alternating field— only ultra waves due to high temperatures.
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="33" right	
 ==X=={description= "marginalia added by Lathrop"}. System street RR suburbianb
 
-	==X=={description= "marginalia added by Lathrop"}. Glass squirted.
+==X=={description= "marginalia added by Lathrop"}. Glass squirted.
 
-	==X=={description= "marginalia added by Lathrop"}. Pottery dried Vac— Vitrified instantly by nitre on surface—
+==X=={description= "marginalia added by Lathrop"}. Pottery dried Vac— Vitrified instantly by nitre on surface—
 
-	==X=={description= "marginalia added by Lathrop"}. Shoes moulded.
+==X=={description= "marginalia added by Lathrop"}. Shoes moulded.
 	Improvements in Newspaper 
 
 
