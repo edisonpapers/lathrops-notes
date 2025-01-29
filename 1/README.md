@@ -27,7 +27,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 X ==What new force?=={description="Lathrop’s marginalia followed by vertical red line"}. Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
 
-Animation suspended by Chloroform then Submersion in pureb cyanogen■Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels animation thusm preventing decomposition by the action of Bacteria internal & external= reanimatedb by Exhaustionb of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action■<OK>n
+Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels animation thusm preventing decomposition by the action of Bacteria internal & external= reanimatedb by Exhaustionb of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action■<OK>n
 MN
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="27" right
