@@ -1,6 +1,6 @@
 # 1 Edison's Pen Notes
 
-Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. X indicates a note by Lathrop that he wanted Edison to return to, and provide more information. Some paragraphs are followed by dividing marks. Marginalia by Edison unless marked otherwise. Lathrop’s marginalia and underlining made in red pencil unless marked otherwise. Some words have been overwritten and obscured.
+Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. X indicates a note by Lathrop that he wanted Edison to return to, and provide more information. Some paragraphs are followed by dividing marks. Marginalia by Edison unless marked otherwise. Lathrop’s marginalia and underlining made in red pencil unless marked otherwise. Some words have been overwritten and obscured, specifically Edison's "OK" over some of the notes.
 ##
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="28" right
@@ -11,7 +11,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
     
 3 Germs came on our Ether from rock entering our atmosphere at about same velocity= ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
-==X=={description= "marginalia added by Lathrop"}. 4 6th sense. Terpen[e]s periodic. <[What apparatus for utilizing this?]>a ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+==X=={description= "marginalia added by Lathrop"}. 4 6th sense. Terpenes periodic. <[What apparatus for utilizing this?]>a ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
 ==X=={description= "marginalia added by Lathrop"}. 5 Electric Locomotion in Cities Licensed wagons.
 
@@ -25,8 +25,8 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 ==X=={description= "marginalia added by Lathrop"}. Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—== Pig iron steel m=={description="Underlined by Lathrop."} made fromb steel by passing current thr pig iron by pas[sin]g current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before useb & bricked by Coking Coal,b & fluxes so small furnaces used.
 
-<X■What new force?>k■Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.b <OK>l
-KL
+X ==What new force?=={description="Lathrop’s marginalia followed by vertical red line"}. Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.b 
+
 Animation suspended by Chloroform then Submersion in pureb cyanogen■Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels animation thusm preventing decomposition by the action of Bacteria internal & external= reanimatedb by Exhaustionb of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action■<OK>n
 MN
 ##
@@ -92,7 +92,7 @@ Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metam
 I
 ==X=={description= "marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations■Trans Method Construction of the molecules ofu Carbohydrates andb methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
 U
-<X>k■==Turpentine by Vacuum=={description="Lathrop’s marginalia followed by vertical red line."}— <OK> 
+==X=={description= "marginalia added by Lathrop"}.k■==Turpentine by Vacuum=={description="Lathrop’s marginalia followed by vertical red line."}— <OK> 
 Factories auto run by one man.
 Siberian Railroad,— RR from Alaska to End Chili■Centralb African RR—
 
