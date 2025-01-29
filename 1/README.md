@@ -38,7 +38,7 @@ Drop[pin]g Dynamite from Balloonsb—Warfare. Police ballons to prevent robbery 
 
 ==X=={description= "marginalia added by Lathrop"}. To accomplish what?>a■Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacuab [-]p powerful temperature
 P
-==X=={description= "marginalia added by Lathrop"}. Artific[ia]l mother pearl by dipping plates. <OK>
+==X=={description= "marginalia added by Lathrop"}. Artific[ia]l mother pearl by dipping plates. 
 
 ==X=={description= "marginalia added by Lathrop"}. Photography in the dark by radiant heat.
 ##        
