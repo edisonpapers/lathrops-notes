@@ -62,17 +62,17 @@ P
 Music instruments controlledb by Jacquard tapes. 
 Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
 
-==X=={description= "marginalia added by Lathrop"}. Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiledb <?>s & worked like wood■fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking■Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusingb surfaces together.
-Animal matter not used■fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
-RS
-==X=={description= "marginalia added by Lathrop"}. Artificial silk made from by _____ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
+==X=={description= "marginalia added by Lathrop"}. Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiled==Detail?=={description="Lathrop underlined “boiled,” added the “?,” and drew a line to “Detail?” above. "} & worked like wood fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusing surfaces together.
+Animal matter not used fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
+
+==X=={description= "marginalia added by Lathrop"}. Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="31" right
-applies Electricity foot dia— dif quant sugar etc■artfcl Light
+applies Electricity foot dia— dif quant sugar etc artfcl Light
 
 ==X=={description= "marginalia added by Lathrop"}. Hypnotizg Machine—
 Cannon balls form cannot. Cannon prevent busting by 2nd Chamber outside to make Counter pressure
-Forts defenderb■solidb streams of water on 50▪000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
+Forts defender  solid streams of water on 50,000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
 Everything so efficient & deadly war obselete keept up for show—
 Panama—canal— work up ship RR biz—
 
@@ -81,7 +81,7 @@ Panama—canal— work up ship RR biz—
 Gold Silver transformed from Lead— Platinum not yet transformable—
 Military Signally—
 
-==X=={description= "marginalia added by Lathrop"}. Ocean teleghy between ships at sea■<OK>
+==X=={description= "marginalia added by Lathrop"}. Ocean teleghy between ships at sea
 Cyclones were found to be do to the a change in the the Electrical Conditionsb atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 
 
