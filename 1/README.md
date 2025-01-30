@@ -1,6 +1,8 @@
 # 1 Edison's Pen Notes
 
-Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. X indicates a note by Lathrop that he wanted Edison to return to, and provide more information. Some paragraphs are followed by dividing marks. Marginalia by Edison unless marked otherwise. Lathrop’s marginalia and underlining made in red pencil unless marked otherwise. Some words have been overwritten and obscured, specifically Edison's "OK" over some of the notes.
+Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. X indicates a note by Lathrop that he wanted Edison to return to, and provide more information. Some paragraphs are followed by dividing marks. Marginalia by Edison unless marked otherwise. Lathrop’s marginalia and underlining made in red pencil unless marked otherwise. Some words have been overwritten and obscured, specifically Edison's "OK" over some of the notes. 
+
+To see more information about the notes, hover over underlined words or letters in the transcript on the left.
 ##
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="28" right
@@ -11,7 +13,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
     
 3 Germs came on our Ether from rock entering our atmosphere at about same velocity= ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
-==X=={description= "marginalia added by Lathrop"}. 4 6th sense. Terpenes periodic. <[What apparatus for utilizing this?]>a ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+==X=={description= "marginalia added by Lathrop"}. 4 6th sense. Terpenes periodic. What apparatus for utilizing this?> ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
 ==X=={description= "marginalia added by Lathrop"}. 5 Electric Locomotion in Cities Licensed wagons.
 
@@ -31,30 +33,32 @@ Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boil
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="27" right
-==X=={description= "marginalia added by Lathrop"}. neutralization of gravitation by a r a molecular Screeno regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheildb adjusted to attain speeds of 100▪000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5 hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
-O
-==X=={description= "marginalia added by Lathrop"}. Artesian Bore holes. 135▪000 feet deep temperature of 400?— Source of power. central pipe.
-Drop[pin]g Dynamite from Balloonsb—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
+==X=={description= "marginalia added by Lathrop"}. neutralization of gravitation by a  ==a molecular Screen=={description="underlined by Lathrop"} regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheild adjusted to attain speeds of 100,000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5 hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
 
-==X=={description= "marginalia added by Lathrop"}. To accomplish what?>a■Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacuab [-]p powerful temperature
-P
-==X=={description= "marginalia added by Lathrop"}. Artific[ia]l mother pearl by dipping plates. 
+==X=={description= "marginalia added by Lathrop"}. Artesian Bore holes. 135,000 feet deep temperature of 400?— Source of power. central pipe.
+Dropping Dynamite from Balloonsb—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
+
+X ==To accomplish what?=={description= "marginalia added by Lathrop"}. Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacua powerful temperature
+
+==X=={description= "marginalia added by Lathrop"}. Artifici]l mother pearl by dipping plates. 
 
 ==X=={description= "marginalia added by Lathrop"}. Photography in the dark by radiant heat.
+
 ##        
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="29" right
-using large bricks everything laid by machinery Controlled by few men=
-	Carbonado made by fusing Syrian asphalt in steel pure ironq shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago■Then slowly heating the steel ironm bathb to the temperature of melting—softening.
-MQ
-	<X>k■Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide of Carbon in glass bulbs of pure Quartz blow by the aid of ab magnetically diflected arc plumbagoing the surface & electrom plating purem Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
-K
+using large bricks everything laid by machinery Controlled by few men
+
+Carbonado made by fusing Syrian asphalt in steel ==pure iron=={description="interlined above"} shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the ==steel iron=={description="interlined above"} bath to the temperature of melting—softening.
+
+==X=={description= "marginalia added by Lathrop"}. Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide of Carbon in glass bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & electrom plating pure Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
+
 Society of Harmonic Curves
-Currency of a country based on the taxable property of the Country [which are covered?]p taxable Values on more scientific & exact basis— platina only used as small change & of as token character
+Currency of a country based on the taxable property of the Country ==which are covered?=={description="Canceled"} taxable Values on more scientific & exact basis— platina only used as small change & of as token character
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
 	Aluminium=
 P
-==X=={description= "marginalia added by Lathrop"}. Rigid bRoad bed bandedb driving wheels for elasticity.
+==X=={description= "marginalia added by Lathrop"}. Rigid Road bed banded driving wheels for elasticity.
 Music instruments controlledb by Jacquard tapes. 
 Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
 
