@@ -8,7 +8,7 @@
     - [Essay 4](/4)
     - [Essay 5](/5)
     
-This site highlights Latrhop's Notes through IIIF image viewers, transcriptions and annotations. It is a collaboration between Edison Papers Director Paul Israel and graduate student Erin Mustard, who helps the project develop its digital and public humanities outreach. Click on the links below to read an Introduction to the exhibit and each of the five Virtual Essays.
+This site highlights the notes that Edison wrote for George Parsons Lathrop during their collaboration on a science fiction story. It is a collaboration between Edison Papers Director Paul Israel and graduate student Erin Mustard, who helps the project develop its digital and public humanities outreach. Click on the links below to read an Introduction to the exhibit and each of the five Virtual Essays.
 
 ### Read the Diary {.cards}
 
