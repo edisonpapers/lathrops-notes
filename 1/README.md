@@ -33,16 +33,16 @@ Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boil
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="27" right
-==X=={description= "marginalia added by Lathrop"}. neutralization of gravitation by a  ==a molecular Screen=={description="underlined by Lathrop"} regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheild adjusted to attain speeds of 100,000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5 hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
+==X=={description="marginalia added by Lathrop"}. neutralization of gravitation by a  ==a molecular Screen=={description="underlined by Lathrop"} regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheild adjusted to attain speeds of 100,000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5 hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
 
-==X=={description= "marginalia added by Lathrop"}. Artesian Bore holes. 135,000 feet deep temperature of 400?— Source of power. central pipe.
+==X=={description="marginalia added by Lathrop"}. Artesian Bore holes. 135,000 feet deep temperature of 400?— Source of power. central pipe.
 Dropping Dynamite from Balloonsb—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
 
 X ==To accomplish what?=={description= "marginalia added by Lathrop"}. Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacua powerful temperature
 
-==X=={description= "marginalia added by Lathrop"}. Artifici]l mother pearl by dipping plates. 
+==X=={description="marginalia added by Lathrop"}. Artifici]l mother pearl by dipping plates. 
 
-==X=={description= "marginalia added by Lathrop"}. Photography in the dark by radiant heat.
+==X=={description="marginalia added by Lathrop"}. Photography in the dark by radiant heat.
 
 ##        
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="29" right
@@ -50,26 +50,26 @@ using large bricks everything laid by machinery Controlled by few men
 
 Carbonado made by fusing Syrian asphalt in steel ==pure iron=={description="interlined above"} shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the ==steel iron=={description="interlined above"} bath to the temperature of melting—softening.
 
-==X=={description= "marginalia added by Lathrop"}. Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide of Carbon in glass bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & electrom plating pure Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
+==X=={description="marginalia added by Lathrop"}. Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide of Carbon in glass bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & electrom plating pure Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
 
 Society of Harmonic Curves
 Currency of a country based on the taxable property of the Country ==which are covered?=={description="Canceled"} taxable Values on more scientific & exact basis— platina only used as small change & of as token character
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
 	Aluminium=
-==X=={description= "marginalia added by Lathrop"}. Rigid Road bed banded driving wheels for elasticity.
+==X=={description="marginalia added by Lathrop"}. Rigid Road bed banded driving wheels for elasticity.
 Music instruments controlledb by Jacquard tapes. 
 Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
 
-==X=={description= "marginalia added by Lathrop"}. Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiled==Detail?=={description="Lathrop underlined “boiled,” added the “?,” and drew a line to “Detail?” above. "} & worked like wood fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusing surfaces together.
+==X=={description="marginalia added by Lathrop"}. Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiled==Detail?=={description="Lathrop underlined “boiled,” added the “?,” and drew a line to “Detail?” above."} & worked like wood fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusing surfaces together.
 Animal matter not used fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
 
-==X=={description= "marginalia added by Lathrop"}. Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
+==X=={description="marginalia added by Lathrop"}. Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="31" right
 applies Electricity foot dia— dif quant sugar etc artfcl Light
 
-==X=={description= "marginalia added by Lathrop"}. Hypnotizg Machine—
+==X=={description="marginalia added by Lathrop"}. Hypnotizg Machine—
 Cannon balls form cannot. Cannon prevent busting by 2nd Chamber outside to make Counter pressure
 Forts defender  solid streams of water on 50,000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
 Everything so efficient & deadly war obselete keept up for show—
