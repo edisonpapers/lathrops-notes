@@ -6,26 +6,31 @@ Edison wrote this set in pencil on five pages. The editors have arranged the tex
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="21" right
 <span style="color:red">*X*</span> Electric Tricycles=Carriages. supply stations at all Hotels in Country to recharge batteries.
 
-<span style="color:red">*XX How use?*</span> Lightning charges utilized= high rods—ends immersed
-Discovery large Source Gallium—
+ Lightning charges utilized= high rods—ends immersed
+<span style="color:red">*XX How use?*</span>Discovery large Source Gallium—
+
 Grape sugar displaces Cane sugar as investigation proved that Cane sugar is not the natural sugar of man being a Crystaline product artificial to man—a 
+
 That the white blood capscules of the blood were the policemen of organized beings against Microbes— that the education & innuring of these Corpscules to Microbes of every Kind it was learned to meet their attacks, that Chemical poisonsb were rendered innocouus by the efforts of Corpscule—
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="23" right
 That compound virusb consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis.b <Erysipelass>c Typhoid Yellow scarlest & malerial fever &b several other diseasesb of microbic origin were given all the scholars children butb one innoculation every 7 years by Law— That the diseases mentioned had become rare.
-All habituald criminals were isolated Inb districts—sex during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
+
+ All habituald criminals were isolated Inb districts—sex during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
+
 physiosgonmyb an Exact science— criminal propensities plain to all men— hence all being warned the struggle for Existence of those Criminally inclined difficult causing rapid elimination by Evolution artifically produced
 ABCD
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="22" right
 <span style="color:red">*X*</span> The street pavements softest norway iron laidb on rubber, also like wire seiving inch bars filled withe blocks, with iron powder held on magnetismf 
+    
 [Perm?]—g Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
 ABEFG
-<span style="color:red">*X*</span>f lexible window glass artificial Mica. <span style="color:red">*How made?*</span> <OK>
-A
+<span style="color:red">*X*</span>flexible window glass artificial Mica. <span style="color:red">*How made?*</span> <OK>
+
 <span style="color:red">*X*</span> Lubrication at high temperature by the Bromineb substitution Compounds of the Hydrocarbons
-AB
+
 <span style="color:red">*X What shall we do with it?*</span> Discovery of an ore contai in Hudson Bay Country containing a metal giving the Unknown Spectroscopic Line Helium of the sunf
 AF
 <span style="color:red">*X More details about it*</span> Compound Telescope 52 lLenses 4 feet dia focused same spot.f
