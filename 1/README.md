@@ -88,17 +88,17 @@ Cyclones were found to be do to the a change in the the Electrical Conditions at
 Electricity ==direct from=={description="partially obscured"} coal—described in another law
 Gas used for heat. Electricity for Light & power 40 700 candles per 1 lb of pure Carbon per hour—
 
-==Glow worm?=={description="underlined by Lathrop"}— not popular— striving for perfect steadiness, beautiful ==eyes?=={description="obscured, overwritten text"} no irritation—
+<span style="color:red">*X Glow worm?*</span>— not popular— striving for perfect steadiness, beautiful ==eyes?=={description="obscured, overwritten text"} no irritation—
 Darwinian Society at Para. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
 Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100,000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
 
-==Details?=={description="marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations Trans Method Construction of the ==molecules of=={description="molecules of"} Carbohydrates and methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
+<span style="color:red">*X Details?*</span> Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations Trans Method Construction of the ==molecules of=={description="molecules of"} Carbohydrates and methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
 
-==Turpentine by Vacuum=={description="Lathrop’s marginalia followed by vertical red line."}— **OK** 
+<span style="color:red">*X*</span> Turpentine by Vacuum — **OK** 
 Factories auto run by one man.
 Siberian Railroad,— RR from Alaska to End Chili Central African RR—
 
-Microbes propylectic
+<span style="color:red">*X*</span> Microbes propylectic
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="26" right	
@@ -106,17 +106,17 @@ state children— paring Longlivity custodians of knowledge—
 Music by telephone.
 Phonogh newspapers—Operas— **OK** 
 
- Kinetoscopic Operas with phono Every family wealth. **OK**
+<span style="color:red">*X*</span> Kinetoscopic Operas with phono Every family wealth. **OK**
 
-New teeth started by Calcerousb antispierized bandages
+<span style="color:red">*X*</span> New teeth started by Calcerousb antispierized bandages
 
-Bald headness due to want circulation ventilation open hats.
+<span style="color:red">*X*</span> Bald headness due to want circulation ventilation open hats.
 
-Artificial Silk—
+<span style="color:red">*X*</span> Artificial Silk—
 
-Leather from Gelatin Vegetable gelatin:b fixation of N in Carbohydrates Electrically.
+<span style="color:red">*X*</span> Leather from Gelatin Vegetable gelatin: fixation of N in Carbohydrates Electrically.
 
-fixation Electrically of Nitrogen in ==-=={description="Canceled."} Electrical Machinery ==Each farm?=={description="underlined by Lathrop"} by wind to fix Nitrogen in soil— Luxuriant Vegitation.
+fixation Electrically of Nitrogen in ==-=={description="Canceled."} Electrical Machinery Each farm<span style="color:red">*?*</span> by wind to fix Nitrogen in soil— Luxuriant Vegitation.
 
 Sun Engines— Sun Light directly into Electricity
 
