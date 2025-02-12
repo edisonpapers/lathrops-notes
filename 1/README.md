@@ -86,7 +86,9 @@ Cyclones were found to be do to the a change in the the Electrical Conditions at
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="32" right
 <span style="color:red">*X*</span> Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
+
 Electricity ==direct from=={description="partially obscured"} coal—described in another law
+
 Gas used for heat. Electricity for Light & power 40 700 candles per 1 lb of pure Carbon per hour—
 
 <span style="color:red">*X Glow worm?*</span>— not popular— striving for perfect steadiness, beautiful ==eyes?=={description="obscured, overwritten text"} no irritation—
