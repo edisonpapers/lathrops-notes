@@ -34,7 +34,7 @@ Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boil
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="27" right
-neutralization of gravitation by a  ==a molecular Screen=={description="underlined by Lathrop"} regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheild adjusted to attain speeds of 100,000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5 hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
+neutralization of gravitation by a  <span style="color:red">*X*</span>==a molecular Screen=={description="underlined by Lathrop"} regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheild adjusted to attain speeds of 100,000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5 hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
 
 <span style="color:red">*X*</span> Artesian Bore holes. 135,000 feet deep temperature of 400?— Source of power. central pipe.
 
