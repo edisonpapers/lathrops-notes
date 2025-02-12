@@ -34,6 +34,7 @@ ABEFG
 <span style="color:red">*X What shall we do with it?*</span> Discovery of an ore contai in Hudson Bay Country containing a metal giving the Unknown Spectroscopic Line Helium of the sunf
 AF
 <span style="color:red">*X More details about it*</span> Compound Telescope 52 lLenses 4 feet dia focused same spot.f
+
 parafined wag wagon wheels coated with Napthaline prevent adhesion of mud— 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="25" right
@@ -41,6 +42,7 @@ parafined wag wagon wheels coated with Napthaline prevent adhesion of mud—
 \ph-1\
 	
 wagon wheels for sandy countries with side flanges prevent moving of sand sidewise & sinking & rendering all the power lost by displacement & friction conserved— 
+
 Mowing machines run by electro motors trolley wire system—
 AF
 <span style="color:red">*X*</span> Iron by electrolysis—
@@ -48,6 +50,7 @@ A
 <span style="color:red">*X*</span> Mfr Oxygen by passing air over molten Titanium.
 A
 <span style="color:red">*X*</span> Soft pig iron slow cooling—
+
 Carriage horses provided by small receptible for Nitrite Amyl which connected by safety string to Carriage almost instantly benumbed the horse when attempting to run away■<OK>
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="24" right
