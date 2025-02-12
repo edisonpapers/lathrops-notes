@@ -72,16 +72,22 @@ Animal matter not used fixation of nitrogen produced vegitable nitrogenous artic
 applies Electricity foot dia— dif quant sugar etc artfcl Light
 
 <span style="color:red">*X*</span> Hypnotizg Machine—
+
 Cannon balls form cannot. Cannon prevent busting by 2nd Chamber outside to make Counter pressure
+
 Forts defender  solid streams of water on 50,000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
 Everything so efficient & deadly war obselete keept up for show—
+
 Panama—canal— work up ship RR biz—
 
 <span style="color:red">*X*</span> Color Music—
 7th Sense—
 Gold Silver transformed from Lead— Platinum not yet transformable—
+
 Military Signally—
+
 <span style="color:red">*X*</span> Ocean teleghy between ships at sea
+
 Cyclones were found to be do to the a change in the the Electrical Conditions atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="32" right
