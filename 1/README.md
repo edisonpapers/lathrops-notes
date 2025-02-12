@@ -51,41 +51,40 @@ using large bricks everything laid by machinery Controlled by few men
 
 Carbonado made by fusing Syrian asphalt in steel ==pure iron=={description="interlined above"} shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the ==steel iron=={description="interlined above"} bath to the temperature of melting—softening.
 
-Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide of Carbon in glass bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & electrom plating pure Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
+Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide <span style="color:red">*X*</span> of Carbon in glass bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & electrom plating pure Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
 
 Society of Harmonic Curves
 Currency of a country based on the taxable property of the Country ==which are covered?=={description="Canceled"} taxable Values on more scientific & exact basis— platina only used as small change & of as token character
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
 	Aluminium=
-Rigid Road bed banded driving wheels for elasticity.
+<span style="color:red">*X*</span> Rigid Road bed banded driving wheels for elasticity.
 Music instruments controlled by Jacquard tapes. 
 Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
 
-Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiled==Detail?=={description="Lathrop underlined “boiled,” added the “?,” and drew a line to “Detail?” above."} & worked like wood fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusing surfaces together.
+Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiled<span style="color:red">*X Detail?*</span> & worked like wood fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusing surfaces together.
 Animal matter not used fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
 
-Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
+<span style="color:red">*X*</span> Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="31" right
 applies Electricity foot dia— dif quant sugar etc artfcl Light
 
-Hypnotizg Machine—
+<span style="color:red">*X*</span> Hypnotizg Machine—
 Cannon balls form cannot. Cannon prevent busting by 2nd Chamber outside to make Counter pressure
 Forts defender  solid streams of water on 50,000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
 Everything so efficient & deadly war obselete keept up for show—
 Panama—canal— work up ship RR biz—
 
-Color Music—
+<span style="color:red">*X*</span> Color Music—
 7th Sense—
 Gold Silver transformed from Lead— Platinum not yet transformable—
 Military Signally—
-
-Ocean teleghy between ships at sea
+<span style="color:red">*X*</span>Ocean teleghy between ships at sea
 Cyclones were found to be do to the a change in the the Electrical Conditions atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="32" right
- Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
+<span style="color:red">*X*</span> Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
 Electricity ==direct from=={description="partially obscured"} coal—described in another law
 Gas used for heat. Electricity for Light & power 40 700 candles per 1 lb of pure Carbon per hour—
 
