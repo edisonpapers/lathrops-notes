@@ -98,7 +98,8 @@ Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metam
 Factories auto run by one man.
 Siberian Railroad,— RR from Alaska to End Chili Central African RR—
 
-==X=={description="marginalia added by Lathrop"}.Microbes propylectic.
+==X=={description="marginalia added by Lathrop"}.Microbes propylectic
+
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="26" right	
 state children— paring Longlivity custodians of knowledge—
