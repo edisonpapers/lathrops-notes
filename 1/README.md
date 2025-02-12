@@ -127,11 +127,11 @@ Photography colors—
 photoghy of surface sun by iron salts in a alternating field— only ultra waves due to high temperatures.
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="33" right	
-==X=={description="marginalia added by Lathrop"}. System street RR suburbian
+System street RR suburbian
 
-==X=={description="marginalia added by Lathrop"}. Glass squirted.
+Glass squirted.
 
-==X=={description="marginalia added by Lathrop"}. Pottery dried Vac— Vitrified instantly by nitre on surface—
+ Pottery dried Vac— Vitrified instantly by nitre on surface—
 
-==X=={description="marginalia added by Lathrop"}. Shoes moulded.
+Shoes moulded.
 	Improvements in Newspaper 
