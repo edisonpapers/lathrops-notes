@@ -7,13 +7,13 @@ To see more information about the notes, hover over underlined words or letters 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="28" right
 
-1 <span style="color:red">*X*</span> Tele(rap)hic communication Mars. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet.**OK**
+1 <span style="color:red">*X*</span> Tele(rap)hic communication Mars. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet. **OK**
     
-2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether.**OK**
+2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether. **OK**
     
-3 Germs came on our Ether from rock entering our atmosphere at about same velocity==**OK**=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+3 Germs came on our Ether from rock entering our atmosphere at about same velocity **OK**
 
-4 <span style="color:red">*X*</span> 6th sense. Terpenes periodic. What apparatus for utilizing this? ==**OK**=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+4 <span style="color:red">*X*</span> 6th sense. Terpenes periodic. What apparatus for utilizing this? **OK** 
 
 5 <span style="color:red">*X*</span> Electric Locomotion in Cities Licensed wagons.
 
