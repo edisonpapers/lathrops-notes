@@ -57,4 +57,3 @@ Carriage horses provided by small receptible for Nitrite Amyl which connected by
 
 Sterilization of vast areas of Tropical Lands by Crude petroleum changed the rainfall permitting the adjacent Lands to be kept clear of excessive growths. 
 Enormous Coffee—Gutta Percha & Rubber farms
-A
