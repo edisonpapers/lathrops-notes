@@ -10,15 +10,15 @@ Edison wrote this set in pencil on five pages. The editors have arranged the tex
  
 <span style="color:red">*XX How use?*</span> Discovery large Source Gallium—
 
-Grape sugar displaces Cane sugar as investigation proved that Cane sugar is not the natural sugar of man being a Crystaline product artificial to man—a 
+Grape sugar displaces Cane sugar as investigation proved that Cane sugar is not the natural sugar of man being a Crystaline product artificial to man—
 
 That the white blood capscules of the blood were the policemen of organized beings against Microbes— that the education & innuring of these Corpscules to Microbes of every Kind it was learned to meet their attacks, that Chemical poisonsb were rendered innocouus by the efforts of Corpscule—
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="23" right
-That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. ==Erysipelass=={description="interlined above by Lathrop"} Typhoid Yellow scarlest & malerial fever & several other diseasesb of microbic origin were given all the scholars children butb one innoculation every 7 years by Law— That the diseases mentioned had become rare.
+That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. ==Erysipelass=={description="interlined above by Lathrop"} Typhoid Yellow scarlest & malerial fever & several other diseasesb of microbic origin were given all the scholars children but one innoculation every 7 years by Law— That the diseases mentioned had become rare.
 
- All habituald criminals were isolated In districts—sex during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
+ All habitual criminals were isolated In districts—sex during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
 
 physiosgonmy an Exact science— criminal propensities plain to all men— hence all being warned the struggle for Existence of those Criminally inclined difficult causing rapid elimination by Evolution artifically produced
 
@@ -28,7 +28,7 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
     
 ==Perm?=={description="cancelled"} Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
 
-<span style="color:red">*X*</span>flexible window glass artificial Mica. <span style="color:red">*How made?*</span> <OK>
+<span style="color:red">*X*</span> flexible window glass artificial Mica. <span style="color:red">*How made?*</span> <OK>
 
 <span style="color:red">*X*</span> Lubrication at high temperature by the Bromineb substitution Compounds of the Hydrocarbons
 
