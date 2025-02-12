@@ -7,7 +7,7 @@ Edison wrote this set in pencil on five pages. The editors have arranged the tex
 <span style="color:red">*X*</span> Electric Tricycles=Carriages. supply stations at all Hotels in Country to recharge batteries.
 
  Lightning charges utilized= high rods—ends immersed
-<span style="color:red">*XX How use?*</span>Discovery large Source Gallium—
+<span style="color:red">*XX How use?*</span> Discovery large Source Gallium—
 
 Grape sugar displaces Cane sugar as investigation proved that Cane sugar is not the natural sugar of man being a Crystaline product artificial to man—a 
 
