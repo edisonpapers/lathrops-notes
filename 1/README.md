@@ -9,23 +9,23 @@ To see more information about the notes, hover over underlined words or letters 
 
 ==X=={description="marginalia added by Lathrop"}.  1 Tele(rap)hic communication Mars. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet.==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
     
-==X=={description= "marginalia added by Lathrop"}. 2 Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences■matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines■Tail being an electric stress in the ether.==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+==X=={description="marginalia added by Lathrop"}. 2 Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences■matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines■Tail being an electric stress in the ether.==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
     
 3 Germs came on our Ether from rock entering our atmosphere at about same velocity= ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
-==X=={description= "marginalia added by Lathrop"}. 4 6th sense. Terpenes periodic. What apparatus for utilizing this?> ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+==X=={description="marginalia added by Lathrop"}. 4 6th sense. Terpenes periodic. What apparatus for utilizing this?> ==OK=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
-==X=={description= "marginalia added by Lathrop"}. 5 Electric Locomotion in Cities Licensed wagons.
+==X=={description="marginalia added by Lathrop"}. 5 Electric Locomotion in Cities Licensed wagons.
 
-==X=={description= "marginalia added by Lathrop"}. ==6=={description="Edison drew a circle around the numbers 6, 7, and 8."} Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, frictionb to work done being too great.
+==X=={description="marginalia added by Lathrop"}. ==6=={description="Edison drew a circle around the numbers 6, 7, and 8."} Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, frictionb to work done being too great.
 
 ==7=={description="Edison drew a circle around the numbers 6, 7, and 8."} Direct thrust— Sailsb done away with wave motion used to condense air— ==OK=={description="Edison’s “OK” followed by vertical lines to indicate combination of items 6 and 7."}.
 
-==X=={description= "marginalia added by Lathrop"}. ==8=={description="Edison drew a circle to connect “8" to its text."} Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
+==X=={description="marginalia added by Lathrop"}. ==8=={description="Edison drew a circle to connect “8" to its text."} Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
 
 9 going NS & EW— blown out line generate current to put them back in line magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps continuous proper altitude. Caught by sails on Towers— ==OK=={description="Edison’s “OK” followed by vertical line to indicate combination of items 8 and 9."}
 
-==X=={description= "marginalia added by Lathrop"}. Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—== Pig iron steel m=={description="Underlined by Lathrop."} made from steel by passing current thr pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
+==X=={description="marginalia added by Lathrop"}. Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—== Pig iron steel m=={description="Underlined by Lathrop."} made from steel by passing current thr pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
 
 X ==What new force?=={description="Lathrop’s marginalia followed by vertical red line"}. Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
 
