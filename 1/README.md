@@ -65,7 +65,7 @@ Phono publishing houses Kept star Cos of actors & stage and produced for family 
 Animal matter not used fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
 
 ==X=={description="marginalia added by Lathrop"}. Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
-
+##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="31" right
 applies Electricity foot dia— dif quant sugar etc artfcl Light
 
