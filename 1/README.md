@@ -42,7 +42,7 @@ X ==To accomplish what?=={description= "marginalia added by Lathrop"}. Disassoci
 
 Artifici]l mother pearl by dipping plates. 
 
-==X=={description="marginalia added by Lathrop"}. Photography in the dark by radiant heat.
+Photography in the dark by radiant heat.
 
 ##        
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="29" right
@@ -50,21 +50,21 @@ using large bricks everything laid by machinery Controlled by few men
 
 Carbonado made by fusing Syrian asphalt in steel ==pure iron=={description="interlined above"} shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the ==steel iron=={description="interlined above"} bath to the temperature of melting—softening.
 
-==X=={description="marginalia added by Lathrop"}. Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide of Carbon in glass bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & electrom plating pure Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
+Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide of Carbon in glass bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & electrom plating pure Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
 
 Society of Harmonic Curves
 Currency of a country based on the taxable property of the Country ==which are covered?=={description="Canceled"} taxable Values on more scientific & exact basis— platina only used as small change & of as token character
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
 	Aluminium=
-==X=={description="marginalia added by Lathrop"}. Rigid Road bed banded driving wheels for elasticity.
-Music instruments controlledb by Jacquard tapes. 
+Rigid Road bed banded driving wheels for elasticity.
+Music instruments controlled by Jacquard tapes. 
 Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
 
-==X=={description="marginalia added by Lathrop"}. Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiled==Detail?=={description="Lathrop underlined “boiled,” added the “?,” and drew a line to “Detail?” above."} & worked like wood fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusing surfaces together.
+Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiled==Detail?=={description="Lathrop underlined “boiled,” added the “?,” and drew a line to “Detail?” above."} & worked like wood fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusing surfaces together.
 Animal matter not used fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
 
-==X=={description="marginalia added by Lathrop"}. Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
+Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="31" right
 applies Electricity foot dia— dif quant sugar etc artfcl Light
