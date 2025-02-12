@@ -129,9 +129,9 @@ Phonogh newspapers—Operas— <OK>
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="33" right	
 ==X=={description="marginalia added by Lathrop"}. System street RR suburbian
 
-==X=={description= "marginalia added by Lathrop"}. Glass squirted.
+==X=={description="marginalia added by Lathrop"}. Glass squirted.
 
-==X=={description= "marginalia added by Lathrop"}. Pottery dried Vac— Vitrified instantly by nitre on surface—
+==X=={description="marginalia added by Lathrop"}. Pottery dried Vac— Vitrified instantly by nitre on surface—
 
-==X=={description= "marginalia added by Lathrop"}. Shoes moulded.
+==X=={description="marginalia added by Lathrop"}. Shoes moulded.
 	Improvements in Newspaper 
