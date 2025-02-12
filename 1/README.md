@@ -69,32 +69,32 @@ Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Va
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="31" right
 applies Electricity foot dia— dif quant sugar etc artfcl Light
 
-==X=={description="marginalia added by Lathrop"}. Hypnotizg Machine—
+Hypnotizg Machine—
 Cannon balls form cannot. Cannon prevent busting by 2nd Chamber outside to make Counter pressure
 Forts defender  solid streams of water on 50,000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
 Everything so efficient & deadly war obselete keept up for show—
 Panama—canal— work up ship RR biz—
 
-==X=={description="marginalia added by Lathrop"}. Color Music—
+Color Music—
 7th Sense—
 Gold Silver transformed from Lead— Platinum not yet transformable—
 Military Signally—
 
-==X=={description="marginalia added by Lathrop"}. Ocean teleghy between ships at sea
+Ocean teleghy between ships at sea
 Cyclones were found to be do to the a change in the the Electrical Conditions atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="32" right
-==X=={description="marginalia added by Lathrop"}. Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
+ Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
 Electricity ==direct from=={description="partially obscured"} coal—described in another law
-Gas used for heat. Electricity for Light & power■40 700 candles per 1 lb of pure Carbon per hour—
+Gas used for heat. Electricity for Light & power 40 700 candles per 1 lb of pure Carbon per hour—
 
-==X=={description="marginalia added by Lathrop"}. ==Glow worm?=={description="underlined by Lathrop"}— not popular— striving for perfect steadiness, beautiful [eyes?]b no irritation—
+==Glow worm?=={description="underlined by Lathrop"}— not popular— striving for perfect steadiness, beautiful ==eyes?=={description="obscured, overwritten text"} no irritation—
 Darwinian Society at Para. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
 Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100,000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
 
-==X Details?=={description="marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations■Trans Method Construction of the ==molecules of=={description="molecules of"} Carbohydrates and methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
+==Details?=={description="marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations■Trans Method Construction of the ==molecules of=={description="molecules of"} Carbohydrates and methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
 
-==X=={description="marginalia added by Lathrop"}. ==Turpentine by Vacuum=={description="Lathrop’s marginalia followed by vertical red line."}— <OK> 
+==Turpentine by Vacuum=={description="Lathrop’s marginalia followed by vertical red line."}— <OK> 
 Factories auto run by one man.
 Siberian Railroad,— RR from Alaska to End Chili Central African RR—
 
