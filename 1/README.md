@@ -37,7 +37,8 @@ Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boil
 neutralization of gravitation by a  ==a molecular Screen=={description="underlined by Lathrop"} regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheild adjusted to attain speeds of 100,000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5 hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
 
 <span style="color:red">*X*</span> Artesian Bore holes. 135,000 feet deep temperature of 400?— Source of power. central pipe.
-Dropping Dynamite from Balloonsb—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
+
+Dropping Dynamite from Balloons—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
 
 <span style="color:red">*X To accomplish what?*</span> Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacua powerful temperature
 
@@ -54,16 +55,20 @@ Carbonado made by fusing Syrian asphalt in steel ==pure iron=={description="inte
 Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide <span style="color:red">*X*</span> of Carbon in glass bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & electrom plating pure Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
 
 Society of Harmonic Curves
+
 Currency of a country based on the taxable property of the Country ==which are covered?=={description="Canceled"} taxable Values on more scientific & exact basis— platina only used as small change & of as token character
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
 Aluminium=
 
 <span style="color:red">*X*</span> Rigid Road bed banded driving wheels for elasticity.
+
 Music instruments controlled by Jacquard tapes. 
+
 Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
 
 Artificial Wood formed of compressed chloro-Celluloser Chlorinized & asbestos fibre & Talc—with solvent boiled<span style="color:red">*X Detail?*</span> & worked like wood fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusing surfaces together.
+
 Animal matter not used fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
 
 <span style="color:red">*X*</span> Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
