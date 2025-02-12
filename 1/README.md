@@ -57,7 +57,6 @@ Currency of a country based on the taxable property of the Country ==which are c
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
 	Aluminium=
-P
 ==X=={description= "marginalia added by Lathrop"}. Rigid Road bed banded driving wheels for elasticity.
 Music instruments controlledb by Jacquard tapes. 
 Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
@@ -87,20 +86,20 @@ Cyclones were found to be do to the a change in the the Electrical Conditionsb a
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="32" right
 ==X=={description= "marginalia added by Lathrop"}. Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
-Electricity direct fromt coal—described in another law
+Electricity ==direct from=={description="partially obscured"} coal—described in another law
 Gas used for heat. Electricity for Light & power■40 700 candles per 1 lb of pure Carbon per hour—
-T
-==X=={description= "marginalia added by Lathrop"}. Glow wormi <?>a— not popular— striving for perfect steadiness, beautiful [eyes?]b no irritation—
+
+==X=={description= "marginalia added by Lathrop"}. ==Glow worm?=={description="underlined by Lathrop"}— not popular— striving for perfect steadiness, beautiful [eyes?]b no irritation—
 Darwinian Society at Para. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
-Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100▪000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
-I
-==X=={description= "marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations■Trans Method Construction of the molecules ofu Carbohydrates andb methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
-U
+Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100,000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
+
+==X Details?=={description= "marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations■Trans Method Construction of the ==molecules of=={description="molecules of"} Carbohydrates and methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
+
 ==X=={description= "marginalia added by Lathrop"}.k■==Turpentine by Vacuum=={description="Lathrop’s marginalia followed by vertical red line."}— <OK> 
 Factories auto run by one man.
-Siberian Railroad,— RR from Alaska to End Chili■Centralb African RR—
+Siberian Railroad,— RR from Alaska to End Chili Central African RR—
 
-==X=={description= "marginalia added by Lathrop"}.Microbesb propylectic.
+==X=={description= "marginalia added by Lathrop"}.Microbes propylectic.
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="26" right	
 state children— paring Longlivity custodians of knowledge—
@@ -111,13 +110,13 @@ Phonogh newspapers—Operas— <OK>
 
 ==X=={description= "marginalia added by Lathrop"}. New teeth started by Calcerousb antispierized bandages
 
-==X=={description= "marginalia added by Lathrop"}. Bald headness due to want circulation ventilation■open hats.
+==X=={description= "marginalia added by Lathrop"}. Bald headness due to want circulation ventilation open hats.
 
 ==X=={description= "marginalia added by Lathrop"}. Artificial Silk—
 
-==X=={description= "marginalia added by Lathrop"}. "■■Leather from Gelatin Vegetable gelatin:b fixation of N in Carbohydrates Electrically.
+==X=={description= "marginalia added by Lathrop"}. " Leather from Gelatin Vegetable gelatin:b fixation of N in Carbohydrates Electrically.
 
-==X=={description= "marginalia added by Lathrop"}. fixation Electrically of Nitrogen in ==-=={description="Canceled."} Electrical Machinery Each farmi <?>a by wind to fix Nitrogen in soil— Luxuriant Vegitation.
+==X=={description= "marginalia added by Lathrop"}. fixation Electrically of Nitrogen in ==-=={description="Canceled."} Electrical Machinery ==Each farm?=={description="underlined by Lathrop"} by wind to fix Nitrogen in soil— Luxuriant Vegitation.
 I
 ==X=={description= "marginalia added by Lathrop"}. Sun Engines— Sun Light directly into Electricity
 
@@ -128,7 +127,7 @@ I
 ==X=={description= "marginalia added by Lathrop"}. photoghy of surface sun by iron salts in a alternating field— only ultra waves due to high temperatures.
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="33" right	
-==X=={description= "marginalia added by Lathrop"}. System street RR suburbianb
+==X=={description= "marginalia added by Lathrop"}. System street RR suburbian
 
 ==X=={description= "marginalia added by Lathrop"}. Glass squirted.
 
@@ -136,25 +135,3 @@ I
 
 ==X=={description= "marginalia added by Lathrop"}. Shoes moulded.
 	Improvements in Newspaper 
-
-
- cParagraph followed by dividing mark.
- dEdison drew a line connecting his “OK” notations on items 1–4.
- eEdison drew a circle around the numbers 6, 7, and 8.
- fEdison’s “OK” followed by vertical lines to indicate combination of items 6 and 7.
- gEdison drew a circle to connect “8" to its text. 
-hEdison’s “OK” followed by vertical line to indicate combination of items 8 and 9.
- iUnderlined by Lathrop. 
-j“steel m” interlined above. 
-kLathrop’s marginalia followed by vertical red line.
- lParagraph overwritten by Edison’s large “X.” 
-mInterlined above. 
-nEdison's “OK” followed by vertical line through paragraph. 
-o“a molecular screen” underlined by Lathrop. 
-pCanceled. 
-q“pure iron” interlined above. 
-r“chloro-” interlined above. 
-sLathrop underlined “boiled,” added the “?,” and drew a line to “Detail?” above. 
-t“direct from” partially obscured by diagonal lines. 
-u“molecules of” interlined above. 
-v“Teleghg Kept up” circled by Edison.
