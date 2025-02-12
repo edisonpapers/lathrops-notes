@@ -51,14 +51,13 @@ using large bricks everything laid by machinery Controlled by few men
 
 Carbonado made by fusing Syrian asphalt in steel ==pure iron=={description="interlined above"} shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the ==steel iron=={description="interlined above"} bath to the temperature of melting—softening.
 
-Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide 
-<span style="color:red">*X*</span> of Carbon in glass bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & electrom plating pure Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
+Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide <span style="color:red">*X*</span> of Carbon in glass bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & electrom plating pure Iron over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
 
 Society of Harmonic Curves
 Currency of a country based on the taxable property of the Country ==which are covered?=={description="Canceled"} taxable Values on more scientific & exact basis— platina only used as small change & of as token character
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
-	Aluminium=
+Aluminium=
 <span style="color:red">*X*</span> Rigid Road bed banded driving wheels for elasticity.
 Music instruments controlled by Jacquard tapes. 
 Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
