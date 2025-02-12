@@ -25,7 +25,7 @@ To see more information about the notes, hover over underlined words or letters 
 
 9 going NS & EW— blown out line generate current to put them back in line magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps continuous proper altitude. Caught by sails on Towers— ==**OK**=={description="Edison’s “OK” followed by vertical line to indicate combination of items 8 and 9."}
 
-<span style="color:red">*X*</span> Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—== Pig iron steel m=={description="Underlined by Lathrop."} made from steel by passing current thr pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
+<span style="color:red">*X*</span> Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—==Pig iron steel=={description="Underlined by Lathrop."} made from steel by passing current thr pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
 
 <span style="color:red">*X What new force?*</span>
 Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
