@@ -81,7 +81,7 @@ Panama—canal— work up ship RR biz—
 7th Sense—
 Gold Silver transformed from Lead— Platinum not yet transformable—
 Military Signally—
-<span style="color:red">*X*</span>Ocean teleghy between ships at sea
+<span style="color:red">*X*</span> Ocean teleghy between ships at sea
 Cyclones were found to be do to the a change in the the Electrical Conditions atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="32" right
@@ -96,7 +96,9 @@ Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metam
 <span style="color:red">*X Details?*</span> Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations Trans Method Construction of the ==molecules of=={description="molecules of"} Carbohydrates and methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
 
 <span style="color:red">*X*</span> Turpentine by Vacuum — **OK** 
+
 Factories auto run by one man.
+
 Siberian Railroad,— RR from Alaska to End Chili Central African RR—
 
 <span style="color:red">*X*</span> Microbes propylectic
