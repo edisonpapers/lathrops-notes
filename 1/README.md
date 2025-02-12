@@ -91,6 +91,7 @@ Gas used for heat. Electricity for Light & power 40 700 candles per 1 lb of pure
 
 <span style="color:red">*X Glow worm?*</span>— not popular— striving for perfect steadiness, beautiful ==eyes?=={description="obscured, overwritten text"} no irritation—
 Darwinian Society at Para. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
+
 Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100,000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
 
 <span style="color:red">*X Details?*</span> Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations Trans Method Construction of the ==molecules of=={description="molecules of"} Carbohydrates and methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
