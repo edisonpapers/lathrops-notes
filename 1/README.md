@@ -27,7 +27,7 @@ To see more information about the notes, hover over underlined words or letters 
 
 Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—== Pig iron steel m=={description="Underlined by Lathrop."} made from steel by passing current thr pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
 
-X ==What new force?=={description="Lathrop’s marginalia followed by vertical red line"}. Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
+==What new force?=={description="Lathrop’s marginalia followed by vertical red line"}. Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
 
 Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels animation thus preventing decomposition by the action of Bacteria internal & external= reanimated by Exhaustion of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action
 
@@ -38,7 +38,7 @@ neutralization of gravitation by a  ==a molecular Screen=={description="underlin
 Artesian Bore holes. 135,000 feet deep temperature of 400?— Source of power. central pipe.
 Dropping Dynamite from Balloonsb—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
 
-X ==To accomplish what?=={description= "marginalia added by Lathrop"}. Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacua powerful temperature
+==To accomplish what?=={description= "marginalia added by Lathrop"}. Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacua powerful temperature
 
 Artifici]l mother pearl by dipping plates. 
 
@@ -92,39 +92,39 @@ Gas used for heat. Electricity for Light & power 40 700 candles per 1 lb of pure
 Darwinian Society at Para. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
 Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100,000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
 
-==Details?=={description="marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations■Trans Method Construction of the ==molecules of=={description="molecules of"} Carbohydrates and methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
+==Details?=={description="marginalia added by Lathrop"}. Starch Sugar. a protein substances made in immense quantities by factors onb the Amazons Indiab & Afraica from woody fibre by Chemical transformations Trans Method Construction of the ==molecules of=={description="molecules of"} Carbohydrates and methods of rearranging the construction having been constructed discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
 
-==Turpentine by Vacuum=={description="Lathrop’s marginalia followed by vertical red line."}— <OK> 
+==Turpentine by Vacuum=={description="Lathrop’s marginalia followed by vertical red line."}— **OK** 
 Factories auto run by one man.
 Siberian Railroad,— RR from Alaska to End Chili Central African RR—
 
-==X=={description="marginalia added by Lathrop"}.Microbes propylectic
+Microbes propylectic
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="26" right	
 state children— paring Longlivity custodians of knowledge—
 Music by telephone.
-Phonogh newspapers—Operas— <OK> 
+Phonogh newspapers—Operas— **OK** 
 
-==X=={description="marginalia added by Lathrop"}. Kinetoscopic Operas with phono Every family wealth. <OK> 
+ Kinetoscopic Operas with phono Every family wealth. **OK**
 
-==X=={description="marginalia added by Lathrop"}. New teeth started by Calcerousb antispierized bandages
+New teeth started by Calcerousb antispierized bandages
 
-==X=={description="marginalia added by Lathrop"}. Bald headness due to want circulation ventilation open hats.
+Bald headness due to want circulation ventilation open hats.
 
-==X=={description="marginalia added by Lathrop"}. Artificial Silk—
+Artificial Silk—
 
-==X=={description="marginalia added by Lathrop"}. " Leather from Gelatin Vegetable gelatin:b fixation of N in Carbohydrates Electrically.
+Leather from Gelatin Vegetable gelatin:b fixation of N in Carbohydrates Electrically.
 
-==X=={description="marginalia added by Lathrop"}. fixation Electrically of Nitrogen in ==-=={description="Canceled."} Electrical Machinery ==Each farm?=={description="underlined by Lathrop"} by wind to fix Nitrogen in soil— Luxuriant Vegitation.
+fixation Electrically of Nitrogen in ==-=={description="Canceled."} Electrical Machinery ==Each farm?=={description="underlined by Lathrop"} by wind to fix Nitrogen in soil— Luxuriant Vegitation.
 
-==X=={description="marginalia added by Lathrop"}. Sun Engines— Sun Light directly into Electricity
+Sun Engines— Sun Light directly into Electricity
 
-==X=={description="marginalia added by Lathrop"}. Reflecting telescopes 130 ft Dia. RR trains bldgs Cities Seen on Mars ==Teleghg Kept up=={description="circled by Edison."}.
+Reflecting telescopes 130 ft Dia. RR trains bldgs Cities Seen on Mars ==Teleghg Kept up=={description="circled by Edison."}.
 
-==X=={description="marginalia added by Lathrop"}. Photography colors—
+Photography colors—
 
-==X=={description="marginalia added by Lathrop"}. photoghy of surface sun by iron salts in a alternating field— only ultra waves due to high temperatures.
+photoghy of surface sun by iron salts in a alternating field— only ultra waves due to high temperatures.
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="33" right	
 ==X=={description="marginalia added by Lathrop"}. System street RR suburbian
