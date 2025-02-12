@@ -9,25 +9,26 @@ To see more information about the notes, hover over underlined words or letters 
 
 1 <span style="color:red">*X*</span> Tele(rap)hic communication Mars. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet.==**OK**=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
     
-2 Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether.==**OK**=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether.==**OK**=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
     
 3 Germs came on our Ether from rock entering our atmosphere at about same velocity==**OK**=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
-4 6th sense. Terpenes periodic. What apparatus for utilizing this? ==**OK**=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
+4 <span style="color:red">*X*</span> 6th sense. Terpenes periodic. What apparatus for utilizing this? ==**OK**=={description="Edison drew a line connecting his “OK” notations on items 1–4."}
 
-5 Electric Locomotion in Cities Licensed wagons.
+5 <span style="color:red">*X*</span> Electric Locomotion in Cities Licensed wagons.
 
 ==6=={description="Edison drew a circle around the numbers 6, 7, and 8."} Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, frictionb to work done being too great.
 
 ==7=={description="Edison drew a circle around the numbers 6, 7, and 8."} Direct thrust— Sailsb done away with wave motion used to condense air— ==**OK**=={description="Edison’s “OK” followed by vertical lines to indicate combination of items 6 and 7."}.
 
-==8=={description="Edison drew a circle to connect “8" to its text."} Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
+==8=={description="Edison drew a circle to connect “8" to its text."} <span style="color:red">*X*</span> Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
 
 9 going NS & EW— blown out line generate current to put them back in line magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps continuous proper altitude. Caught by sails on Towers— ==**OK**=={description="Edison’s “OK” followed by vertical line to indicate combination of items 8 and 9."}
 
-Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—== Pig iron steel m=={description="Underlined by Lathrop."} made from steel by passing current thr pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
+<span style="color:red">*X*</span> Pig iron made wrot iron puddled by whirling motion giving mechanicali & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—== Pig iron steel m=={description="Underlined by Lathrop."} made from steel by passing current thr pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
 
-==What new force?=={description="Lathrop’s marginalia followed by vertical red line"}. Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
+<span style="color:red">*X What new force?*</span>
+Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
 
 Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels animation thus preventing decomposition by the action of Bacteria internal & external= reanimated by Exhaustion of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action
 
@@ -35,14 +36,14 @@ Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boil
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="27" right
 neutralization of gravitation by a  ==a molecular Screen=={description="underlined by Lathrop"} regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheild adjusted to attain speeds of 100,000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5 hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
 
-Artesian Bore holes. 135,000 feet deep temperature of 400?— Source of power. central pipe.
+<span style="color:red">*X*</span> Artesian Bore holes. 135,000 feet deep temperature of 400?— Source of power. central pipe.
 Dropping Dynamite from Balloonsb—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
 
-==To accomplish what?=={description= "marginalia added by Lathrop"}. Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacua powerful temperature
+<span style="color:red">*X To accomplish what?*</span> Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacua powerful temperature
 
-Artifici]l mother pearl by dipping plates. 
+<span style="color:red">*X*</span> Artifici]l mother pearl by dipping plates. 
 
-Photography in the dark by radiant heat.
+<span style="color:red">*X*</span> Photography in the dark by radiant heat.
 
 ##        
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="29" right
