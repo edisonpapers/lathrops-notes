@@ -1,4 +1,4 @@
-# Edison's Pencil Notes
+# 2 Edison's Pencil Notes
 
 Edison wrote this set in pencil on five pages. The editors have arranged the text in the way that seems to provide the greatest internal coherence. This page sequence differs from that created earlier by an archivist.
 ##
