@@ -82,8 +82,7 @@ Military Signally—
 
 ==X=={description="marginalia added by Lathrop"}. Ocean teleghy between ships at sea
 Cyclones were found to be do to the a change in the the Electrical Conditions atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
-
-
+##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="32" right
 ==X=={description="marginalia added by Lathrop"}. Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
 Electricity ==direct from=={description="partially obscured"} coal—described in another law
@@ -100,7 +99,7 @@ Factories auto run by one man.
 Siberian Railroad,— RR from Alaska to End Chili Central African RR—
 
 ==X=={description="marginalia added by Lathrop"}.Microbes propylectic.
-
+##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="26" right	
 state children— paring Longlivity custodians of knowledge—
 Music by telephone.
