@@ -75,21 +75,21 @@ Forts defender  solid streams of water on 50,000 lbs of pressure square inch wit
 Everything so efficient & deadly war obselete keept up for show—
 Panama—canal— work up ship RR biz—
 
-==X=={description= "marginalia added by Lathrop"}. Color Music—
+==X=={description="marginalia added by Lathrop"}. Color Music—
 7th Sense—
 Gold Silver transformed from Lead— Platinum not yet transformable—
 Military Signally—
 
-==X=={description= "marginalia added by Lathrop"}. Ocean teleghy between ships at sea
-Cyclones were found to be do to the a change in the the Electrical Conditionsb atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
+==X=={description="marginalia added by Lathrop"}. Ocean teleghy between ships at sea
+Cyclones were found to be do to the a change in the the Electrical Conditions atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="32" right
-==X=={description= "marginalia added by Lathrop"}. Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
+==X=={description="marginalia added by Lathrop"}. Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
 Electricity ==direct from=={description="partially obscured"} coal—described in another law
 Gas used for heat. Electricity for Light & power■40 700 candles per 1 lb of pure Carbon per hour—
 
-==X=={description= "marginalia added by Lathrop"}. ==Glow worm?=={description="underlined by Lathrop"}— not popular— striving for perfect steadiness, beautiful [eyes?]b no irritation—
+==X=={description="marginalia added by Lathrop"}. ==Glow worm?=={description="underlined by Lathrop"}— not popular— striving for perfect steadiness, beautiful [eyes?]b no irritation—
 Darwinian Society at Para. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
 Exhumation of Copper slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100,000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
 
