@@ -1,7 +1,8 @@
 # Edison's Pencil Notes
 
 Edison wrote this set in pencil on five pages. The editors have arranged the text in the way that seems to provide the greatest internal coherence. This page sequence differs from that created earlier by an archivist.
-D9004AFW- Image 21
+##
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="21" right
 	<X>a■Electricb Tricycles=Carriages. supply stations at all Hotels in Country to recharge batteries.
 AB
 	<X X (How use?)>a■Lightning charges utilized= high rods—ends immersed
@@ -13,7 +14,8 @@ D9004AFW- Image 23
 	All habituald criminals were isolated Inb districts—sex during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
 	physiosgonmyb an Exact science— criminal propensities plain to all men— hence all being warned the struggle for Existence of those Criminally inclined difficult causing rapid elimination by Evolution artifically produced
 ABCD
-D9004AFW- Image 22
+##
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="22" right
 	<X>a■The street pavements softest norway iron laidb on rubber, also like wire seiving inch bars filled withe blocks, with iron powder held on magnetismf 
 	[Perm?]—g Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
 ABEFG
@@ -25,7 +27,9 @@ AB
 AF
 	<X■More details about it>a■Compound Telescope 52 lLenses 4 feet dia focused same spot.f
 	parafined wag wagon wheels coated with Napthaline prevent adhesion of mud— 
-D9004AFW- Image 25
+##
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="25" right
+
 \ph-1\
 	
 wagon wheels for sandy countries with side flanges prevent moving of sand sidewise & sinking & rendering all the power lost by displacement & friction conserved— 
@@ -37,17 +41,9 @@ A
 A
 	<X>a■Soft pig iron slow cooling—
 	Carriage horses provided by small receptible for Nitrite Amyl which connected by safety string to Carriage almost instantly benumbed the horse when attempting to run away■<OK>
-D9004AFW- Image 24
+##
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="24" right
+
 	Sterilization of vast areas of Tropical Lands by Crude petroleum changed the rainfall permitting the adjacent Lands to be kept clear of excessive growths. 
 	Enormous Coffee—Gutta Percha & Rubber farms
 A
-
-ADf, NjWOE, Edison Manuscripts (TAED PA3002). Marginalia by Edison unless marked otherwise. Lathrop’s marginalia and underlining made in red pencil unless marked otherwise. 
-aMarginalia by Lathrop. 
-bObscured overwritten text. 
-cInterlined above by Lathrop in black ink. 
-dInterlined above. 
-e“filled with” interlined above. 
-fParagraph followed by dividing mark. 
-gCanceled.
-
