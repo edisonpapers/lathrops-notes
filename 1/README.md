@@ -72,7 +72,7 @@ Society of Harmonic Curves
 
 Currency of a country based on the taxable property of the Country ==which are covered?=={description="Canceled"} taxable Values on more scientific & exact basis— platina only used as small change & of as token character
 ##
-https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="4" right
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="4" right
 Aluminium=
 
 <span style="color:red">*X*</span> Rigid Road bed banded driving wheels for elasticity.
