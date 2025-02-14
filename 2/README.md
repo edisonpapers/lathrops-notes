@@ -1,4 +1,14 @@
-# 2 Edison's Pencil Notes
+.ve-header "Edison’s Notes for George Parson’s Lathrop" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Essay" pct:3,23,80,20 center sticky
+
+    - [Home](/)
+    - [Introduction](/introduction)
+    - [Pen Notes](/1)
+    - [Pencil Notes](/2)
+    - [A](/3)
+    - [B](/4)
+    - [C](/5)
+    
+# 2 Pencil Notes
 
 Edison wrote this set in pencil on five pages. The editors have arranged the text in the way that seems to provide the greatest internal coherence. This page sequence differs from that created earlier by an archivist.
 
