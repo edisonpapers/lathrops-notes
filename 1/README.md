@@ -15,7 +15,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 To see more information about the notes, hover over underlined words or letters in the transcript on the left.
 ##
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="28" right
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="1" right
 
 1 <span style="color:red">*X*</span> Tele(rap)hic communication Mars. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet. **OK**
     
