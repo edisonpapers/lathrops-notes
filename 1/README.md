@@ -87,7 +87,7 @@ Animal matter not used fixation of nitrogen produced vegitable nitrogenous artic
 
 <span style="color:red">*X*</span> Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 ##
-https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="5" right
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="5" right
 applies Electricity foot dia— dif quant sugar etc artfcl Light
 
 <span style="color:red">*X*</span> Hypnotizg Machine—
@@ -109,7 +109,7 @@ Military Signally—
 
 Cyclones were found to be do to the a change in the the Electrical Conditions atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 ##
-https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="6" right
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="6" right
 <span style="color:red">*X*</span> Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
 
 Electricity ==direct from=={description="partially obscured"} coal—described in another law
@@ -133,7 +133,7 @@ Siberian Railroad,— RR from Alaska to End Chili Central African RR—
 <span style="color:red">*X*</span> Microbes propylectic
 
 ##
-https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="7" right	
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="7" right	
 state children— paring Longlivity custodians of knowledge—
 Music by telephone.
 
