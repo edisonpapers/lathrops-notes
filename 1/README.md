@@ -159,3 +159,5 @@ Cities Seen on Mars ==Teleghg Kept up=={description="circled by Edison."}.
 <span style="color:red">*X*</span> Shoes moulded.
 
 Improvements in Newspaper 
+
+put all 3 in my mental kaledescope to obtain a ==new combination=={description="Francis Galton pioneered composite photography, the technique of superimposing portrait photographs of individuals in order to draw out common physical traits (cf. Doc. 2852). Galton thought these common features might be markers of hereditary psychological traits or susceptibility to certain diseases. He therefore began making composite portraits of criminals and later made them of people suffering from various physical and mental illnesses. Galton published works on the making and interpretation of these portraits in 1878 and 1879."}
