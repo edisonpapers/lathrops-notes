@@ -43,7 +43,7 @@ Electric Signaling at seal, cloud flash—induction,—Cables using Thin Copper 
 Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels animation thus preventing decomposition by the action of Bacteria internal & external= reanimated by Exhaustion of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action
 
 ##
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="27" right
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="2" right
 neutralization of gravitation by a  <span style="color:red">*X*</span> ==a molecular Screen=={description="underlined by Lathrop"} regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheild adjusted to attain speeds of 100,000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5 hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
 
 <span style="color:red">*X*</span> Artesian Bore holes. 135,000 feet deep temperature of 400?— Source of power. central pipe.
@@ -57,7 +57,7 @@ Dropping Dynamite from Balloons—Warfare. Police ballons to prevent robbery fro
 <span style="color:red">*X*</span> Photography in the dark by radiant heat.
 
 ##        
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="29" right
+https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="3" right
 using large bricks everything laid by machinery Controlled by few men
 
 Carbonado made by fusing Syrian asphalt in steel ==pure iron=={description="interlined above"} shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the ==steel iron=={description="interlined above"} bath to the temperature of melting—softening.
@@ -68,7 +68,7 @@ Society of Harmonic Curves
 
 Currency of a country based on the taxable property of the Country ==which are covered?=={description="Canceled"} taxable Values on more scientific & exact basis— platina only used as small change & of as token character
 ##
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="30" right
+https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="4" right
 Aluminium=
 
 <span style="color:red">*X*</span> Rigid Road bed banded driving wheels for elasticity.
@@ -83,7 +83,7 @@ Animal matter not used fixation of nitrogen produced vegitable nitrogenous artic
 
 <span style="color:red">*X*</span> Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 ##
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="31" right
+https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="5" right
 applies Electricity foot dia— dif quant sugar etc artfcl Light
 
 <span style="color:red">*X*</span> Hypnotizg Machine—
@@ -105,7 +105,7 @@ Military Signally—
 
 Cyclones were found to be do to the a change in the the Electrical Conditions atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 ##
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="32" right
+https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="6" right
 <span style="color:red">*X*</span> Electric Loco—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
 
 Electricity ==direct from=={description="partially obscured"} coal—described in another law
@@ -129,7 +129,7 @@ Siberian Railroad,— RR from Alaska to End Chili Central African RR—
 <span style="color:red">*X*</span> Microbes propylectic
 
 ##
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="26" right	
+https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="7" right	
 state children— paring Longlivity custodians of knowledge—
 Music by telephone.
 
