@@ -10,7 +10,7 @@
     
 This site highlights the notes that Edison wrote for George Parsons Lathrop during their collaboration on a science fiction story. It is a collaboration between Edison Papers Director Paul Israel, graduate student Erin Mustard, who helps the project develop its digital and public humanities outreach, and Nicole Wines. Click on the links below to read an Introduction to the exhibit and each of the five Virtual Essays.
 
-### Read the Diary {.cards}
+### Read the Notes {.cards}
 
 #### Introduction {href=introduction}
 
@@ -18,31 +18,31 @@ This site highlights the notes that Edison wrote for George Parsons Lathrop duri
 
 Read the Introduction 
 
-#### Essay 1 {href=1}
+#### Pen Notes {href=1}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
 
 Pen Notes
 
-#### Essay 2 {href=2}
+#### Pencil Notes {href=2}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
 
 Pencil Notes
 
-#### Diary Entry 3 {href=3}
+#### A {href=3}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
 
 A
 
-#### Essay 4 {href=4}
+#### B {href=4}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
 
 B
 
-#### Essay 5 {href=5}
+#### C {href=5}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_05.png)
 
