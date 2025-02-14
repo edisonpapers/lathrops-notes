@@ -26,23 +26,23 @@ Pen Notes
 
 #### Pencil Notes {href=2}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
+![](https://github.com/edisonpapers/media/blob/main/Lathrop/pencil_notes.jpg?raw=true)
 
 Pencil Notes
 
-#### A {href=3}
+#### A Notes {href=3}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
 
 A
 
-#### B {href=4}
+#### B Notes {href=4}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
 
 B
 
-#### C {href=5}
+#### C Notes {href=5}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_05.png)
 
