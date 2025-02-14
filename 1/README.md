@@ -15,8 +15,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 - Lathrop’s marginalia and underlining made in <span style="color:red">*red*</span> pencil unless marked otherwise. 
 - Some paragraphs are followed by dividing marks. 
 - Marginalia by Edison unless marked otherwise. 
-
-Some words have been overwritten and obscured, specifically Edison's **OK** over some of the notes. 
+- Some words have been overwritten and obscured, specifically Edison's **OK** over some of the notes. 
 
 To see more information about the notes, hover over underlined words or letters in the transcript on the left.
 ##
