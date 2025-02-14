@@ -1,4 +1,14 @@
-# 5
+.ve-header "Edison’s Notes for George Parson’s Lathrop" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Essay" pct:3,23,80,20 center sticky
+
+    - [Home](/)
+    - [Introduction](/introduction)
+    - [Pen Notes](/1)
+    - [Pencil Notes](/2)
+    - [A](/3)
+    - [B](/4)
+    - [C](/5)
+    
+# 5 C
 
 Edison wrote these notes in pen on two pages that he marked “10F” and “11F”; the other pages are missing. The text below appears in that order.
 
