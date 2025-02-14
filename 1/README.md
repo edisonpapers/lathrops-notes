@@ -10,7 +10,13 @@
 
 # 1 Pen Notes
 
-Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. X indicates a note by Lathrop that he wanted Edison to return to, and provide more information. Some paragraphs are followed by dividing marks. Marginalia by Edison unless marked otherwise. Lathrop’s marginalia and underlining made in red pencil unless marked otherwise. Some words have been overwritten and obscured, specifically Edison's "OK" over some of the notes. 
+Edison wrote this set with ink on eight pages.  The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. 
+- <span style="color:red">*X*</span> indicates a note by Lathrop that he wanted Edison to return to, and provide more information. 
+- Lathrop’s marginalia and underlining made in <span style="color:red">*red*</span> pencil unless marked otherwise. 
+- Some paragraphs are followed by dividing marks. 
+- Marginalia by Edison unless marked otherwise. 
+
+Some words have been overwritten and obscured, specifically Edison's **OK** over some of the notes. 
 
 To see more information about the notes, hover over underlined words or letters in the transcript on the left.
 ##
