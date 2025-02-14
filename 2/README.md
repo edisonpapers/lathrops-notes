@@ -13,7 +13,7 @@
 Edison wrote this set in pencil on five pages. The editors have arranged the text in the way that seems to provide the greatest internal coherence. This page sequence differs from that created earlier by an archivist.
 
 ##
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="21" right
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="1" right
 <span style="color:red">*X*</span> Electric Tricycles=Carriages. supply stations at all Hotels in Country to recharge batteries.
 
 ==Lightning charges utilized= high rods—ends immersed=={description="overwritten text"}
@@ -25,7 +25,7 @@ Grape sugar displaces Cane sugar as investigation proved that Cane sugar is not 
 That the white blood capscules of the blood were the policemen of organized beings against Microbes— that the education & innuring of these Corpscules to Microbes of every Kind it was learned to meet their attacks, that Chemical poisonsb were rendered innocouus by the efforts of Corpscule—
 
 ##
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="23" right
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="2" right right
 That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. ==Erysipelass=={description="interlined above by Lathrop"} Typhoid Yellow scarlest & malerial fever & several other diseasesb of microbic origin were given all the scholars children but one innoculation every 7 years by Law— That the diseases mentioned had become rare.
 
  All habitual criminals were isolated In districts—sex during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
@@ -33,7 +33,7 @@ That compound virus consisting of the weakened cultures of Rabies, Consumption D
 physiosgonmy an Exact science— criminal propensities plain to all men— hence all being warned the struggle for Existence of those Criminally inclined difficult causing rapid elimination by Evolution artifically produced
 
 ##
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="22" right
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="3" right
 <span style="color:red">*X*</span> The street pavements softest norway iron laidb on rubber, also like wire seiving inch bars filled ==with=={description="filled with"} blocks, with iron powder held on magnetism 
     
 ==Perm?=={description="cancelled"} Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
@@ -48,7 +48,7 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
 
 parafined wag wagon wheels coated with Napthaline prevent adhesion of mud— 
 ##
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="25" right
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="4" right
 
 \ph-1\
 	
@@ -64,7 +64,7 @@ Mowing machines run by electro motors trolley wire system—
 
 Carriage horses provided by small receptible for Nitrite Amyl which connected by safety string to Carriage almost instantly benumbed the horse when attempting to run away **OK**
 ##
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="24" right
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="5" right
 
 Sterilization of vast areas of Tropical Lands by Crude petroleum changed the rainfall permitting the adjacent Lands to be kept clear of excessive growths. 
 Enormous Coffee—Gutta Percha & Rubber farms
