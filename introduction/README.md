@@ -1,4 +1,12 @@
-.ve-header "Lathrop's Notes" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Essay" pct:3,23,80,20 center sticky
+.ve-header "Edison’s Notes for George Parson’s Lathrop" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Essay" pct:3,23,80,20 center sticky
+
+    - [Home](/)
+    - [Introduction](/introduction)
+    - [Pen Notes](/1)
+    - [Pencil Notes](/2)
+    - [A Notes](/3)
+    - [B Notes](/4)
+    - [C Notes](/5)
 
 # Introduction
 
