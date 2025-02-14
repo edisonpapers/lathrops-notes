@@ -20,7 +20,7 @@ Read the Introduction
 
 #### Pen Notes {href=1}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
+![](https://github.com/edisonpapers/media/blob/main/Lathrop/pen-notes.png?raw=true)
 
 Pen Notes
 
