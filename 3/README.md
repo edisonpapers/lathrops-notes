@@ -35,7 +35,7 @@ The formation of the Sahrian Sea by the cutting of the canal through to the Medi
 ## 6C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="6" right 
 poles and also of the equator, and produced a displacement of the lower crust of the Piedmont region of North Carolina 84 Miles■Th Thus Charleston SC was 84 34c miles further out at sea
-Kennelly can make some very interesting calculations based on the Saharian Sea idea= get him to do it. 
+Kennelly can make some very interesting calculations based on the Saharian Sea idea get him to do it. 
     
 ## 7C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="7" right 
