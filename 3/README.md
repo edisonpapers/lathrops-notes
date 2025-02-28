@@ -19,6 +19,7 @@ Submarine telegraphs are worked at high speeds bare were being used. Odi Etheric
 ## 1D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="2" right 
 which are recorded photographically by continuously moving bands of photographic paper impregnated with a peculiar albumenoid and then exceedingly pure Formate of Silver. Two thousand words per minute are transmitted■The phenomenon of The etheric waves unlike Electric waves do not stress the insulating material and tend to prolong signalsd
+
 ## 1E
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="3" right 
 The experimental station of the internationalc Darwinian Society at Para on the Amazons who have which has been established for the last four hundred years■Have at the station a great number of educated beings derived from the interbreeding and assiduous cultivation and caree of the higher anthpoid apes■Two species being of the eleventh generation were capable of conversing in English= Rudimentsf of tails= walk upright= small hair— calculated that the 80th generation would equal, in intelligence & personal beauty the Bushman Tribe of Africa. (Lathrop you can enlarge on this subject yourself)
@@ -34,11 +35,11 @@ The formation of the Sahrian Sea by the cutting of the canal through to the Medi
 ## 1H
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="6" right 
 poles and also of the equator, and produced a displacement of the lower crust of the Piedmont region of North Carolina 84 Miles■Th Thus Charleston SC was 84 34c miles further out at sea=
-	Kennelly can make some very interesting calculations based on the Saharian Sea idea= get him to do it. 
+Kennelly can make some very interesting calculations based on the Saharian Sea idea= get him to do it. 
     
 ## 1I
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="7" right 
-	A planetoid entered our atmosphere in 2226i at about same speed as that of the Earths,f 46 miles dia— struck the earth 126 miles south of the Mouth of the Oronoco, and produced an indentation in the Crust of the Earth which destroyed nearly every principle building in Carracas Havanna and other cities of the west indies and a gigantic tidal waves which produced enormous destruction— The undulation was felt over the whole Earth. The heat of impact was sufficient to fuse the PMass to the Earth and it broke in many places. it took 11 years to cool sufficient to be examined— It altitude above the sea is 22 miles and gigantic streams pour down it declivities duef to condensation off snow— Lathrop you can work this up about finding gold etc if it will work in—
+A planetoid entered our atmosphere in 2226i at about same speed as that of the Earths,f 46 miles dia— struck the earth 126 miles south of the Mouth of the Oronoco, and produced an indentation in the Crust of the Earth which destroyed nearly every principle building in Carracas Havanna and other cities of the west indies and a gigantic tidal waves which produced enormous destruction— The undulation was felt over the whole Earth. The heat of impact was sufficient to fuse the PMass to the Earth and it broke in many places. it took 11 years to cool sufficient to be examined— It altitude above the sea is 22 miles and gigantic streams pour down it declivities duef to condensation off snow— Lathrop you can work this up about finding gold etc if it will work in—
 
 	
 ADf, NjWOE, Edison Manuscripts (TAED PA3003). Letterhead of Edison laboratory. 
