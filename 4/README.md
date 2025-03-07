@@ -10,7 +10,7 @@
     
 # 4 B
 
-Edison wrote these notes in pen on eleven pages that he marked “1D,” “2D,”etc. The text below appears in that order.
+Edison wrote these notes in pen on eleven pages that he marked “1D,” “2D,”etc. The text below appears in that order. Some text is obscured by other writing, and some words are crossed out and corrected above. 
 
 ## 1D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="1" right 
