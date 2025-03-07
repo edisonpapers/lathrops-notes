@@ -32,7 +32,7 @@ Pencil Notes
 
 #### A Notes {href=3}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
+![](https://github.com/edisonpapers/media/blob/main/Lathrop/1C.jpg?raw=true)
 
 A
 
