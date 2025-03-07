@@ -38,7 +38,7 @@ A
 
 #### B Notes {href=4}
 
-![]https://github.com/edisonpapers/media/blob/main/Lathrop/1D.jpg?raw=true)
+![](https://github.com/edisonpapers/media/blob/main/Lathrop/1D.jpg?raw=true)
 
 B
 
