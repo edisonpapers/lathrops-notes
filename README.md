@@ -44,6 +44,6 @@ B
 
 #### C Notes {href=5}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_05.png)
+![](https://github.com/edisonpapers/media/blob/main/Lathrop/10F.jpg?raw=true)
 
 C
