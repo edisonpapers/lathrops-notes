@@ -38,7 +38,7 @@ A
 
 #### B Notes {href=4}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
+![]https://github.com/edisonpapers/media/blob/main/Lathrop/1D.jpg?raw=true)
 
 B
 
