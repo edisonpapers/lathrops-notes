@@ -21,13 +21,13 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="1" right
 
-1 <span style="color:red">*X*</span> Teleg(rap)hic communication Mars. 100,000b hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet. **OK**
+1 <span style="color:red">*X*</span> Teleg(rap)hic communication Mars. 100,000 hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet. **OK**
     
 2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether. **OK**
     
-3 Germs came on our Ether from rock entering our atmosphere at about same velocity **OK**
+3 Germs came on our Ether from rock entering our atmosphere at about same velocity= **OK**
 
-4 <span style="color:red">*X*</span> 6th sense. Terpenes periodic. What apparatus for utilizing this? **OK** 
+4 <span style="color:red">*X*</span> 6th sense. Terpenes periodic. <span style="color:red">*What apparatus for utilizing this?*</span> **OK** 
 
 5 <span style="color:red">*X*</span> Electric Locomotion in Cities Licensed wagons.
 
