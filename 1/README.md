@@ -33,7 +33,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 ==6=={description="Edison drew a circle around the numbers 6, 7, and 8."} Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, friction to work done being too great.
 
-==7=={description="Edison drew a circle around the numbers 6, 7, and 8."} Direct thrust— Sailsb done away with wave motion used to condense air— ==**OK**=={description="Edison’s “OK” followed by vertical lines to indicate combination of items 6 and 7."}.
+==7=={description="Edison drew a circle around the numbers 6, 7, and 8."} Direct thrust— Sails done away with wave motion used to condense air— ==**OK**=={description="Edison’s “OK” followed by vertical lines to indicate combination of items 6 and 7."}.
 
 ==8=={description="Edison drew a circle to connect “8" to its text."} <span style="color:red">*X*</span> Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
 
