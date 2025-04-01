@@ -34,7 +34,7 @@ Pencil Notes
 
 ![](https://github.com/edisonpapers/media/blob/main/Lathrop/1C.jpg?raw=true)
 
-A
+Edison wrote these notes in pen on seven pages that he marked “1C,” “2C,” etc.
 
 #### D Notes {href=4}
 
