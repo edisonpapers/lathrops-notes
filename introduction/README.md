@@ -4,9 +4,9 @@
     - [Introduction](/introduction)
     - [Pen Notes](/1)
     - [Pencil Notes](/2)
-    - [A Notes](/3)
-    - [B Notes](/4)
-    - [C Notes](/5)
+    - [C Notes](/3)
+    - [D Notes](/4)
+    - [F Notes](/5)
 
 # Introduction
 
