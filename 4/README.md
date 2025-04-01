@@ -23,8 +23,8 @@ Photographs were taken of objects in absolute darkness by means of heat waves ra
 
 ## 3D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="3" right 
-Paper money “paper” made by disintgrating the from the parchment of the skin of rabbits, treated with a chemical solution which rendered it uneffected by water, wear 100 times larger—
-Universal Mint of the Federated Republic’s Branch England, United States, Bueno Melbourne. Gold coins of one type of equal fineness & weight throughout the world.d
+Paper money “paper” made ==by disintgrating the=={description="cancelled"} from the parchment of the skin of rabbits, treated with a chemical solution which rendered it uneffected by water, wear 100 times larger—
+==Universal=={description="cancelled"} Mint of the Federated Republic’s Branch England, United States, Bueno Melbourne. Gold coins of one type of equal fineness & weight throughout the world.
 
 ## 4D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="4" right 
