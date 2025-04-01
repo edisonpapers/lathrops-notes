@@ -14,11 +14,11 @@ Edison wrote these notes in pen on eleven pages that he marked “1D,” “2D,�
 
 ## 1D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="1" right 
-The horses of the rich had reached such aa high degree of beauty, and Lines of beauty were as eagerly sought for as speed, and so high spirited had they become that safety appliances were in common use where such horses were used for family purposes. This consisted of an attachment to the head of a small sponge in the center of which was small brass reciptible whoses value was a controlled by a small cord fastened to the Carriage— The reciptable was filled with Nitrite of Amyl. When the horse became unmanageable the pulling of the string released the Amyl to the sponge and being directly over the nostrils of the horse The inhalation of the vapor caused the horse to almost instantly lose its strength and stop=
+The horses of the rich had reached ==such== {description=" 'a' interlined above"} high degree of beauty, and Lines of beauty were as eagerly sought for as speed, and so high spirited had they become that safety appliances were in common use where such horses were used for family purposes. This consisted of an attachment to the head of a small sponge in the center of which was small brass reciptible whoses value was a controlled by a small cord fastened to the Carriage— The reciptable was filled with Nitrite of Amyl. When the horse became unmanageable the pulling of the string released the Amyl to the sponge and being directly over the nostrils of the horse The inhalation of the vapor caused the horse to almost instantly lose its strength and stop+
     
 ## 2D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="2" right 
-Photography of the bottom of the sea Memb 
+Photography of the bottom of the sea Mem
 Photographs were taken of objects in absolute darkness by means of heat waves radiant heat being those lines wavesa which wer beyond the red end of the visible spectrum small lenses of Rock salt being used in the Camera. The plate is sensitized by . see notes watts Dicc Radiant Light reflected fron an object produces more or less decomposition of a silver salt and an image. But in this case Raidiant heat absolutely invisible performs the same function— The Chemicals alone being different
 
 ## 3D
