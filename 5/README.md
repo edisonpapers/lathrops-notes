@@ -8,7 +8,7 @@
     - [D Notes](/4)
     - [F Notes](/5)
     
-# 5 C
+# F Notes
 
 Edison wrote these notes in pen on two pages that he marked “10F” and “11F”; the other pages are missing. The text below appears in that order. Some text is obscured by other writing, and some words are crossed out and corrected above. 
 
