@@ -10,7 +10,7 @@
     
 # C Notes
 
-Edison wrote these notes in pen on seven pages that he marked “1C,” “2C,” etc. The text below appears in that order. Some text is obscured by other writing, and some words are crossed out and corrected above. 
+Edison wrote these notes in pen on seven pages that he marked “1C,” “2C,” etc. The text below appears in that order. Some text is obscured by other writing, and some words are crossed out and corrected above. Some paragraphs are followed by a dividing mark.
 
 ## 1C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="1" right 
