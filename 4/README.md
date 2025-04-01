@@ -60,16 +60,4 @@ The rooms of the dwellings of the rich were had there walls inlaid with mother o
     
 ## 11D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="11" right 
-Distance and Enter into a chamber the orifices of which instantlya close and hot Carbonic acid. Af Vaccum is made the water flashes into Vapor & then hot Carbonic Acid gasf passes in, precipitating carbonite of lime as a film. The continued application of the The same operation as at first is gone through with. 500 films are deposited in 24 hours making a sheet half inch thick one each side of the plate. When several inches thick the plates are detached and sawn into sheets at right angles to the plane of the plate. 3000 lbs are made daily on one machine with one twoa attendants from materials which cost scarcely anything
-
-ADf, NjWOE, Edison Manuscripts (TAED PA3004). Letterhead of Edison laboratory. 
-aInterlined above. 
-bParagraph preceded and followed by dividing mark. 
-c“see notes watts Dic” written above the underlined space. 
-dParagraph followed by dividing mark. 
-e“having a number of” added later in margin. 
-fObscured overwritten text. 
-gCanceled.
- h“Factories employ this process where” interlined above. 
-i“So thin…appear blue—” interlined above. 
-j“through an orifice” interlined above.
+Distance and Enter into a chamber the orifices of ==which close=={description=" 'instantly' interlined above"} and hot Carbonic acid. Af Vaccum is made the water flashes into Vapor & then hot Carbonic Acid gasf passes in, precipitating carbonite of lime as a film. The continued application of the The same operation as at first is gone through with. 500 films are deposited in 24 hours making a sheet half inch thick one each side of the plate. When several inches thick the plates are detached and sawn into sheets at right angles to the plane of the plate. 3000 lbs are made daily on one machine with one twoa attendants from materials which cost scarcely anything
