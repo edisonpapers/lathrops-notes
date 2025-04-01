@@ -4,9 +4,9 @@
     - [Introduction](/introduction)
     - [Pen Notes](/1)
     - [Pencil Notes](/2)
-    - [A](/3)
-    - [B](/4)
-    - [C](/5)
+    - [C](/3)
+    - [D](/4)
+    - [F](/5)
     
 This site highlights the notes that Edison wrote for George Parsons Lathrop during their collaboration on a science fiction story. It is a collaboration between Edison Papers Director Paul Israel, digital editor Erin Mustard, who helps the project develop its digital and public humanities outreach, and Nicole Wines. Click on the links below to read an Introduction to the exhibit and each of the five Virtual Essays.
 
@@ -30,19 +30,19 @@ Pen Notes
 
 Pencil Notes
 
-#### A Notes {href=3}
+#### C Notes {href=3}
 
 ![](https://github.com/edisonpapers/media/blob/main/Lathrop/1C.jpg?raw=true)
 
 A
 
-#### B Notes {href=4}
+#### D Notes {href=4}
 
 ![](https://github.com/edisonpapers/media/blob/main/Lathrop/1D.jpg?raw=true)
 
 B
 
-#### C Notes {href=5}
+#### F Notes {href=5}
 
 ![](https://github.com/edisonpapers/media/blob/main/Lathrop/10F.jpg?raw=true)
 
