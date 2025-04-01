@@ -46,4 +46,4 @@ Edison wrote these notes in pen on eleven pages that he marked “1D,” “2D,�
 
 ![](https://github.com/edisonpapers/media/blob/main/Lathrop/10F.jpg?raw=true)
 
-C
+Edison wrote these notes in pen on two pages that he marked “10F” and “11F”; the other pages are missing.
