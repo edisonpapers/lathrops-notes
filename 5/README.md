@@ -18,5 +18,5 @@ Artificial Silk is manufactured in enormous quantities from ==Cotton=={descripti
 
 ## 11F
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3005/manifest seq="2" right 
-shape and having a glossy surface reflectingf light far better than the finest quality of pure white silk, having nearly the same strength and several times less expensive—g
+shape and having a glossy surface reflectingf light far better than the finest quality of pure white silk, having nearly the same strength and several times less expensive
 
