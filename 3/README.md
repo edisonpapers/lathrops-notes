@@ -4,11 +4,11 @@
     - [Introduction](/introduction)
     - [Pen Notes](/1)
     - [Pencil Notes](/2)
-    - [A Notes](/3)
-    - [B Notes](/4)
-    - [C Notes](/5)
+    - [C Notes](/3)
+    - [D Notes](/4)
+    - [F Notes](/5)
     
-# 3 A
+# C Notes
 
 Edison wrote these notes in pen on seven pages that he marked “1C,” “2C,” etc. The text below appears in that order. Some text is obscured by other writing, and some words are crossed out and corrected above. 
 
