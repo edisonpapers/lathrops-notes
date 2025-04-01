@@ -39,7 +39,7 @@ One of the most beautiful processes used in the arts was the plating of all kind
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="6" right 
 ==Mica has=={description="cancelled"} 
 Gold Leaf and the same with other metals and materials are not made entirely by this process. The method of making the gold leaf being first the aa deposit of a film of Zinc on glass over this gold then Zinc, until 200 films of gold have been deposited on a foot square on removal from the Vacuum the whole is immerse in weak sulphuric acid the Zinc is eaten away ==Leaving=={description="obscure, overwritten text"} the films of gold intact. These are ==dried=={description="cancelled"} dipped in Rigolene to displace the water & chemical products dried and cut to shape the film while no thicker than that made by the old process of beating gold between sheets of parchment has 30 times the strength and can be handled easily—
-#
+
 Mica for ==sub stoves=={description="cancelled"}, for windows in place of glass which was used in enormousf quantities is made by this process. The ingredients 
     
 ## 7D
