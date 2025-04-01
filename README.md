@@ -1,4 +1,4 @@
-.ve-header "Edison’s Notes for George Parson’s Lathrop" default:https%3A//https://github.com/edisonpapers/media/blob/52e2a05e722aacc996077dedd6b0273195147853/Lathrop/Exhibit_header.jpg "A Digital Essay" pct:3,23,80,20  center sticky
+.ve-header "Edison’s Notes for George Parson’s Lathrop" default:https%3A//Lathrop/Exhibit_header.jpg "A Digital Essay" pct:3,23,80,20  center sticky
 
 
     - [Home](/)
