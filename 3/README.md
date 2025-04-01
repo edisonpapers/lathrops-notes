@@ -18,7 +18,7 @@ Submarine telegraphs are worked at high speeds bare were being used. Odi Etheric
 
 ## 2C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="2" right 
-which are recorded photographically by continuously moving bands of photographic paper impregnated with a peculiar albumenoid and then exceedingly pure Formate of Silver. Two thousand words per minute are transmitted. The phenomenon of The etheric waves unlike Electric waves do not stress the insulating material and tend to prolong signalsd
+which are recorded photographically by continuously moving bands of photographic paper impregnated with a peculiar albumenoid and then exceedingly pure Formate of Silver. Two thousand words per minute are transmitted. The phenomenon of The etheric waves unlike Electric waves do not stress the insulating material and tend to prolong signals
 
 ## 3C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="3" right 
