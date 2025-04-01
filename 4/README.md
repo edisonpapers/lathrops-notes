@@ -44,7 +44,7 @@ Mica for ==sub stoves=={description="cancelled"}, for windows in place of glass 
 ## 7D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="7" right 
 which form mica being melted by electrical incandescence & the moment and portion becomes molten it flashes into vapor and passes in straight lines throughout the whole chamber depositing itself on any object which it may meet, and instantly solidifying—
-By manipulation of the current there are periods of rest between each film. The absence of light causes ona the surface of the previously deposited film produces a surface change of unknown character so that when the next film is flashed It does not subsequently adhere tof form one piece but is cleaverable like true Mica— Q Artificial Mica formed of Quartz glass and other transparant bodies fusible by electrical incandescence are made.
+By manipulation of the current there are periods of rest between each film. The absence of light ==causes=={description=" ' on' interlined above"} the surface of the previously deposited film produces a surface change of unknown character so that when the next film is flashed It does not subsequently adhere ==to=="{description="overwritten text"} form one piece but is cleaverable like true Mica— Q Artificial Mica formed of Quartz glass and other transparant bodies fusible by electrical incandescence are made.
     
 ## 8D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="8" right 
