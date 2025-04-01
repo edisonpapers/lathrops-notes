@@ -48,7 +48,7 @@ By manipulation of the current there are periods of rest between each film. The 
     
 ## 8D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="8" right 
-It is by this process that telescopic Lenses Eleven feet in diameter are made. The rough mould conforming roughly to the shape of the lensef required forms the Vacuum Chamber. this is kept highly exhausted by a great number of Large Continuously acting Sprengel glass Vacuum pumps and the glass is melted by electrical incandense— in a small place at one Edge a very small portion of the glass being melted at any instant but the process is continuous and never stops for an instant until the lense is finished. The deposit goes on at the rate of 3 ounzes per minute. The lense is afterward ground in the 
+It is by this process that telescopic Lenses Eleven feet in diameter are made. The rough mould conforming roughly to the shape of the lense required forms the Vacuum Chamber. this is kept highly exhausted by a great number of Large Continuously acting Sprengel glass Vacuum pumps and the glass is melted by electrical incandense— in a small place at one Edge a very small portion of the glass being melted at any instant but the process is continuous and never stops for an instant until the lense is finished. The deposit goes on at the rate of 3 ounzes per minute. The lense is afterward ground in the 
     
 ## 9D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="9" right 
