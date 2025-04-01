@@ -40,7 +40,7 @@ Edison wrote these notes in pen on seven pages that he marked “1C,” “2C,�
 
 ![](https://github.com/edisonpapers/media/blob/main/Lathrop/1D.jpg?raw=true)
 
-B
+Edison wrote these notes in pen on eleven pages that he marked “1D,” “2D,” etc.
 
 #### F Notes {href=5}
 
