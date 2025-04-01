@@ -14,7 +14,7 @@ Edison wrote these notes in pen on two pages that he marked “10F” and “11F
 
 ## 10F
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3005/manifest seq="1" right 
-Artificial Silk is manufactured in enormous quantities from Cotton The cellulose ofa woodb by Substitutingon for one of in the molecule of Cellulose of a sulphuretted nitrogen Compound rendering it soluable in Bisulphide of Carbon for a [--]c of a substance which renders it soluable in bisulphide of Carbon Chloricd Ether, in the dark but which when pressed into through fine orifices in Saphire holes through Saphire into an atmosphere of Chlorine through which a beam of Electric Light passes by means of a into the chamber through ae quartz plate in the chamber the compound is instantly reduced to the original Cellulose preservingf its 
+Artificial Silk is manufactured in enormous quantities from ==Cotton=={description=" 'The cellulose of' interlined above"} woodb by Substitutingon for one of in the molecule of Cellulose of a ==sulphuretted nitrogen Compound rendering it soluable in Bisulphide of Carbon for a of a=={description="cancelled"} substance which renders it soluable in ==bisulphide of Carbon=={description="cancelled"} Chloric Ether, in the dark but which when pressed into through fine ==orifices in Saphire=={description="cancelled"} holes through Saphire into an atmosphere of Chlorine through which a beam of Electric Light passes by means of a into the chamber through ae quartz plate in the chamber the compound is instantly reduced to the original Cellulose preservingf its 
 
 ## 11F
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3005/manifest seq="2" right 
