@@ -26,7 +26,7 @@ which are recorded photographically by continuously moving bands of photographic
 
 ## 3C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="3" right 
-The experimental station ==of the== {description=" 'international' interlined above."} Darwinian Society at Para on the Amazons who have which has been established for the last four hundred years. Have at the station a great number of educated beings derived from the interbreeding and assiduous ==cultivation== {description=" 'and care' interlined above."} of the higher anthpoid apes. Two species being of the eleventh generation were capable of conversing in English= ==Rudiments=={description="overwritten text"} of tails= walk upright= small hair— calculated that the 80th generation would equal, in intelligence & personal beauty the Bushman Tribe of Africa. (Lathrop you can enlarge on this subject yourself)
+The experimental station ==of the=={description=" 'international' interlined above."} Darwinian Society at Para on the Amazons who have which has been established for the last four hundred years. Have at the station a great number of educated beings derived from the interbreeding and assiduous ==cultivation== {description=" 'and care' interlined above."} of the higher anthpoid apes. Two species being of the eleventh generation were capable of conversing in English= ==Rudiments=={description="overwritten text"} of tails= walk upright= small hair— calculated that the 80th generation would equal, in intelligence & personal beauty the Bushman Tribe of Africa. (Lathrop you can enlarge on this subject yourself)
 
 ## 4C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="4" right 
