@@ -10,7 +10,11 @@
     
 # F Notes
 
-Edison wrote these notes in pen on two pages that he marked “10F” and “11F”; the other pages are missing. The text below appears in that order. Some text is obscured by other writing, and some words are crossed out and corrected above. 
+Edison wrote these notes in pen on two pages that he marked “10F” and “11F”; the other pages are missing. The text below appears in that order. 
+- Some text is obscured by other writing, and some words are crossed out and corrected above. 
+- Some paragraphs are followed by a dividing mark.
+
+ The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. To see more information about the notes, hover over underlined words or letters in the transcript on the left.
 
 ## 10F
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3005/manifest seq="1" right 
