@@ -1,4 +1,4 @@
-.ve-header "Edison’s Notes for George Parson’s Lathrop" default:https://edison.rutgers.edu/images/exhibits/lathrop/Exhibit_header.jpg "A Digital Essay" sticky
+.ve-header "Edison’s Notes for George Parsons Lathrop" default:https://edison.rutgers.edu/images/exhibits/lathrop/Exhibit_header.jpg "A Digital Essay" sticky
 
     - [Home](/)
     - [Introduction](/introduction)
