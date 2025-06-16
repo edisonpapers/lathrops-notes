@@ -23,7 +23,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 1 <span style="color:red">*X*</span> Teleg(rap)hic communication Mars. 100,000 hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet. **OK**
     
-2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max di difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether. **OK**
+2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max d difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether. **OK**
     
 3 Germs came on our Ether from rock entering our atmosphere at about same velocity= **OK**
 
@@ -56,7 +56,7 @@ Dropping Dynamite from Balloons—Warfare. Police ballons to prevent robbery fro
 
 <span style="color:red">*X To accomplish what?*</span> Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacua powerful temperature
 
-<span style="color:red">*X*</span> Artifici]l mother pearl by dipping plates. 
+<span style="color:red">*X*</span> Artificial mother pearl by dipping plates. 
 
 <span style="color:red">*X*</span> Photography in the dark by radiant heat.
 
