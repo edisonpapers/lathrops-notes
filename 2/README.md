@@ -67,7 +67,7 @@ Mowing machines run by electro motors trolley wire system—
 
 <span style="color:red">*X*</span> Soft pig iron slow cooling—
 
-Carriage horses provided by small receptible for Nitrite Amyl which connected by safety string to Carriage almost instantly benumbed the horse when attempting to run away **OK**
+Carriage horses provided by small receptible for Nitrite Amyl which connected by safety string to Carriage almost instantly benumbed the horse when attempting to run away  **OK**
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="5" right
 
