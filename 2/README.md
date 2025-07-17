@@ -51,7 +51,7 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
 
 <span style="color:red">*X More details about it*</span> Compound Telescope 52 Lenses 4 feet dia focused same spot.
 
-==parafine wag=={description="cancelled"} wagon wheels coated with Napthaline prevent adhesion of mud— 
+~~parafine wag~~ wagon wheels coated with Napthaline prevent adhesion of mud— 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="4" right
 
