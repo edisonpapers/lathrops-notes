@@ -21,7 +21,7 @@ Edison wrote this set in pencil on five pages. The editors have arranged the tex
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="1" right
 <span style="color:red">*X*</span> Electric Tricycles=Carriages. supply stations at all Hotels in Country to recharge batteries.
 
-~Lightning charges utilized= high rods—ends immersed~
+~~Lightning charges utilized= high rods—ends immersed~~
  
 <span style="color:red">*XX How use?*</span> Discovery large Source Gallium—
 
