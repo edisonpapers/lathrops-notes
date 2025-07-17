@@ -23,7 +23,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 1 <span style="color:red">*X*</span> Teleg(rap)hic communication Mars. 100,000 hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet. **OK**
     
-2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max d difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether. **OK**
+2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max ~~d~~ difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether. **OK**
     
 3 Germs came on our Ether from rock entering our atmosphere at about same velocity= **OK**
 
@@ -37,14 +37,14 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 ==8=={description="Edison drew a circle to connect “8" to its text."} <span style="color:red">*X*</span> Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
 
-9 going NS & EW— blown out line generate current to put them back in line magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps continuous proper altitude. Caught by sails on Towers— ==**OK**=={description="Edison’s “OK” followed by vertical line to indicate combination of items 8 and 9."}
+9 going NS & EW— blown out line generate current to put them back in line magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps ~~continuous~~ proper altitude. Caught by sails on Towers— ==**OK**=={description="Edison’s “OK” followed by vertical line to indicate combination of items 8 and 9."}
 
-<span style="color:red">*X*</span> Pig iron made wrot iron puddled by whirling motion giving ==mechanical=={description="underlined by Lathrop"} & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—==pig iron=={description="cancelled"} steel made from ==steel by passing current thr=={description="cancelled"} pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
+<span style="color:red">*X*</span> ~~Pig iron made~~ wrot iron puddled by whirling motion giving ==mechanical=={description="underlined by Lathrop"} & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—~~pig iron~~ steel made from ~~steel by passing current thr~~ pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
 
 <span style="color:red">*X What new force?*</span>
-==Electric=={description="cancelled"} Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
+~~Electric~~ Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
 
-Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels animation thus preventing decomposition by the action of Bacteria internal & external= reanimated by Exhaustion of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action
+Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels ~~animation~~ thus preventing decomposition by the action of Bacteria internal & external= reanimated by Exhaustion of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="2" right
