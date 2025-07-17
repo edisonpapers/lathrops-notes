@@ -25,7 +25,7 @@ The horses of the rich had reached ==such=={description=" 'a' interlined above"}
 ==Photography=={description=" 'Mem' above"} of the bottom of the sea
 
 
-Photographs were taken of objects in absolute darkness by means of heat waves radiant heat being those ==lines=={description=" 'waves' above"} which wer beyond the red end of the visible spectrum small lenses of Rock salt being used in the Camera. The plate is sensitized by ==______=={description=" 'see notes watts dic above' interlined above"} Radiant Light reflected fron an object produces more or less decomposition of a silver salt and an image. But in this case Raidiant heat absolutely invisible performs the same function— The Chemicals alone being different
+Photographs were taken of objects in absolute darkness by means of ~~heat waves~~ radiant heat being those ==lines=={description=" 'waves' above"} which wer beyond the red end of the visible spectrum small lenses of Rock salt being used in the Camera. The plate is sensitized by ==______=={description=" 'see notes watts dic above' interlined above"} Radiant Light reflected fron an object produces more or less decomposition of a silver salt and an image. But in this case Raidiant heat absolutely invisible performs the same function— The Chemicals alone being different
 
 ## 3D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="3" right 
