@@ -39,15 +39,15 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="3" right
-<span style="color:red">*X*</span> The street pavements softest norway iron laid on rubber, also like wire seiving inch bars filled ==with=={description="filled with"} blocks, with iron powder held on magnetism 
+<span style="color:red">*X*</span> The street pavements softest norway iron laid on rubber, also like wire seiving inch bars filled ==with=={description=" 'filled with' interlined above"} blocks, with iron powder held on magnetism 
     
-==Perm?=={description="cancelled"} Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
+~~Perm?~~ Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
 
 <span style="color:red">*X*</span> flexible window glass artificial Mica. <span style="color:red">*How made?*</span> <OK>
 
 <span style="color:red">*X*</span> Lubrication at high temperature by the Bromine substitution Compounds of the Hydrocarbons
 
-<span style="color:red">*X What shall we do with it?*</span> Discovery of an ore ==contai=={description="cancelled"} in Hudson Bay Country containing a metal giving the Unknown Spectroscopic Line Helium of the sun
+<span style="color:red">*X What shall we do with it?*</span> Discovery of an ore ~~contai~~ in Hudson Bay Country containing a metal giving the Unknown Spectroscopic Line Helium of the sun
 
 <span style="color:red">*X More details about it*</span> Compound Telescope 52 Lenses 4 feet dia focused same spot.
 
