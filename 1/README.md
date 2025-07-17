@@ -48,7 +48,7 @@ Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boil
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="2" right
-neutralization of gravitation by a  <span style="color:red">*X*</span> ==a molecular Screen=={description="underlined by Lathrop"} regulatable. when rec  person inside non Conducting chamber— after passing limits of our atmospheric sheild adjusted to attain speeds of 100,000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5 hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
+neutralization of gravitation by a  <span style="color:red">*X*</span> ==a molecular Screen=={description="underlined by Lathrop"} regulatable. ~~when rec~~  person inside non Conducting chamber— after passing limits of our atmospheric sheild adjusted to attain speeds of 100,000 miles per second there being no friction vacous spaces. Stearing by obliquely adjustable Screens. Regular time between Earth & Mars 5 hours in our atmosphere ______ hours in space & 3 hours in Mars atmosphere
 
 <span style="color:red">*X*</span> Artesian Bore holes. 135,000 feet deep temperature of 400?— Source of power. central pipe.
 
@@ -56,7 +56,7 @@ Dropping Dynamite from Balloons—Warfare. Police ballons to prevent robbery fro
 
 <span style="color:red">*X To accomplish what?*</span> Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacua powerful temperature
 
-<span style="color:red">*X*</span> Artificial mother pearl by dipping plates. 
+<span style="color:red">*X*</span> Artificial mother pearl by dipping plates. **OK**  
 
 <span style="color:red">*X*</span> Photography in the dark by radiant heat.
 
