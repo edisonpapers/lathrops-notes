@@ -59,7 +59,7 @@ It is by this process that telescopic Lenses Eleven feet in diameter are made. T
     
 ## 9D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="9" right 
-ususal way ==Chromatic abberation the great=={description="cancelled"} The Glass is absolutely homogenous and perfectly free from abberation, which was 5 feet was the largest lense produced by the old method with poor definition and Enormous Expenses. Theses Lenses by the Vacuum Process Have revealed the mechanism of the depths of space opaque to the older lenses
+usual way ~~Chromatic abberation the great~~ The Glass is absolutely homogenous and perfectly free from abberation, ~~which was~~ 5 feet was the largest lense produced by the old method with poor definition and Enormous Expenses. Theses Lenses by the Vacuum Process Have revealed the mechanism of the depths of space opaque to the older lenses
 
 ## 10D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="10" right 
