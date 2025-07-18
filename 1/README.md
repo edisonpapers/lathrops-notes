@@ -85,7 +85,7 @@ Artificial Wood formed of compressed ==Celluloser=={description="' 'chloro-' int
 
 Animal matter not used fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
 
-<span style="color:red">*X*</span> Artificial silk made from by __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted and into into fibre a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
+<span style="color:red">*X*</span> Artificial silk made from ~~by~~ __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted ~~and~~ into ~~into fibre~~ a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="5" right
 applies Electricity foot dia— dif quant sugar etc artfcl Light
