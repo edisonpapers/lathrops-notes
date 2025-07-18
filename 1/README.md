@@ -134,20 +134,20 @@ Siberian Railroad,— RR from Alaska to End Chili ~~Central~~ African RR—
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="7" right	
-state children— paring Longlivity custodians of knowledge—
+~~state~~ children— paring Longlivity custodians of knowledge—
 Music by telephone.
 
 Phonogh newspapers—Operas— **OK** 
 
 <span style="color:red">*X*</span> Kinetoscopic Operas with phono Every family wealth. **OK**
 
-<span style="color:red">*X*</span> New teeth started by Calcerousb antispierized bandages
+<span style="color:red">*X*</span> New teeth started by Calcerous antispierized bandages
 
-<span style="color:red">*X*</span> Bald headness due to want circulation ventilation open hats.
+<span style="color:red">*X*</span> Bald headness due to want ~~circulation~~ ventilation open hats.
 
 <span style="color:red">*X*</span> Artificial Silk—
 
-<span style="color:red">*X*</span> Leather from Gelatin Vegetable gelatin: fixation of N in Carbohydrates Electrically.
+<span style="color:red">*X*</span> Leather ~~from Gelatin Vegetable gelatin~~: fixation of N in Carbohydrates Electrically.
 
 fixation Electrically of Nitrogen in ==-=={description="Canceled."} Electrical Machinery 
 
