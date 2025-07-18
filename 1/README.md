@@ -94,7 +94,7 @@ applies Electricity foot dia— dif quant sugar etc artfcl Light
 
 Cannon balls form cannot. Cannon prevent busting by 2nd Chamber outside to make Counter pressure
 
-Forts defender  solid streams of water on 50,000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
+Forts defender solid streams of water on 50,000 lbs of pressure square inch with alternating current capable being thrown horizontally 1000 ft.— humanitarian unconscious— 
 Everything so efficient & deadly war obselete keept up for show—
 
 Panama—canal— work up ship RR biz—
@@ -105,7 +105,7 @@ Gold Silver transformed from Lead— Platinum not yet transformable—
 
 Military Signally—
 
-<span style="color:red">*X*</span> Ocean teleghy between ships at sea
+<span style="color:red">*X*</span> Ocean teleghy between ships at sea**OK**
 
 Cyclones were found to be do to the a change in the the Electrical Conditions atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 ##
