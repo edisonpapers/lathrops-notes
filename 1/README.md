@@ -81,7 +81,7 @@ Music instruments controlled by Jacquard tapes.
 
 Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
 
-Artificial Wood formed of compressed ==Celluloser=={description="' 'chloro-' interlined above"} Chlorinized & asbestos fibre & Talc—with solvent boiled<span style="color:red">*X Detail?*</span> & worked like wood fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ back fusing surfaces together.
+Artificial Wood formed of compressed ==Celluloser=={description="' 'chloro-' interlined above"} Chlorinized & asbestos fibre & Talc—with solvent boiled<span style="color:red">*X Detail?*</span> & worked like wood fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ ~~back~~ fusing surfaces together.
 
 Animal matter not used fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
 
