@@ -149,7 +149,7 @@ Phonogh newspapers—Operas— **OK**
 
 <span style="color:red">*X*</span> Leather ~~from Gelatin Vegetable gelatin~~: fixation of N in Carbohydrates Electrically.
 
-fixation Electrically of Nitrogen in ==-=={description="Canceled."} Electrical Machinery 
+fixation ~~Electrically of Nitrogen in~~ Electrical Machinery 
 
 Each farm<span style="color:red">*?*</span> by wind to fix Nitrogen in soil— Luxuriant Vegitation.
 
@@ -157,7 +157,7 @@ Each farm<span style="color:red">*?*</span> by wind to fix Nitrogen in soil— L
 
 <span style="color:red">*X*</span> Reflecting telescopes 130 ft Dia. RR trains bldgs 
 
-Cities Seen on Mars ==Teleghg Kept up=={description="circled by Edison."}.
+Cities Seen on Mars ==Teleghg Kept up=={description="circled by Edison."}.**OK**
 
 <span style="color:red">*X*</span> Photography colors—
 
