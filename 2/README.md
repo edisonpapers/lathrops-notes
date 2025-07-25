@@ -33,7 +33,7 @@ That the white blood capscules of the blood were the policemen of organized bein
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="2" right right
 That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. ==Erysipelass=={description="interlined above by Lathrop"} Typhoid Yellow scarlest & malerial fever & several other diseases of microbic origin were given all the scholars children but one innoculation every 7 years by Law— That the diseases mentioned had become rare.
 
- All habitual criminals were isolated In districts—~~sex~~ during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
+ All habitual criminals were isolated In districts—<del>sex</del> during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
 
 physiosgonmy an Exact science— criminal propensities plain to all men— hence all being warned the struggle for Existence of those Criminally inclined difficult causing rapid elimination by Evolution artifically produced
 
@@ -41,17 +41,17 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="3" right
 <span style="color:red">*X*</span> The street pavements softest norway iron laid on rubber, also like wire seiving inch bars filled ==with=={description=" 'filled with' interlined above"} blocks, with iron powder held on magnetism 
     
-~~Perm?~~ Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
+<del>Perm?</del> Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
 
 <span style="color:red">*X*</span> flexible window glass artificial Mica. <span style="color:red">*How made?*</span> <OK>
 
 <span style="color:red">*X*</span> Lubrication at high temperature by the Bromine substitution Compounds of the Hydrocarbons
 
-<span style="color:red">*X What shall we do with it?*</span> Discovery of an ore ~~contai~~ in Hudson Bay Country containing a metal giving the Unknown Spectroscopic Line Helium of the sun
+    <span style="color:red">*X What shall we do with it?*</span> Discovery of an ore <del>contai</del> in Hudson Bay Country containing a metal giving the Unknown Spectroscopic Line Helium of the sun
 
 <span style="color:red">*X More details about it*</span> Compound Telescope 52 Lenses 4 feet dia focused same spot.
 
-~~parafine wag~~ wagon wheels coated with Napthaline prevent adhesion of mud— 
+<del>parafine wag</del> wagon wheels coated with Napthaline prevent adhesion of mud— 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="4" right
 
