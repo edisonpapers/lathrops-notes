@@ -39,10 +39,10 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 9 going NS & EW— blown out line generate current to put them back in line magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps <del>continuous</del> proper altitude. Caught by sails on Towers— ==**OK**=={description="Edison’s “OK” followed by vertical line to indicate combination of items 8 and 9."}
 
-<span style="color:red">*X*</span> <del>Pig iron made</del> wrot iron puddled by whirling motion giving ==mechanical=={description="underlined by Lathrop"} & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—<del>pig iron</del> steel made from <del>steel by passing current thr</del> pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
+<span style="color:red">*X*</span> ~~Pig iron made~~ wrot iron puddled by whirling motion giving ==mechanical=={description="underlined by Lathrop"} & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—<del>pig iron</del> steel made from <del>steel by passing current thr</del> pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
 
 <span style="color:red">*X What new force?*</span>
-<del>Electric</del> Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
+~~Electric~~ Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
 
 Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels <del>animation</del> thus preventing decomposition by the action of Bacteria internal & external= reanimated by Exhaustion of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action
 
@@ -66,7 +66,7 @@ using large bricks everything laid by machinery Controlled by few men
 
 Carbonado made by fusing Syrian asphalt in ==steel=={description=" 'pure iron' interlined above"} shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the ==steel=={description=" 'iron' interlined above"} bath to the temperature of melting—softening.
 
-Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide <span style="color:red">*X*</span> of Carbon in <del>glass</del> bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & plating=={description=" 'electro' interlined above"} -- ==Iron=={description=" 'pure' interlined above"} over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
+Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide <span style="color:red">*X*</span> of Carbon in <del>glass</del> bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & ==plating=={description="'electro' interlined above"} -- ==Iron=={description="'pure' interlined above"} over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
 
 Society of Harmonic Curves
 
@@ -120,7 +120,7 @@ Gas used for heat. Electricity for Light & power <del>40</del> 700 candles per 1
 
 Darwinian Society at Para. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
 
-Exhumation of <del>Copper</del>slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100,000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
+Exhumation of <del>Copper</del> slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100,000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
 
 <span style="color:red">*X Details?*</span> Starch Sugar. a protein substances made in immense quantities by factors on the Amazons India & Afraica from woody fibre by Chemical transformations <del>Trans Method</del> Construction of the ==molecules of=={description=" 'molecules of' interlined above"} Carbohydrates and methods of rearranging the construction having been <del>constructed</del> discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
 
@@ -128,13 +128,13 @@ Exhumation of <del>Copper</del>slate tablets high table Lands of Ecudor distorte
 
 Factories auto run by one man.
 
-Siberian Railroad,— RR from Alaska to End Chili <del>Central</del> African RR—
+Siberian Railroad,— RR from Alaska to End Chili ~~Central~~ African RR—
 
 <span style="color:red">*X*</span> Microbes propylectic
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="7" right	
-<del>state</del> children— paring Longlivity custodians of knowledge—
+~~state~~ children— paring Longlivity custodians of knowledge—
 Music by telephone.
 
 Phonogh newspapers—Operas— **OK** 
@@ -143,13 +143,13 @@ Phonogh newspapers—Operas— **OK**
 
 <span style="color:red">*X*</span> New teeth started by Calcerous antispierized bandages
 
-<span style="color:red">*X*</span> Bald headness due to want <del>circulation</del> ventilation open hats.
+<span style="color:red">*X*</span> Bald headness due to want ~~circulation~~ ventilation open hats.
 
 <span style="color:red">*X*</span> Artificial Silk—
 
-<span style="color:red">*X*</span> Leather <del>from Gelatin Vegetable gelatin</del>: fixation of N in Carbohydrates Electrically.
+<span style="color:red">*X*</span> Leather ~~from Gelatin Vegetable gelatin~~: fixation of N in Carbohydrates Electrically.
 
-fixation <del>Electrically of Nitrogen in</del> Electrical Machinery 
+fixation ~~Electrically of Nitrogen in~~ Electrical Machinery 
 
 Each farm<span style="color:red">*?*</span> by wind to fix Nitrogen in soil— Luxuriant Vegitation.
 
