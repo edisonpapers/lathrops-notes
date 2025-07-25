@@ -66,7 +66,7 @@ using large bricks everything laid by machinery Controlled by few men
 
 Carbonado made by fusing Syrian asphalt in ==steel=={description=" 'pure iron' interlined above"} shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the ==steel=={description=" 'iron' interlined above"} bath to the temperature of melting—softening.
 
-Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide <span style="color:red">*X*</span> of Carbon in <del>glass</del> bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & plating=={description=" 'electro' interlined above"} -- ==Iron=={description=" 'pure' interlined above"} over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
+Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide <span style="color:red">*X*</span> of Carbon in <del>glass</del> bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & plating=={description="'electro' interlined above"} -- ==Iron=={description="'pure' interlined above"} over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
 
 Society of Harmonic Curves
 
