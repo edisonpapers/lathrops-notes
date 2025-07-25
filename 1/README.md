@@ -128,13 +128,13 @@ Exhumation of <del>Copper</del> slate tablets high table Lands of Ecudor distort
 
 Factories auto run by one man.
 
-Siberian Railroad,— RR from Alaska to End Chili ~~Central~~ African RR—
+Siberian Railroad,— RR from Alaska to End Chili <del>Central</del> African RR—
 
 <span style="color:red">*X*</span> Microbes propylectic
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="7" right	
-~~state~~ children— paring Longlivity custodians of knowledge—
+<del>state</del> children— paring Longlivity custodians of knowledge—
 Music by telephone.
 
 Phonogh newspapers—Operas— **OK** 
@@ -143,13 +143,13 @@ Phonogh newspapers—Operas— **OK**
 
 <span style="color:red">*X*</span> New teeth started by Calcerous antispierized bandages
 
-<span style="color:red">*X*</span> Bald headness due to want ~~circulation~~ ventilation open hats.
+<span style="color:red">*X*</span> Bald headness due to want <del>circulation</del> ventilation open hats.
 
 <span style="color:red">*X*</span> Artificial Silk—
 
-<span style="color:red">*X*</span> Leather ~~from Gelatin Vegetable gelatin~~: fixation of N in Carbohydrates Electrically.
+<span style="color:red">*X*</span> Leather <del>from Gelatin Vegetable gelatin</del>: fixation of N in Carbohydrates Electrically.
 
-fixation ~~Electrically of Nitrogen in~~ Electrical Machinery 
+fixation <del>Electrically of Nitrogen in</del> Electrical Machinery 
 
 Each farm<span style="color:red">*?*</span> by wind to fix Nitrogen in soil— Luxuriant Vegitation.
 
