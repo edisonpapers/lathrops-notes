@@ -46,20 +46,20 @@ One of the most beautiful processes used in the arts was the plating of all kind
 <del>Mica has</del> 
 Gold Leaf and the same with other metals and materials are not made entirely by this process. The method of making the gold leaf being first the a deposit of a film of Zinc on glass over this gold then Zinc, until 200 films of gold have been deposited on a foot square on removal from the Vacuum the whole is immerse in weak sulphuric acid the Zinc is eaten away ==Leaving=={description="obscure, overwritten text"} the films of gold intact. These are <del>dried</del> dipped in Rigolene to displace the water & chemical products dried and cut to shape the film while no thicker than that made by the old process of beating gold between sheets of parchment has 30 times the strength and can be handled easily—
 
-Mica for ~~sub stoves~~, for windows in place of glass which was used in enormous quantities is made by this process. The ingredients 
+Mica for <del>sub stoves</del>, for windows in place of glass which was used in enormous quantities is made by this process. The ingredients 
     
 ## 7D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="7" right 
 which form mica being melted by electrical incandescence & the moment and portion becomes molten it flashes into vapor and passes in straight lines throughout the whole chamber depositing itself on any object which it may meet, and instantly solidifying—
-By manipulation of the current there are periods of rest between each film. The absence of light ==causes=={description=" ' on' interlined above"} the surface of the previously deposited film produces a surface change of unknown character so that when the next film is flashed It does not subsequently adhere ==to=={description="overwritten text"} form one piece but is cleaverable like true Mica— ~~Q ~~Artificial Mica formed of Quartz glass and other transparant bodies fusible by electrical incandescence are made.
+By manipulation of the current there are periods of rest between each film. The absence of light ==causes=={description=" ' on' interlined above"} the surface of the previously deposited film produces a surface change of unknown character so that when the next film is flashed It does not subsequently adhere ==to=={description="overwritten text"} form one piece but is cleaverable like true Mica— <del>Q</del>Artificial Mica formed of Quartz glass and other transparant bodies fusible by electrical incandescence are made.
     
 ## 8D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="8" right 
-It is by this process that telescopic Lenses Eleven feet in diameter are made. The ~~rough~~ mould conforming roughly to the shape of the lense required forms the Vacuum Chamber. this is kept highly exhausted by a great number of Large Continuously acting Sprengel glass Vacuum pumps and the glass is melted by electrical incandense— in a small place at one Edge a very small portion of the glass being melted at any instant but the process is continuous and never stops for an instant until the lense is finished. The deposit goes on at the rate of 3 ounzes per minute. The lense is afterward ground in the 
+It is by this process that telescopic Lenses Eleven feet in diameter are made. The <del>rough</del> mould conforming roughly to the shape of the lense required forms the Vacuum Chamber. this is kept highly exhausted by a great number of Large Continuously acting Sprengel glass Vacuum pumps and the glass is melted by electrical incandense— in a small place at one Edge a very small portion of the glass being melted at any instant but the process is continuous and never stops for an instant until the lense is finished. The deposit goes on at the rate of 3 ounzes per minute. The lense is afterward ground in the 
     
 ## 9D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="9" right 
-usual way ~~Chromatic abberation the great~~ The Glass is absolutely homogenous and perfectly free from abberation, ~~which was~~ 5 feet was the largest lense produced by the old method with poor definition and Enormous Expenses. Theses Lenses by the Vacuum Process Have revealed the mechanism of the depths of space opaque to the older lenses
+usual way <del>Chromatic abberation the great</del> The Glass is absolutely homogenous and perfectly free from abberation, <del>which was</del> 5 feet was the largest lense produced by the old method with poor definition and Enormous Expenses. Theses Lenses by the Vacuum Process Have revealed the mechanism of the depths of space opaque to the older lenses
 
 ## 10D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="10" right 
