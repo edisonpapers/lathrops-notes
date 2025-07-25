@@ -143,11 +143,11 @@ Phonogh newspapers—Operas— **OK**
 
 <span style="color:red">*X*</span> New teeth started by Calcerous antispierized bandages
 
-<span style="color:red">*X*</span> Bald headness due to want ~~circulation~~ ventilation open hats.
+<span style="color:red">*X*</span> Bald headness due to want <del>circulation</del> ventilation open hats.
 
 <span style="color:red">*X*</span> Artificial Silk—
 
-<span style="color:red">*X*</span> Leather ~~from Gelatin Vegetable gelatin~~: fixation of N in Carbohydrates Electrically.
+<span style="color:red">*X*</span> Leather <del>from Gelatin Vegetable gelatin</del>: fixation of N in Carbohydrates Electrically.
 
 fixation <del>Electrically of Nitrogen in</del> Electrical Machinery 
 
