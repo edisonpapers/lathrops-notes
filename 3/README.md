@@ -35,11 +35,11 @@ In the unknown regions of the antartic pole, 1100 miles beyond the utmost limits
 
 ## 5C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="5" right 
-The formation of the Sahrian Sea by the cutting of the canal through to the Mediterrianian had caused by the pressure of the water a displacement of the Crust of the Earth towards the Timbucktoo border a chain of mountains had a been thrown up and the floor of ==the desert=={description=" 'once' interlined above"}  had sunk 2100 feet. The ==displace removal=={description=" 'redistribution' interlined above} of such a gigantic ~weight from~ mass of water to other points had caused not only climatic changes in The Equatorial regions of africa ~~but ha~~ and the shifting of the temperate zone 800 miles south. The deviation of the gulf stream Towards the france rendering England ~~free~~ comparatively free of Rain & fog but colder but had shifted the axis of rotation of the Earth 283 miles as well as shifting of the magnetic 
+The formation of the Sahrian Sea by the cutting of the canal through to the Mediterrianian had caused by the pressure of the water a displacement of the Crust of the Earth towards the Timbucktoo border a chain of mountains had a been thrown up and the floor of ==the desert=={description=" 'once' interlined above"}  had sunk 2100 feet. The ==displace removal=={description=" 'redistribution' interlined above} of such a gigantic <del>weight from</del> mass of water to other points had caused not only climatic changes in The Equatorial regions of africa <del>but ha</del> and the shifting of the temperate zone 800 miles south. The deviation of the gulf stream Towards the france rendering England <del>free</del> comparatively free of Rain & fog but colder but had shifted the axis of rotation of the Earth 283 miles as well as shifting of the magnetic 
 
 ## 6C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="6" right 
-poles and also of the equator, and produced a displacement of the lower crust of the Piedmont region of North Carolina 84 Miles ~~Th~~ Thus Charleston SC was ==84=={description=" '34' interlined above"} miles further out at sea
+poles and also of the equator, and produced a displacement of the lower crust of the Piedmont region of North Carolina 84 Miles <del>Th</del> Thus Charleston SC was ==84=={description=" '34' interlined above"} miles further out at sea
 Kennelly can make some very interesting calculations based on the Saharian Sea idea get him to do it. 
     
 ## 7C
