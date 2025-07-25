@@ -23,7 +23,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 1 <span style="color:red">*X*</span> Teleg(rap)hic communication Mars. 100,000 hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet. **OK**
     
-2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max ~~d~~ difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether. **OK**
+2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max <del>d</del> difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether. **OK**
     
 3 Germs came on our Ether from rock entering our atmosphere at about same velocity= **OK**
 
