@@ -9,7 +9,7 @@
     - [D](/4)
     - [F](/5)
     
-This site highlights the notes that Edison wrote for George Parsons Lathrop during their collaboration on a science fiction story. Read more about this collaboration [on our Edison and Science Fiction exhibit](https://www.juncture-digital.org/edisonpapers/edison-sci-fi/2). These notes were prepared by Edison Papers Director Paul Israel and digital editor Erin Mustard, who helps the project develop its digital and public humanities outreach, with technical help from Nicole Wines. Click on the links below to read an Introduction to the exhibit and each of the five Virtual Essays.
+This site highlights the notes that Edison wrote for George Parsons Lathrop during their collaboration on a science fiction story. Read more about this collaboration [on our Edison and Science Fiction exhibit](https://www.juncture-digital.org/edisonpapers/edison-sci-fi/2). These notes were prepared by Edison Papers Director Paul Israel and digital editor Erin Mustard, with technical help from Nicole Wines, who helps the project develop its digital and public humanities outreach. Click on the links below to read an Introduction to the exhibit and each of the five Virtual Essays.
 
 ### Read the Notes {.cards}
 
