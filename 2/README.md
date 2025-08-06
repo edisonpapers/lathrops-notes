@@ -54,8 +54,6 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
 <del>parafine wag</del> wagon wheels coated with Napthaline prevent adhesion of mud— 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="4" right
-
-\ph-1\
 	
 wagon wheels for sandy countries with side flanges prevent moving of sand sidewise & sinking & rendering all the power lost by displacement & friction conserved— 
 
