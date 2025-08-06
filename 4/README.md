@@ -34,7 +34,7 @@ Paper money “paper” made <del>by disintgrating the</del> from the parchment 
 
 ## 4D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="4" right 
-Nitrogen Chlorine Brome & Iodine have been found to be compounds ==<del>each having a number of homologeous compounds making up the whole</del>=={description= 'having a number of' added later in the margin"}. Analysis by means of heat disassociation in Vacua with ~~in~~ carbon filiments heated to <del>high</del> extremely high temperatures by electricity and the use of selected absorbants within The Vacuum. The disassociated <del>materials</del> molecules moving in straight lines to the glass walls of the Vacuum meet the absorbants which are afterwards <del>anylised</del>~~ analyzed by ordinary means—
+Nitrogen Chlorine Brome & Iodine have been found to be compounds ==<del>each having a number of homologeous compounds making up the whole</del>=={description= 'having a number of' added later in the margin"}. Analysis by means of heat disassociation in Vacua with <del>in</del> carbon filiments heated to <del>high</del> extremely high temperatures by electricity and the use of selected absorbants within The Vacuum. The disassociated <del>materials</del> molecules moving in straight lines to the glass walls of the Vacuum meet the absorbants which are afterwards <del>anylised</del> analyzed by ordinary means—
 <del>It has been found</del>
 
 ## 5D
