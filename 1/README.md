@@ -27,7 +27,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
     
 3 Germs came on our Ether from rock entering our atmosphere at about same velocity= **OK**
 
-4 <span style="color:red">*X*</span> 6th sense. Terpenes periodic. <span style="color:red">*What apparatus for utilizing this?*</span> **OK** 
+4 <span style="color:red">*X*</span> 6th sense. Terpenes periodic. <span style="color:red">*[What apparatus for utilizing this?]*</span> **OK** 
 
 5 <span style="color:red">*X*</span> Electric Locomotion in Cities Licensed wagons.
 
