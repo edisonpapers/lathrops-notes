@@ -47,7 +47,7 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
 
 <span style="color:red">*X*</span> Lubrication at high temperature by the Bromine substitution Compounds of the Hydrocarbons
 
-    <span style="color:red">*X What shall we do with it?*</span> Discovery of an ore <del>contai</del> in Hudson Bay Country containing a metal giving the Unknown Spectroscopic Line Helium of the sun
+<span style="color:red">*X What shall we do with it?*</span> Discovery of an ore <del>contai</del> in Hudson Bay Country containing a metal giving the Unknown Spectroscopic Line Helium of the sun
 
 <span style="color:red">*X More details about it*</span> Compound Telescope 52 Lenses 4 feet dia focused same spot.
 
