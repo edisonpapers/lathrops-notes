@@ -105,7 +105,7 @@ Gold Silver transformed from Lead— Platinum not yet transformable—
 
 Military Signally—
 
-<span style="color:red">*X*</span> Ocean teleghy between ships at sea**OK**
+<span style="color:red">*X*</span> Ocean teleghy between ships at sea **OK**
 
 Cyclones were found to be do to the a change in the the Electrical Conditions atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 ##
