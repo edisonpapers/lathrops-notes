@@ -29,7 +29,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 4 <span style="color:red">*X*</span> 6th sense. ==Terpenes periodic.=={description="https://en.wikipedia.org/wiki/Terpene"} <span style="color:red">*[What apparatus for utilizing this?]*</span> **OK** 
 
-5 <span style="color:red">*X*</span> Electric Locomotion in Cities Licensed wagons.
+5 <span style="color:red">*X*</span> ==Electric Locomotion=={description="Edison had originally experimented with electric railways at his Menlo Park laboratory in the early 1880s. Between 1888 and 1891, he experimented with another electric railway system at his West Orange laboratory."} in Cities Licensed wagons.
 
 ==6=={description="Edison drew a circle around the numbers 6, 7, and 8."} Increased speed steamships. Electrolysis on surface reduce skin friction. Screw propeller done away with, friction to work done being too great.
 
