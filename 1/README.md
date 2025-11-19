@@ -22,6 +22,8 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="1" right
 
 1 <span style="color:red">*X*</span> ==Teleg(rap)hic communication Mars=={description="In 1890 Edison designed an experiment to study the sun’s magnetic effects that may have provided the inspiration his plan to communicate with Mars. At his iron mine in Ogden, New Jersy, was a “body of ore one mile long standing nearly perpendicular and extending down into the bowels of the earth to great but unknown depth, containing several hundred million tons of magnetic material.” By erecting telegraph poles on each side of the ore and running several miles of wire around it, he planned to create “an inductive circuit” that would respond to disturbances of the earth’s magnetism. “By the use of recording instruments every change could be recorded and by the use of the telephone all sounds produced on the sun would be heard on our planet."}[^1]. 100,000 hp steel wheel ==Penokee Range.=={description="Today this is designated as the Gogebic Range but is commonly referred to as the Penokee Range. See https://en.wikipedia.org/wiki/Gogebic_Range"} dots dashes. 3 yrs to reach alphabet. **OK**
+
+[^1]: TAED LB043285 (TAEB 10: 366); see also TAED X162M (TAEB 10: 427–28); “Edison’s Latest. ,” Electrical Engineer n. s. 6 (July-Dec. 1890); “A Telephone to the Sun,” Locomotive Engineers’ Monthly Journal 24 (Dec. 1890): 913). 
     
 2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max <del>d</del> difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether. **OK**
     
@@ -173,5 +175,3 @@ Cities Seen on Mars ==Teleghg Kept up=={description="circled by Edison."}.**OK**
 <span style="color:red">*X*</span> Shoes moulded.
 
 Improvements in Newspaper 
-
-[^1]: TAED LB043285 (TAEB 10: 366); see also TAED X162M (TAEB 10: 427–28); “Edison’s Latest. ,” Electrical Engineer n. s. 6 (July-Dec. 1890); “A Telephone to the Sun,” Locomotive Engineers’ Monthly Journal 24 (Dec. 1890): 913). 
