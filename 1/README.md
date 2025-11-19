@@ -173,3 +173,5 @@ Cities Seen on Mars ==Teleghg Kept up=={description="circled by Edison."}.**OK**
 <span style="color:red">*X*</span> Shoes moulded.
 
 Improvements in Newspaper 
+
+[^1]: TEST Footnote
