@@ -21,21 +21,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="1" right
 
-1 <span style="color:red">*X*</span> =={description="This idea is related to an experiment originally reported in the New York Herald and reprinted elsewhere. Edison
-was attempting to create a “cosmical telephone” to study sunspot activity and geomagnetic fluctuations on Earth
-first noticed by Kew researchers in the 1850s (“Edison’s Latest,” Electrical Engineer n. s. 6 (July-Dec. 1890). - Full
-View | HathiTrust Digital Library; see also TAEB 10: 276, 366). A more detailed version of the design was provided
-by Edison’s assistant Arthur Kennelly in a letter to Edward Holden, the founding director of the Lick Observatory in
-California. “Mr. Edisons plan is to erect on poles round the bulk of the ore, a cable of seven carefully insulated
-wires, whose final terminals will be brought to a telephone or other apparatus. It is then possible that violent
-disturbances in the suns atmosphere, might so disturb either the normal electromagnetic flow of energy we receive,
-or the normal distribution of magnetic force on this planet, as to bring about an appreciably great change in the flow
-of magnetic induction embraced by the cable loop, enhanced and magnified as this should be by the magnetic
-condensation and conductivity of the ore body, which must comprise millions of tons” (TAED X162M; TAEB 10:
-427–28). The idea of catching the sun’s magnetic effects through a wire would not have been far-fetched to
-telegraphers. Operators had to deal with magnetic storms linked to solar activity, and Edison himself retrospectively
-attributed the idea to his own earlier experience with strange sounds on a long-distance telephone line. (“A
-Telephone to the Sun,” Locomotive Engineers’ Monthly Journal 24 (Dec. 1890): 913)."}Teleg(rap)hic communication Mars==. 100,000 hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet. **OK**
+1 <span style="color:red">*X*</span> =={description="This idea is related to an experiment originally reported in the New York Herald and reprinted elsewhere. Edison was attempting to create a “cosmical telephone” to study sunspot activity and geomagnetic fluctuations on Earth first noticed by Kew researchers in the 1850s (“Edison’s Latest,” Electrical Engineer n. s. 6 (July-Dec. 1890). - Full View | HathiTrust Digital Library; see also TAEB 10: 276, 366). A more detailed version of the design was provided by Edison’s assistant Arthur Kennelly in a letter to Edward Holden, the founding director of the Lick Observatory in California. “Mr. Edisons plan is to erect on poles round the bulk of the ore, a cable of seven carefully insulated wires, whose final terminals will be brought to a telephone or other apparatus. It is then possible that violent disturbances in the suns atmosphere, might so disturb either the normal electromagnetic flow of energy we receive, or the normal distribution of magnetic force on this planet, as to bring about an appreciably great change in the flow of magnetic induction embraced by the cable loop, enhanced and magnified as this should be by the magnetic condensation and conductivity of the ore body, which must comprise millions of tons” (TAED X162M; TAEB 10: 427–28). The idea of catching the sun’s magnetic effects through a wire would not have been far-fetched to telegraphers. Operators had to deal with magnetic storms linked to solar activity, and Edison himself retrospectively attributed the idea to his own earlier experience with strange sounds on a long-distance telephone line. (“A Telephone to the Sun,” Locomotive Engineers’ Monthly Journal 24 (Dec. 1890): 913)."}Teleg(rap)hic communication Mars==. 100,000 hp steel wheel Penokee Range. dots dashes. 3 yrs to reach alphabet. **OK**
     
 2 <span style="color:red">*X*</span> Space filled lines force. Sun magnet. break in surface of equatorial regions suns forms arc prominences matter melted by excess temperature due to difference potential at breaks— max <del>d</del> difference Emf at equatorial regions. Tails comets repelled by magnet lines Tail being an electric stress in the ether. **OK**
     
