@@ -174,4 +174,4 @@ Cities Seen on Mars ==Teleghg Kept up=={description="circled by Edison."}.**OK**
 
 Improvements in Newspaper 
 
-[^1] TAED LB043285 (TAEB 10: 366); see also TAED X162M (TAEB 10: 427–28); “Edison’s Latest. ,” Electrical Engineer n. s. 6 (July-Dec. 1890); “A Telephone to the Sun,” Locomotive Engineers’ Monthly Journal 24 (Dec. 1890): 913). 
+[^1]: TAED LB043285 (TAEB 10: 366); see also TAED X162M (TAEB 10: 427–28); “Edison’s Latest. ,” Electrical Engineer n. s. 6 (July-Dec. 1890); “A Telephone to the Sun,” Locomotive Engineers’ Monthly Journal 24 (Dec. 1890): 913). 
