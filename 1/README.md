@@ -73,7 +73,7 @@ Society of Harmonic Curves
 Currency of a country based on the taxable property of the Country <del>which are covered?</del> ==taxable Values=={description="Edison later proposed a commodity-based currency plan. See David Hammes, Harvesting Gold: Thomas Edison's Experiment to Re-Invent American Money (Silver City, N.M.: Richard Mahler Publications, 2012). <br><br>Note for when 1922 EGF is added: Thomas A. Edison, A Proposed Amendment to the Federal Reserve Banking System (1922), Banking folder, 1922 EGF."} on more scientific & exact basis— platina only used as small change & of as token character.
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="4" right
-Aluminium=
+==Aluminium=={description="23 See TAEB 9: 104–9for Edison’s experiments regarding the production of aluminum. He also periodically conducted filament and phonograph cylinder experiments involving aluminum. <br><br>TAEB 7: 475; 8: 370, 415, 431, 588-89, 612, 651, 699-701, 810, 850, 856, 861-62  9:, TAEB 10: 849, 853."}=
 
 <span style="color:red">*X*</span> Rigid Road bed banded driving wheels for elasticity.
 
