@@ -31,7 +31,8 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 5 <span style="color:red">*X*</span> ==Electric Locomotion in Cities=={description="Edison had originally experimented with electric railways at his Menlo Park laboratory in the early 1880s. Between 1888 and 1891, he experimented with another electric railway system at his West Orange laboratory. Documents related to this work are found in TAEB 5-6 and 9-10."} Licensed wagons.
 
-==6=={description="Edison drew a circle around the numbers 6, 7, and 8."} Increased speed steamships. ==Electrolysis on surface reduce skin friction.=={description="In a March 1889 caveat Edison proposed “a method of preventing in a great measure friction of the water against the hull of ship & thus Either increases their speed or diminish coal consumption & incidentally prevent fouling by barnacles.” In July 1889 he drafted a related patent application that he later abandoned after it was rejected by the Patent Office."} Screw propeller done away with, friction to work done being too great.
+==6=={description="Edison drew a circle around the numbers 6, 7, and 8."} Increased speed steamships. ==Electrolysis on surface reduce skin friction.=={description="In a March 1889 caveat Edison proposed “a method of preventing in a great measure friction of the water against
+the hull of ship & thus Either increases their speed or diminish coal consumption & incidentally prevent fouling by barnacles.” In July 1889 he drafted a related patent application that he later abandoned after it was rejected by the Patent Office. TAEB 9: 648; TAEB 10: 330–33"} Screw propeller done away with, friction to work done being too great.
 
 ==7=={description="Edison drew a circle around the numbers 6, 7, and 8."} Direct thrust— Sails done away with wave motion used to condense air— ==**OK**=={description="Edison’s “OK” followed by vertical lines to indicate combination of items 6 and 7."}.
 
