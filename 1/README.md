@@ -41,7 +41,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 <span style="color:red">*X*</span> <del>Pig iron made</del> ==wrot iron=={description="For Edison’s experiments with wrought iron see TAEB 8: 716-17, 9: 705"} puddled by whirling motion giving ==mechanical=={description="underlined by Lathrop"} & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—<del>pig iron</del> steel made from <del>steel by passing current thr</del> pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
 
-<span style="color:red">*X What new force?*</span>
+<span style="color:red">*X What ==new force=={description="Throughout his career Edison experimented periodically to find a new force. His most well-known experiments are on what he called etheric force. See especially TAEB 2 and 8."}?*</span>
 <del>Electric</del> Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
 
 Animation suspended by Chloroform then Submersion in pure cyanogen Lowerest boiling point Hydrocarbon of the peteroleum series—octane?—until all water displaced in the tissued & then sealed in glass vessels <del>animation</del> thus preventing decomposition by the action of Bacteria internal & external= reanimated by Exhaustion of the Cyanogen by Vacuum pump & letting in of pure distilled water at temperature of 98.4—with mechanical inflation of the lungs and the use of a weak current to start muscular action
