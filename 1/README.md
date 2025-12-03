@@ -39,7 +39,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 9 going NS & EW— blown out line generate current to put them back in line magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps <del>continuous</del> proper altitude. Caught by sails on Towers— ==**OK**=={description="Edison’s “OK” followed by vertical line to indicate combination of items 8 and 9."}
 
-<span style="color:red">*X*</span> <del>Pig iron made</del> wrot iron puddled by whirling motion giving ==mechanical=={description="underlined by Lathrop"} & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—<del>pig iron</del> steel made from <del>steel by passing current thr</del> pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
+<span style="color:red">*X*</span> <del>Pig iron made</del> ==wrot iron=={description="For Edison’s experiments with wrought iron see TAEB 8: 716-17, 9: 705"} puddled by whirling motion giving ==mechanical=={description="underlined by Lathrop"} & magnetically with Cobalt, large amount discovered— whirls each particle Carbon in Contact with the oxide iron—<del>pig iron</del> steel made from <del>steel by passing current thr</del> pig iron by passing current eliminating Carbon as graphite more & more until requisite point reached. all iron ore purified before use & bricked by Coking Coal, & fluxes so small furnaces used.
 
 <span style="color:red">*X What new force?*</span>
 <del>Electric</del> Signaling at seal, cloud flash—induction,—Cables using Thin Copper wire & signaling by new force.
