@@ -64,13 +64,15 @@ Dropping Dynamite from Balloons—Warfare. Police ballons to prevent robbery fro
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="3" right
 using large bricks everything laid by machinery Controlled by few men
 
-Carbonado made by fusing Syrian asphalt in ==steel=={description=" 'pure iron' interlined above"} shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the ==steel=={description=" 'iron' interlined above"} bath to the temperature of melting—softening.
+==Carbonado made=={description="https://en.wikipedia.org/wiki/Carbonado"} by fusing ==Syrian asphalt=={description="Edison experimented with Syrian asphalt for moulded cylinder records for his phonograph and for lamp filaments.  See for example, TAEB 8: 876, TAEB 9: 122 n. 5, 517–520, 581–85; TAEB 10: 721."} in ==steel=={description=" 'pure iron' interlined above"} shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the ==steel=={description=" 'iron' interlined above"} bath to the temperature of melting—softening.
 
-Diamonds made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide <span style="color:red">*X*</span> of Carbon in <del>glass</del> bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & ==plating=={description="'electro' interlined above"} -- ==Iron=={description="'pure' interlined above"} over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
+==Diamonds=={description="Edison speculated on the production of artificial diamonds using bisulfide of carbon in a November 1887 technical note. TAEB 8: 870."} made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide <span style="color:red">*X*</span> of Carbon in <del>glass</del> bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & ==plating=={description="'electro' interlined above"} -- ==Iron=={description="'pure' interlined above"} over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
 
 Society of Harmonic Curves
 
-Currency of a country based on the taxable property of the Country <del>which are covered?</del> taxable Values on more scientific & exact basis— platina only used as small change & of as token character
+Currency of a country based on the taxable property of the Country <del>which are covered?</del> ==taxable Values=={description="Edison later proposed a commodity-based currency plan. See David Hammes, Harvesting Gold: Thomas Edison's Experiment to Re-Invent American Money (Silver City, N.M.: Richard Mahler Publications, 2012). 
+
+Note for when 1922 EGF is added: Thomas A. Edison, A Proposed Amendment to the Federal Reserve Banking System (1922), Banking folder, 1922 EGF.  on more scientific & exact basis— platina only used as small change & of as token character."
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="4" right
 Aluminium=
