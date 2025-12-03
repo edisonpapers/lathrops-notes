@@ -54,7 +54,7 @@ neutralization of gravitation by a  <span style="color:red">*X*</span> ==a molec
 
 Dropping Dynamite from Balloons—Warfare. Police ballons to prevent robbery from sailing ballons with grapling & confederates—dangling ropes &
 
-<span style="color:red">*X To accomplish what?*</span> Disassociation of all the Halogen Group & elementary gases by incandescent filiments in Vacua powerful temperature
+<span style="color:red">*X To accomplish what?*</span> Disassociation of all the ==Halogen Group=={description=" https://en.wikipedia.org/wiki/Halogen"} & elementary gases ==by incandescent filiments in Vacua=={description="16 Edison conducted many lamp experiments related to removing chlorine, bromine, and iodine vapors from his vacuum lamps. See “Summer Lamp Experiments and ‘Soak Patent’ Applications” and related documents. TAEB 8: 559-61."} powerful temperature
 
 <span style="color:red">*X*</span> Artificial mother pearl by dipping plates. **OK**  
 
