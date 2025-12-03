@@ -70,7 +70,7 @@ using large bricks everything laid by machinery Controlled by few men
 
 Society of Harmonic Curves
 
-Currency of a country based on the taxable property of the Country <del>which are covered?</del> ==taxable Values=={description="Edison later proposed a commodity-based currency plan. See David Hammes, Harvesting Gold: Thomas Edison's Experiment to Re-Invent American Money (Silver City, N.M.: Richard Mahler Publications, 2012). <br><br>Note for when 1922 EGF is added: Thomas A. Edison, A Proposed Amendment to the Federal Reserve Banking System (1922), Banking folder, 1922 EGF.  on more scientific & exact basis— platina only used as small change & of as token character."}
+Currency of a country based on the taxable property of the Country <del>which are covered?</del> ==taxable Values=={description="Edison later proposed a commodity-based currency plan. See David Hammes, Harvesting Gold: Thomas Edison's Experiment to Re-Invent American Money (Silver City, N.M.: Richard Mahler Publications, 2012). <br><br>Note for when 1922 EGF is added: Thomas A. Edison, A Proposed Amendment to the Federal Reserve Banking System (1922), Banking folder, 1922 EGF."} on more scientific & exact basis— platina only used as small change & of as token character.
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="4" right
 Aluminium=
