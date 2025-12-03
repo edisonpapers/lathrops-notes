@@ -35,7 +35,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 ==7=={description="Edison drew a circle around the numbers 6, 7, and 8."} Direct thrust— Sails done away with wave motion used to condense air— ==**OK**=={description="Edison’s “OK” followed by vertical lines to indicate combination of items 6 and 7."}.
 
-==8=={description="Edison drew a circle to connect “8" to its text."} <span style="color:red">*X*</span> Ballon only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
+==8=={description="Edison drew a circle to connect “8" to its text."} <span style="color:red">*X*</span> ==Ballon=={description="In 1880 Edison experimented with a “captive balloon” for aerial navigation. TAEB 5: 776–78"} only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, flotation sails— small mail carriers—
 
 9 going NS & EW— blown out line generate current to put them back in line magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps <del>continuous</del> proper altitude. Caught by sails on Towers— ==**OK**=={description="Edison’s “OK” followed by vertical line to indicate combination of items 8 and 9."}
 
