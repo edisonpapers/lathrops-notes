@@ -85,7 +85,7 @@ Artificial Wood formed of compressed chloro-==Cellulose=={description="Celluloid
 
 Animal matter not used fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
 
-<span style="color:red">*X*</span> ==Artificial silk=={description="TAEB 8: 135, 472, 478, 807; 9: 15, 63, 1016, 1018; 10: 898–99."} made from <del>by</del> __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted <del>and</del> into <del>into fibre</del> a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
+<span style="color:red">*X*</span> ==Artificial silk=={description="<i>TAEB</i> 8: 135, 472, 478, 807; 9: 15, 63, 1016, 1018; 10: 898–99."} made from <del>by</del> __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted <del>and</del> into <del>into fibre</del> a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="5" right
 applies Electricity foot dia— dif quant sugar etc ==artfcl Light=={description="This may be related to arc lamp and/or incandescent filament experiments. See TAEB 8:335–36, 576, 597–600, 606–8, 612, 699–701, 705–6, 710–11."}
