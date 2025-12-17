@@ -124,7 +124,7 @@ Exhumation of <del>Copper</del> slate tablets high table Lands of Ecudor distort
 
 <span style="color:red">*X Details?*</span> Starch Sugar. a protein substances made in immense quantities by factors on the Amazons India & Afraica from woody fibre by Chemical transformations <del>Trans Method</del> Construction of the molecules of Carbohydrates and methods of rearranging the construction having been <del>constructed</del> discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
 
-<span style="color:red">*X*</span> Turpentine by Vacuum — **OK** 
+<span style="color:red">*X*</span> ==Turpentine by Vacuum=={description="See <i>TAEB</i> 8: 394" — **OK** 
 
 Factories auto run by one man.
 
