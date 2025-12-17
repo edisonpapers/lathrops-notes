@@ -157,7 +157,7 @@ Each farm<span style="color:red">*?*</span> by wind to fix Nitrogen in soil— L
 
 <span style="color:red">*X*</span> Reflecting telescopes 130 ft Dia. RR trains bldgs 
 
-Cities Seen on Mars ==Teleghg Kept up=={description="circled by Edison."}.**OK**
+Cities Seen on Mars Teleghg Kept up.**OK**
 
 <span style="color:red">*X*</span> Photography colors—
 
