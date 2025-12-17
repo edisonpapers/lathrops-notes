@@ -79,7 +79,7 @@ Currency of a country based on the taxable property of the Country <del>which ar
 
 Music instruments controlled by Jacquard tapes. 
 
-Phono publishing houses Kept star Cos of actors & stage and produced for family use Kinetographic phonograms of whole Dramas & Operas— No theatres with actors in Vogue
+Phono publishing houses Kept star Cos of actors & stage and produced for family use ==Kinetographic phonograms=={description="TAEB 10: 625–39."} of whole Dramas & Operas— No theatres with actors in Vogue
 
 Artificial Wood formed of compressed chloro-==Cellulose=={description="Celluloid, a solution of nitrocellulose and camphor, was developed in 1869 by John Hyatt, an Albany, N.Y., printer. With his brother Isaiah, Hyatt established the Celluloid Manufacturing Co. in 1871, and the following year they moved its operations to Newark, NJ. Edison and Murray began manufacturing comb-cutters and other items for them in 1874. The following year, Edison began experimenting with developing better solvents in order to use celluloid for producing artificial materials, especially lamp filaments. TAEB 2: 493–94, 497, 500, 603–4, 627, 667; TAEB 3: 133; 6: 543, 7: 458–59, 466, 470, 474; 8:137 n. 2, 665."} Chlorinized & asbestos fibre & Talc—with solvent boiled<span style="color:red">*X Detail?*</span> & worked like wood fibre disintegated by water under pressure.— Bricks made 6 times the present side & dried in large iron chambers rapidly with 50 pct of sand prevent shrinking Cement used composed of a mixture of lime & Clay with Nitre producing intense local heat when in situ <del>back</del> fusing surfaces together.
 
