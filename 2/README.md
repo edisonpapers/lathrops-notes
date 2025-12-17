@@ -31,7 +31,7 @@ That the white blood capscules of the blood were the policemen of organized bein
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="2" right right
-That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. ==Erysipelass=={description="interlined above by Lathrop"} Typhoid Yellow scarlest & malerial fever & several other diseases of microbic origin were given all the scholars children but one innoculation every 7 years by Law— That the diseases mentioned had become rare.
+That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. Erysipelass Typhoid Yellow scarlest & malerial fever & several other diseases of microbic origin were given all the scholars children but one innoculation every 7 years by Law— That the diseases mentioned had become rare.
 
  All habitual criminals were isolated In districts—<del>sex</del> during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
 
@@ -39,7 +39,7 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="3" right
-<span style="color:red">*X*</span> The street pavements softest norway iron laid on rubber, also like wire seiving inch bars filled ==with=={description=" 'filled with' interlined above"} blocks, with iron powder held on magnetism 
+<span style="color:red">*X*</span> The street pavements softest norway iron laid on rubber, also like wire seiving inch bars filled with blocks, with iron powder held on magnetism 
     
 <del>Perm?</del> Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
 
