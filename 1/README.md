@@ -29,7 +29,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 4 <span style="color:red">*X*</span> 6th sense. ==Terpenes periodic.=={description="https://en.wikipedia.org/wiki/Terpene"} <span style="color:red">*[What apparatus for utilizing this?]*</span> **OK** 
 
-5 <span style="color:red">*X*</span> ==Electric Locomotion in Cities=={description="Edison had originally experimented with electric railways at his Menlo Park laboratory in the early 1880s. Between 1888 and 1891, he experimented with another electric railway system at his West Orange laboratory. Documents related to this work are found in <i>TAEB</i> 5-6 and 9-10."} Licensed wagons.
+5 <span style="color:red">*X*</span> ==Electric Locomotion in Cities=={description="Edison had originally experimented with electric railways at his Menlo Park laboratory in the early 1880s. Between 1888 and 1891, he experimented with a low-voltage electric street railway system at his West Orange laboratory. Documents related to this work are found in <i>TAEB</i> 5-6 and 9-10."} Licensed wagons.
 
 6 Increased speed steamships. Electrolysis on surface ==reduce skin friction.=={description="In a March 1889 caveat Edison proposed “a method of preventing in a great measure friction of the water against the hull of ship & thus Either increases their speed or diminish coal consumption & incidentally prevent fouling by barnacles.” In July 1889 he drafted a related patent application that he later abandoned after it was rejected by the Patent Office. <i>TAEB</i> 9: 648; TAEB 10: 330–33"} Screw propeller done away with, friction to work done being too great.
 
