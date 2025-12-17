@@ -56,7 +56,7 @@ Dropping Dynamite from Balloons—Warfare. Police ballons to prevent robbery fro
 
 <span style="color:red">*X To accomplish what?*</span> Disassociation of all the ==Halogen Group=={description=" https://en.wikipedia.org/wiki/Halogen"} & elementary gases ==by incandescent filiments in Vacua=={description="Edison conducted many lamp experiments related to removing chlorine, bromine, and iodine vapors from his vacuum lamps. See “Summer Lamp Experiments and ‘Soak Patent’ Applications” and related documents. TAEB 8: 559-61."} powerful temperature
 
-<span style="color:red">*X*</span> ==Artificial mother pearl=={description="Edison periodically experimented on methods of producing artificial mother of pearl. See TAEB 8: 665–66, TAEB 9: 1017." by dipping plates. **OK**
+<span style="color:red">*X*</span> ==Artificial mother pearl=={description="Edison periodically experimented on methods of producing artificial mother of pearl. See TAEB 8: 665–66, TAEB 9: 1017." by dipping plates.} **OK**
 
 <span style="color:red">*X*</span> ==Photography in the dark by radiant heat=={description="This may be related to proposed experiments for his new laboratory. See TAEB 8: 850, 873; TAEB 9: 16."}.
 
@@ -64,7 +64,7 @@ Dropping Dynamite from Balloons—Warfare. Police ballons to prevent robbery fro
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="3" right
 using large bricks everything laid by machinery Controlled by few men
 
-==Carbonado made=={description="https://en.wikipedia.org/wiki/Carbonado"} by fusing ==Syrian asphalt=={description="Edison experimented with Syrian asphalt for moulded cylinder records for his phonograph and for lamp filaments.  See for example, TAEB 8: 876, TAEB 9: 122 n. 5, 517–520, 581–85; TAEB 10: 721."} in pure iron steel shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the ==steel=={description=" 'iron' interlined above"} bath to the temperature of melting—softening.
+==Carbonado made=={description="https://en.wikipedia.org/wiki/Carbonado"} by fusing ==Syrian asphalt=={description="Edison experimented with Syrian asphalt for moulded cylinder records for his phonograph and for lamp filaments.  See for example, TAEB 8: 876, TAEB 9: 122 n. 5, 517–520, 581–85; TAEB 10: 721."} in <del>steel</del> pure iron shells of great thickness produced by depositing electrolytically over the surface of the asphalt previously made conducting by plumbago Then slowly heating the <del>steel</del> iron bath to the temperature of melting—softening.
 
 ==Diamonds=={description="Edison speculated on the production of artificial diamonds using bisulfide of carbon in a November 1887 technical note. TAEB 8: 870."} made by subjecting Crystals of the metals Crystalizing in the same system as the diamond to the action of time heat & pressure while immersed in Bisulphide <span style="color:red">*X*</span> of Carbon in <del>glass</del> bulbs of pure Quartz blow by the aid of a magnetically diflected arc plumbagoing the surface & ==plating=={description="'electro' interlined above"} -- ==Iron=={description="'pure' interlined above"} over the same until the ball was 20 times the diameter of the original— then submitting the whole to a gradually rising temperature until the softening point reached—
 
