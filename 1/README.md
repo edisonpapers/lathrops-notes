@@ -85,7 +85,7 @@ Artificial Wood formed of compressed chloro-==Cellulose=={description="Celluloid
 
 Animal matter not used fixation of nitrogen produced vegitable nitrogenous articles in Endless number so vegitable steaks etc
 
-<span style="color:red">*X*</span> Artificial silk made from <del>by</del> __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted <del>and</del> into <del>into fibre</del> a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
+<span style="color:red">*X*</span> ==Artificial silk=={description="TAEB 8: 135, 472, 478, 807; 9: 15, 63, 1016, 1018; 10: 898–99."} made from <del>by</del> __ one of the Nitrogen Compounds squirted into a Vacuum—also by nitrocelluose squirted <del>and</del> into <del>into fibre</del> a continuously workedb Vacuous space, & subsequently reduced to Cellulose by Hot Sulphydrate of ammonia under pressure—
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="5" right
 applies Electricity foot dia— dif quant sugar etc artfcl Light
@@ -110,7 +110,7 @@ Military Signally—
 Cyclones were found to be do to the a change in the the Electrical Conditions atmosphere that forrest produces quiet equalization & done away with them. That whole west which were once plains were now thickly— Tree Cultiv by state.
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="6" right
-<span style="color:red">*X*</span> ==Electric Loco=={description="For Edison’s long-distance electric railway to replace steam locomotives see TAEB 10: 643–44, 763, 891, 911."—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
+<span style="color:red">*X*</span> ==Electric Loco=={description="For Edison’s long-distance electric railway to replace steam locomotives see TAEB 10: 643–44, 763, 891, 911."}—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
 
 Electricity ==direct from=={description="partially obscured"} coal—described in another law
 
