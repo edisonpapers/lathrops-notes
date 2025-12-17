@@ -153,7 +153,7 @@ fixation <del>Electrically of Nitrogen in</del> Electrical Machinery
 
 Each farm<span style="color:red">*?*</span> by wind to fix Nitrogen in soil— Luxuriant Vegitation.
 
-<span style="color:red">*X*</span> ==Sun Engines=={description="See "Power to be Derived Direct from the Sunshine," <i>Philadelphia Press</i>, 22 Nov. 1896 (<i>TAED</i> SC96071A1)"} — Sun Light directly into Electricity
+<span style="color:red">*X*</span> ==Sun Engines=={description="See 'Power to be Derived Direct from the Sunshine,' <i>Philadelphia Press</i>, 22 Nov. 1896 (<i>TAED</i> SC96071A1)"} — Sun Light directly into Electricity
 
 <span style="color:red">*X*</span> Reflecting telescopes 130 ft Dia. RR trains bldgs 
 
