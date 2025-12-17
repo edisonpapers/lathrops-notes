@@ -135,7 +135,7 @@ Siberian Railroad,— RR from Alaska to End Chili <del>Central</del> African RR�
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="7" right	
 <del>state</del> children— paring Longlivity custodians of knowledge—
-==Music by telephone=={description="Note early experiments related to transmission of music"}.
+==Music by telephone=={description="For experiments with transmitting music via Edison’s telephone see <i>TAEB</i> 3: 64, 287–88, 314, 409, 426–27, 435–36, 446, 448, 452–54, 458–60, 480–82, 512, 527, 576, 579, 596, 628; 4: 4."}.
 
 Phonogh newspapers—Operas— **OK** 
 
