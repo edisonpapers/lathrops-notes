@@ -122,7 +122,7 @@ Darwinian Society at Para. Development Monkey reached that of negro—conditions
 
 Exhumation of <del>Copper</del> slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100,000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
 
-<span style="color:red">*X Details?*</span> Starch Sugar. a protein substances made in immense quantities by factors on the Amazons India & Afraica from woody fibre by Chemical transformations <del>Trans Method</del> Construction of the ==molecules of=={description=" 'molecules of' interlined above"} Carbohydrates and methods of rearranging the construction having been <del>constructed</del> discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
+<span style="color:red">*X Details?*</span> Starch Sugar. a protein substances made in immense quantities by factors on the Amazons India & Afraica from woody fibre by Chemical transformations <del>Trans Method</del> Construction of the molecules of Carbohydrates and methods of rearranging the construction having been <del>constructed</del> discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
 
 <span style="color:red">*X*</span> Turpentine by Vacuum — **OK** 
 
