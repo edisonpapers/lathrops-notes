@@ -164,9 +164,9 @@ Cities Seen on Mars Teleghg Kept up.**OK**
 <span style="color:red">*X*</span> photoghy of surface sun by iron salts in a alternating field— only ultra waves due to high temperatures.
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/D9004AFW/manifest seq="33" right	
-<span style="color:red">*X*</span> System street RR suburbian
+<span style="color:red">*X*</span> ==System street RR=={description="Edison had originally experimented with electric railways at his Menlo Park laboratory in the early 1880s. Between 1888 and 1891, he experimented with a low-voltage electric street railway system at his West Orange laboratory. Documents related to this work are found in <i>TAEB</i> 5-6 and 9-10."} suburbian
 
-<span style="color:red">*X*</span> Glass squirted.
+<span style="color:red">*X*</span> ==Glass squirted=={description="Edison’s 1888 lists of experiments included the manufacture of sheet glass (<i>TAEB</i> 9: 16, 1017). See also U.S. Patents 506,215 and 506,216."}.
 
  <span style="color:red">*X*</span> Pottery dried Vac— Vitrified instantly by nitre on surface—
 
