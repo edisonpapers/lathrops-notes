@@ -112,7 +112,7 @@ Cyclones were found to be do to the a change in the the Electrical Conditions at
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="6" right
 <span style="color:red">*X*</span> ==Electric Loco=={description="For Edison’s long-distance electric railway to replace steam locomotives see TAEB 10: 643–44, 763, 891, 911."}—1020 miles hours 100 lb rail stone balast electric welded rail with Expansion joint every 200 feet. steel ties with curious arrangement for elasticity.
 
-Electricity ==direct from=={description="partially obscured"} coal—described in another law
+==Electricity direct from coal=={description="For Edison’s experiments related to the direct conversion of coal into electricity using fuel cells and devices he  referred to as pyromagnetic generators and motors. See TAEB 6: 396–97,455, 479–80; 7:251–58, 454– 55, 605– 6, 608, 611– 12; 9: 25–29, 97–98, 656."}—described in another law
 
 Gas used for heat. Electricity for Light & power <del>40</del> 700 candles per 1 lb of pure Carbon per hour—
 
