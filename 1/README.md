@@ -135,17 +135,17 @@ Siberian Railroad,— RR from Alaska to End Chili <del>Central</del> African RR�
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3001/manifest seq="7" right	
 <del>state</del> children— paring Longlivity custodians of knowledge—
-Music by telephone.
+==Music by telephone=={description="Note early experiments related to transmission of music"}.
 
 Phonogh newspapers—Operas— **OK** 
 
-<span style="color:red">*X*</span> Kinetoscopic Operas with phono Every family wealth. **OK**
+<span style="color:red">*X*</span> ==Kinetoscopic Operas with phono=={description="For Edison’s and William Dickson’s experiments on combining the phonograph and kinetograph see <i>TAEB</i> 10: 625–39."} Every family wealth. **OK**
 
 <span style="color:red">*X*</span> New teeth started by Calcerous antispierized bandages
 
 <span style="color:red">*X*</span> Bald headness due to want <del>circulation</del> ventilation open hats.
 
-<span style="color:red">*X*</span> Artificial Silk—
+<span style="color:red">*X*</span> ==Artificial Silk=={description="For Edison’s experiments on artificial silk see <i>TAEB</i> 8: 135, 472, 478, 807; 9: 15, 63, 1016, 1018; 10: 898–99."}—
 
 <span style="color:red">*X*</span> Leather <del>from Gelatin Vegetable gelatin</del>: fixation of N in Carbohydrates Electrically.
 
@@ -153,7 +153,7 @@ fixation <del>Electrically of Nitrogen in</del> Electrical Machinery
 
 Each farm<span style="color:red">*?*</span> by wind to fix Nitrogen in soil— Luxuriant Vegitation.
 
-<span style="color:red">*X*</span> Sun Engines— Sun Light directly into Electricity
+<span style="color:red">*X*</span> ==Sun Engines=={description="See "Power to be Derived Direct from the Sunshine," <i>Philadelphia Press</i>, 22 Nov. 1896 (TAED SC96071A1)"} — Sun Light directly into Electricity
 
 <span style="color:red">*X*</span> Reflecting telescopes 130 ft Dia. RR trains bldgs 
 
