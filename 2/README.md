@@ -35,7 +35,7 @@ That compound virus consisting of the weakened cultures of Rabies, Consumption D
 
  All habitual criminals were isolated In districts—<del>sex</del> during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
 
-physiosgonmy an Exact science— criminal propensities plain to all men— hence all being warned the struggle for Existence of those Criminally inclined difficult causing rapid elimination by ==Evolution artifically produced=={"This idea is related to the widespread nineteenth-century pseudoscience of phrenology in which the shape of an individual’s skull and its bumps were said to indicate mental traits and character. In 1878, the Phrenological Journal published a portrait and biography of the inventor, including a discussion of the mental and personal characteristics purportedly evident in his portrait. Later that year, Edison also sat for a phrenological bust commissioned by the Phrenological Institute of New York. Edison himself believed that the shape of a head and its features provided useful information, but that the bumps did not. For that reason, he sometimes asked prospective employees to submit a photograph or commented on their features after seeing them. TAEB 4: 36; 7:149, 174 n. 1."}
+physiosgonmy an Exact science— criminal propensities plain to all men— hence all being warned the struggle for Existence of those Criminally inclined difficult causing rapid elimination by ==Evolution artifically produced=={"This idea is related to the widespread nineteenth-century pseudoscience of phrenology in which the shape of an individual’s skull and its bumps were said to indicate mental traits and character. In 1878, the Phrenological Journal published a portrait and biography of the inventor, including a discussion of the mental and personal characteristics purportedly evident in his portrait. Later that year, Edison also sat for a phrenological bust commissioned by the Phrenological Institute of New York. Edison himself believed that the shape of a head and its features provided useful information, but that the bumps did not. For that reason, he sometimes asked prospective employees to submit a photograph or commented on their features after seeing them. *TAEB* 4: 36; 7:149, 174 n. 1; 8: 235–41."}
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="3" right
@@ -58,11 +58,11 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
 	
 wagon wheels for sandy countries with side flanges prevent moving of sand sidewise & sinking & rendering all the power lost by displacement & friction conserved— 
 
-Mowing machines run by electro motors trolley wire system—
+Mowing machines run by =electro motors trolley wire system={description="Commercial electric railway systems developed in the late 1880s used an overhead trolley wire system to power passenger trains. Between 1888 and 1891 Edison unsuccessfully sought to develop an alternative system using low-voltage currents carried by the tracks. See *TAEB* 9 and 10 passim, especially 10:29–30."}—
 
 <span style="color:red">*X*</span> Iron by electrolysis—
 
-<span style="color:red">*X*</span> ==Mfr Oxygen by passing air over molten Titanium=={description="See TAEB 8: 135–36, 439."}.
+<span style="color:red">*X*</span> ==Mfr Oxygen by passing air over molten Titanium=={description="See *TAEB* 8: 135–36, 439."}.
 
 <span style="color:red">*X*</span> Soft pig iron slow cooling—
 
