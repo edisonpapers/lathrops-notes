@@ -19,11 +19,11 @@ Edison wrote this set in pencil on five pages. The editors have arranged the tex
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="1" right
-<span style="color:red">*X*</span> ==Electric Tricycles=={description="For Edison’s work on electric tricycles see TAEB 9: 807-8 (n. 4)."}=Carriages. supply stations at all Hotels in Country to recharge batteries.
+<span style="color:red">*X*</span> ==Electric Tricycles=={description="For Edison’s work on electric tricycles see *TAEB* 9: 807-8 (n. 4)."}=Carriages. supply stations at all Hotels in Country to recharge batteries.
 
 <del>Lightning charges utilized= high rods—ends immersed</del>
  
-<span style="color:red">*XX How use?*</span> ==Discovery large Source Gallium=={description="This may be related to Edison’s idea regarding the finding of ore veins. TAEB 2: 610-11"}—
+<span style="color:red">*XX How use?*</span> ==Discovery large Source Gallium=={description="This may be related to Edison’s idea regarding the finding of ore veins. *TAEB* 2: 610-11"}—
 
 Grape sugar displaces Cane sugar as investigation proved that Cane sugar is not the natural sugar of man being a Crystaline product artificial to man—
 
@@ -31,11 +31,11 @@ That the white blood capscules of the blood were the policemen of organized bein
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="2" right right
-That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. Erysipelass Typhoid Yellow scarlest & malerial fever & several other diseases of microbic origin were given all the scholars children but one innoculation every 7 years by Law— ==That the diseases mentioned had become rare=={description="Edison conducted experiments to kill microbes in the environment in September 1888 (TAEB 9: 378–81). This and the preceding paragraph suggest that his thinking on the subject had been influenced by meeting Louis Pasteur and visiting his clinic in Paris in August 1889 and seeing patients being inoculated (TAEB 9: 819, 1006; TAEB 10:476)."}.
+That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. Erysipelass Typhoid Yellow scarlest & malerial fever & several other diseases of microbic origin were given all the scholars children but one innoculation every 7 years by Law— ==That the diseases mentioned had become rare=={description="Edison conducted experiments to kill microbes in the environment in September 1888 (*TAEB* 9: 378–81). This and the preceding paragraph suggest that his thinking on the subject had been influenced by meeting Louis Pasteur and visiting his clinic in Paris in August 1889 and seeing patients being inoculated (*TAEB* 9: 819, 1006; *TAEB* 10:476)."}.
 
  All habitual criminals were isolated In districts—<del>sex</del> during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
 
-physiosgonmy an Exact science— criminal propensities plain to all men— hence all being warned the struggle for Existence of those Criminally inclined difficult causing rapid elimination by Evolution artifically produced
+physiosgonmy an Exact science— criminal propensities plain to all men— hence all being warned the struggle for Existence of those Criminally inclined difficult causing rapid elimination by ==Evolution artifically produced=={"This idea is related to the widespread nineteenth-century pseudoscience of phrenology in which the shape of an individual’s skull and its bumps were said to indicate mental traits and character. In 1878, the Phrenological Journal published a portrait and biography of the inventor, including a discussion of the mental and personal characteristics purportedly evident in his portrait. Later that year, Edison also sat for a phrenological bust commissioned by the Phrenological Institute of New York. Edison himself believed that the shape of a head and its features provided useful information, but that the bumps did not. For that reason, he sometimes asked prospective employees to submit a photograph or commented on their features after seeing them. TAEB 4: 36; 7:149, 174 n. 1."}
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="3" right
@@ -43,9 +43,10 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
     
 <del>Perm?</del> Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
 
-<span style="color:red">*X*</span> flexible window glass artificial Mica. <span style="color:red">*How made?*</span> <OK>
+<span style="color:red">*X*</span> ==flexible window glass artificial Mica=={description="In experiments with insulating materials Edison sometimes listed thin glass and mica among other substances. In other experiments used thin glass, mica, and other substances as diaphragms for his phonograph. Edison treated the substitution of one material for another as a method of creating an artificial version (see various artificial materials in Edison’s Pen Notes for Lathrop). In 1890 Edison began hunting for sources of mica for insulation and acquired mica mines, which might have further spurred his thinking about uses for the material. *TAEB* 9: 150 n. 1. 356; 10:
+379, 770; *TAED* N314199, D8847AAK, NM023095A, LB053027A."}. <span style="color:red">*How made?*</span> <OK>
 
-<span style="color:red">*X*</span> Lubrication at high temperature by the Bromine substitution ==Compounds of the Hydrocarbons=={description="This may have occurred to Edison during experiments on filaments. See TAEB 8: 587, TAEB 9: 583–84"}
+<span style="color:red">*X*</span> Lubrication at high temperature by the Bromine substitution ==Compounds of the Hydrocarbons=={description="This may have occurred to Edison during experiments on filaments. See *TAEB* 8: 587, *TAEB* 9: 583–84"}
 
 <span style="color:red">*X What shall we do with it?*</span> Discovery of an ore <del>contai</del> in Hudson Bay Country containing a metal giving the Unknown Spectroscopic Line Helium of the sun
 
@@ -61,7 +62,7 @@ Mowing machines run by electro motors trolley wire system—
 
 <span style="color:red">*X*</span> Iron by electrolysis—
 
-<span style="color:red">*X*</span> Mfr Oxygen by passing air over molten Titanium.
+<span style="color:red">*X*</span> ==Mfr Oxygen by passing air over molten Titanium=={description="See TAEB 8: 135–36, 439."}.
 
 <span style="color:red">*X*</span> Soft pig iron slow cooling—
 
