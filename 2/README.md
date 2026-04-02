@@ -19,11 +19,11 @@ Edison wrote this set in pencil on five pages. The editors have arranged the tex
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="1" right
-<span style="color:red">*X*</span> ==Electric Tricycles=={description="For Edison’s work on electric tricycles see TAEB 9: 807"}=Carriages. supply stations at all Hotels in Country to recharge batteries.
+<span style="color:red">*X*</span> ==Electric Tricycles=={description="For Edison’s work on electric tricycles see TAEB 9: 807-8 (n. 4)."}=Carriages. supply stations at all Hotels in Country to recharge batteries.
 
 <del>Lightning charges utilized= high rods—ends immersed</del>
  
-<span style="color:red">*XX How use?*</span> Discovery large Source Gallium—
+<span style="color:red">*XX How use?*</span> ==Discovery large Source Gallium=={description="This may be related to Edison’s idea regarding the finding of ore veins. TAEB 2: 610-11"}—
 
 Grape sugar displaces Cane sugar as investigation proved that Cane sugar is not the natural sugar of man being a Crystaline product artificial to man—
 
@@ -31,7 +31,7 @@ That the white blood capscules of the blood were the policemen of organized bein
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="2" right right
-That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. Erysipelass Typhoid Yellow scarlest & malerial fever & several other diseases of microbic origin were given all the scholars children but one innoculation every 7 years by Law— That the diseases mentioned had become rare.
+That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. Erysipelass Typhoid Yellow scarlest & malerial fever & several other diseases of microbic origin were given all the scholars children but one innoculation every 7 years by Law— ==That the diseases mentioned had become rare=={description="Edison conducted experiments to kill microbes in the environment in September 1888 (TAEB 9: 378–81). This and the preceding paragraph suggest that his thinking on the subject had been influenced by meeting Louis Pasteur and visiting his clinic in Paris in August 1889 and seeing patients being inoculated (TAEB 9: 819, 1006; TAEB 10:476)."}.
 
  All habitual criminals were isolated In districts—<del>sex</del> during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
 
@@ -45,7 +45,7 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
 
 <span style="color:red">*X*</span> flexible window glass artificial Mica. <span style="color:red">*How made?*</span> <OK>
 
-<span style="color:red">*X*</span> Lubrication at high temperature by the Bromine substitution Compounds of the Hydrocarbons
+<span style="color:red">*X*</span> Lubrication at high temperature by the Bromine substitution ==Compounds of the Hydrocarbons=={description="This may have occurred to Edison during experiments on filaments. See TAEB 8: 587, TAEB 9: 583–84}
 
 <span style="color:red">*X What shall we do with it?*</span> Discovery of an ore <del>contai</del> in Hudson Bay Country containing a metal giving the Unknown Spectroscopic Line Helium of the sun
 
