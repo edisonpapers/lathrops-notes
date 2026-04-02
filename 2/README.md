@@ -19,7 +19,7 @@ Edison wrote this set in pencil on five pages. The editors have arranged the tex
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="1" right
-<span style="color:red">*X*</span> Electric Tricycles=Carriages. supply stations at all Hotels in Country to recharge batteries.
+<span style="color:red">*X*</span> ==Electric Tricycles=={description="For Edison’s work on electric tricycles see TAEB 9: 807"}=Carriages. supply stations at all Hotels in Country to recharge batteries.
 
 <del>Lightning charges utilized= high rods—ends immersed</del>
  
