@@ -45,7 +45,7 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
 
 <span style="color:red">*X*</span> flexible window glass artificial Mica. <span style="color:red">*How made?*</span> <OK>
 
-<span style="color:red">*X*</span> Lubrication at high temperature by the Bromine substitution ==Compounds of the Hydrocarbons=={description="This may have occurred to Edison during experiments on filaments. See TAEB 8: 587, TAEB 9: 583–84}
+<span style="color:red">*X*</span> Lubrication at high temperature by the Bromine substitution ==Compounds of the Hydrocarbons=={description="This may have occurred to Edison during experiments on filaments. See TAEB 8: 587, TAEB 9: 583–84"}
 
 <span style="color:red">*X What shall we do with it?*</span> Discovery of an ore <del>contai</del> in Hudson Bay Country containing a metal giving the Unknown Spectroscopic Line Helium of the sun
 
