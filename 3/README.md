@@ -16,7 +16,10 @@ Edison wrote these notes in pen on seven pages that he marked “1C,” “2C,�
 
 The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. To see more information about the notes, hover over underlined words or letters in the transcript on the left.
 
-==the desert=={description=" Edison began to write “Odic force,” which was the name given by industrialist and chemist Karl Reichenbach to a force he claimed to have discovered in the 1840s, but his results were never accepted as valid by the scientific community. Edison conducted experiments related to odic force work in 1874 and the following year, he cited Reichenbach by name as a precursor when announcing his own discovery of a new “etheric” force. *TAEB* 2: 324–27 (Doc. 499), 581–82, 668–72 (Doc.678)."}
+==the desert=={description=" 'once' interlined above"}
+
+
+=={description=" Edison began to write “Odic force,” which was the name given by industrialist and chemist Karl Reichenbach to a force he claimed to have discovered in the 1840s, but his results were never accepted as valid by the scientific community. Edison conducted experiments related to odic force work in 1874 and the following year, he cited Reichenbach by name as a precursor when announcing his own discovery of a new “etheric” force. *TAEB* 2: 324–27 (Doc. 499), 581–82, 668–72 (Doc.678)."}
 
 ## 1C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="1" right 
