@@ -23,7 +23,7 @@ Edison wrote this set in pencil on five pages. The editors have arranged the tex
 
 <del>Lightning charges utilized= high rods—ends immersed</del>
  
-<span style="color:red">*XX How use?*</span> ==Discovery large Source Gallium=={description="This may be related to Edison’s idea regarding the finding of ore veins. *TAEB* 2: 610-11"}—
+<span style="color:red">*XX How use?*</span> ==Discovery large Source Gallium=={description="This may be related to Edison’s idea regarding the finding of ore veins. <i>TAEB</i> 2: 610-11"}—
 
 Grape sugar displaces Cane sugar as investigation proved that Cane sugar is not the natural sugar of man being a Crystaline product artificial to man—
 
