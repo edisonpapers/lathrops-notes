@@ -57,7 +57,7 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
 	
 wagon wheels for sandy countries with side flanges prevent moving of sand sidewise & sinking & rendering all the power lost by displacement & friction conserved— 
 
-Mowing machines run by =electro motors trolley wire system={description="Commercial electric railway systems developed in the late 1880s used an overhead trolley wire system to power passenger trains. Between 1888 and 1891 Edison unsuccessfully sought to develop an alternative system using low-voltage currents carried by the tracks. See <i>TAEB</i> 9 and 10 passim, especially 10:29–30."}—
+Mowing machines run by ==electro motors trolley wire system=={description="Commercial electric railway systems developed in the late 1880s used an overhead trolley wire system to power passenger trains. Between 1888 and 1891 Edison unsuccessfully sought to develop an alternative system using low-voltage currents carried by the tracks. See <i>TAEB</i> 9 and 10 passim, especially 10:29–30."}—
 
 <span style="color:red">*X*</span> Iron by electrolysis—
 
