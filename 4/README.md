@@ -25,7 +25,7 @@ The horses of the rich had reached <del>such</del> a high degree of beauty, and 
 <u>Mem</u> Photography of the bottom of the sea
 
 
-Photographs were taken of objects in absolute darkness by means of <del>heat waves</del> radiant heat being those <del>lines</del> waves <del>which wer</del> beyond the red end of the visible spectrum small lenses of Rock salt being used in the Camera. The plate is sensitized by <u> see notes watts Dic </u> above Radiant Light reflected fron an object produces more or less decomposition of a silver salt and an image. But in this case Raidiant heat absolutely invisible performs the same function— The Chemicals alone being different
+Photographs were taken of objects in absolute darkness by means of <del>heat waves</del> radiant heat being those <del>lines</del> waves <del>which wer</del> beyond the red end of the visible spectrum small lenses of Rock salt being used in the Camera. The plate is sensitized by <u>    see notes watts Dic   </u> above Radiant Light reflected fron an object produces more or less decomposition of a silver salt and an image. But in this case Raidiant heat absolutely invisible performs the same function— The Chemicals alone being different
 
 ## 3D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="3" right 
