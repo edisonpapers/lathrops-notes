@@ -30,11 +30,13 @@ Photographs were taken of objects in absolute darkness by means of <del>heat wav
 ## 3D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="3" right 
 Paper money “paper” made <del>by disintgrating the</del> from the parchment of the skin of rabbits, treated with a chemical solution which rendered it uneffected by water, wear 100 times larger—
+
 <del>Universal</del> Mint of the Federated Republic’s Branch England, United States, <del>Bueno</del> Melbourne. Gold coins of one type of equal fineness & weight throughout the world.
 
 ## 4D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="4" right 
 Nitrogen Chlorine Brome & Iodine have been found to be compounds ==<del>each having a number of homologeous compounds making up the whole</del>=={description= 'having a number of' added later in the margin"}. Analysis by means of heat disassociation in Vacua with <del>in</del> carbon filiments heated to <del>high</del> extremely high temperatures by electricity and the use of selected absorbants within The Vacuum. The disassociated <del>materials</del> molecules moving in straight lines to the glass walls of the Vacuum meet the absorbants which are afterwards <del>anylised</del> analyzed by ordinary means—
+
 <del>It has been found</del>
 
 ## 5D
@@ -44,6 +46,7 @@ One of the most beautiful processes used in the arts was the plating of all kind
 ## 6D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="6" right 
 <del>Mica has</del> 
+
 Gold Leaf and the same with other metals and materials are not made entirely by this process. The method of making the gold leaf being first the a deposit of a film of Zinc on glass over this gold then Zinc, until 200 films of gold have been deposited on a foot square on removal from the Vacuum the whole is immerse in weak sulphuric acid the Zinc is eaten away ==Leaving=={description="obscure, overwritten text"} the films of gold intact. These are <del>dried</del> dipped in Rigolene to displace the water & chemical products dried and cut to shape the film while no thicker than that made by the old process of beating gold between sheets of parchment has 30 times the strength and can be handled easily—
 
 Mica for <del>sub stoves</del>, for windows in place of glass which was used in enormous quantities is made by this process. The ingredients 
@@ -51,6 +54,7 @@ Mica for <del>sub stoves</del>, for windows in place of glass which was used in 
 ## 7D
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3004/manifest seq="7" right 
 which form mica being melted by electrical incandescence & the moment and portion becomes molten it flashes into vapor and passes in straight lines throughout the whole chamber depositing itself on any object which it may meet, and instantly solidifying—
+
 By manipulation of the current there are periods of rest between each film. The absence of light ==causes=={description=" ' on' interlined above"} the surface of the previously deposited film produces a surface change of unknown character so that when the next film is flashed It does not subsequently adhere ==to=={description="overwritten text"} form one piece but is cleaverable like true Mica— <del>Q</del>Artificial Mica formed of Quartz glass and other transparant bodies fusible by electrical incandescence are made.
     
 ## 8D
