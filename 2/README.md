@@ -31,7 +31,7 @@ That the white blood capscules of the blood were the policemen of organized bein
 
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="2" right right
-That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. Erysipelass Typhoid Yellow scarlest & malerial fever & several other diseases of microbic origin were given all the scholars children but one innoculation every 7 years by Law— ==That the diseases mentioned had become rare=={description="Edison conducted experiments to kill microbes in the environment in September 1888 (*TAEB* 9: 378–81). This and the preceding paragraph suggest that his thinking on the subject had been influenced by meeting Louis Pasteur and visiting his clinic in Paris in August 1889 and seeing patients being inoculated (*TAEB* 9: 819, 1006; *TAEB* 10:476)."}.
+That compound virus consisting of the weakened cultures of Rabies, Consumption Diptheria Cholera splenic fever Erusyphlis. Erysipelass Typhoid Yellow scarlest & malerial fever & several other diseases of microbic origin were given all the scholars children but one innoculation every 7 years by Law— ==That the diseases mentioned had become rare=={description="Edison conducted experiments to kill microbes in the environment in September 1888 (<i>TAEB</i> 9: 378–81). This and the preceding paragraph suggest that his thinking on the subject had been influenced by meeting Louis Pasteur and visiting his clinic in Paris in August 1889 and seeing patients being inoculated (<i>TAEB</i> 9: 819, 1006; *TAEB* 10:476)."}.
 
  All habitual criminals were isolated In districts—<del>sex</del> during their natural life— sexes apart, as an economic measure to prevent trouble to future generations. 
 
