@@ -43,8 +43,7 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
     
 <del>Perm?</del> Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
 
-<span style="color:red">*X*</span> ==flexible window glass artificial Mica=={description="In experiments with insulating materials Edison sometimes listed thin glass and mica among other substances. In other experiments used thin glass, mica, and other substances as diaphragms for his phonograph. Edison treated the substitution of one material for another as a method of creating an artificial version (see various artificial materials in Edison’s Pen Notes for Lathrop). In 1890 Edison began hunting for sources of mica for insulation and acquired mica mines, which might have further spurred his thinking about uses for the material. <i>TAEB</i> 9: 150 n. 1. 356; 10:
-379, 770; <i>TAED</i> N314199, D8847AAK, NM023095A, LB053027A."}. <span style="color:red">*How made?*</span> <OK>
+<span style="color:red">*X*</span> ==flexible window glass artificial Mica=={description="In experiments with insulating materials Edison sometimes listed thin glass and mica among other substances. In other experiments used thin glass, mica, and other substances as diaphragms for his phonograph. Edison treated the substitution of one material for another as a method of creating an artificial version (see various artificial materials in Edison’s Pen Notes for Lathrop). In 1890 Edison began hunting for sources of mica for insulation and acquired mica mines, which might have further spurred his thinking about uses for the material. <i>TAEB</i> 9: 150 n. 1. 356; 10: 379, 770; <i>TAED</i> N314199, D8847AAK, NM023095A, LB053027A."}. <span style="color:red">*How made?*</span> <OK>
 
 <span style="color:red">*X*</span> Lubrication at high temperature by the Bromine substitution ==Compounds of the Hydrocarbons=={description="This may have occurred to Edison during experiments on filaments. See <i>TAEB</i> 8: 587, <i>TAEB</i> 9: 583–84"}
 
@@ -62,7 +61,7 @@ Mowing machines run by =electro motors trolley wire system={description="Commerc
 
 <span style="color:red">*X*</span> Iron by electrolysis—
 
-<span style="color:red">*X*</span> ==Mfr Oxygen by passing air over molten Titanium=={description="See *TAEB* 8: 135–36, 439."}.
+<span style="color:red">*X*</span> ==Mfr Oxygen by passing air over molten Titanium=={description="See <i>TAEB</i> 8: 135–36, 439."}.
 
 <span style="color:red">*X*</span> Soft pig iron slow cooling—
 
