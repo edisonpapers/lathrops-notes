@@ -51,7 +51,7 @@ The formation of the ==Saharian Sea=={description="https://en.wikipedia.org/wiki
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="6" right 
 poles and also of the equator, and produced a displacement of the lower crust of the ==Piedmont=={description="https://en.wikipedia.org/wiki/Piedmont_(plateau)"} region of North Carolina 84 Miles <del>Th</del> Thus Charleston SC was <del>84</del> 34 miles further out at sea
 
-Kennelly can make some very interesting calculations based on the ==Saharian Sea=={description="https://en.wikipedia.org/wiki/Sahara_Sea"} idea get him to do it. 
+==Kennelly=={description="https://edisondigital.rutgers.edu/document/P-AEK"} can make some very interesting calculations based on the ==Saharian Sea=={description="https://en.wikipedia.org/wiki/Sahara_Sea"} idea get him to do it. 
     
 ## 9C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="7" right 
