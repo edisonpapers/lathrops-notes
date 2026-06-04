@@ -116,7 +116,7 @@ Cyclones were found to be do to the a change in the the Electrical Conditions at
 
 Gas used for heat. Electricity for Light & power <del>40</del> 700 candles per 1 lb of pure Carbon per hour—
 
-<span style="color:red">*X</span> ==Glow worm=={description="https://en.wikipedia.org/wiki/Glowworm"}<span style="color:red">?*</span>— not popular— striving for perfect steadiness, beautiful ==eyes?=={description="obscured, overwritten text"} no irritation—
+<span style="color:red">*X*</span> ==Glow worm=={description="https://en.wikipedia.org/wiki/Glowworm"}<span style="color:red">*?*</span>— not popular— striving for perfect steadiness, beautiful ==eyes?=={description="obscured, overwritten text"} no irritation—
 
 Darwinian Society at ==Para=={description="https://en.wikipedia.org/wiki/Par%C3%A1"}. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
 
