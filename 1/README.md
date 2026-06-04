@@ -116,11 +116,11 @@ Cyclones were found to be do to the a change in the the Electrical Conditions at
 
 Gas used for heat. Electricity for Light & power <del>40</del> 700 candles per 1 lb of pure Carbon per hour—
 
-<span style="color:red">*X Glow worm?*</span>— not popular— striving for perfect steadiness, beautiful ==eyes?=={description="obscured, overwritten text"} no irritation—
+<span style="color:red">*X ==Glow worm=={description="https://en.wikipedia.org/wiki/Glowworm"}?*</span>— not popular— striving for perfect steadiness, beautiful ==eyes?=={description="obscured, overwritten text"} no irritation—
 
-Darwinian Society at Para. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
+Darwinian Society at ==Para=={description="https://en.wikipedia.org/wiki/Par%C3%A1"}. Development Monkey reached that of negro—conditions not necessitating use tail nearly obliterated— .
 
-Exhumation of <del>Copper</del> slate tablets high table Lands of Ecudor distorted by metamorphic action, gives accounts which show andesian range subsequent upheaval also of civilizations covering 100,000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
+Exhumation of <del>Copper</del> slate tablets high table Lands of ==Ecudor=={description="https://en.wikipedia.org/wiki/Ecuador"} distorted by metamorphic action, gives accounts which show ==andesian range=={description="https://en.wikipedia.org/wiki/Andes"} subsequent upheaval also of civilizations covering 100,000 of years measured by astronomical observations & data shows many times Earth densly populated, but Catasphropes dure of vast geological changes in shrinkage of the Earth Crust had raised temperatures so high to kill nearly all living things except in certain regions—
 
 <span style="color:red">*X Details?*</span> Starch Sugar. a protein substances made in immense quantities by factors on the Amazons India & Afraica from woody fibre by Chemical transformations <del>Trans Method</del> Construction of the molecules of Carbohydrates and methods of rearranging the construction having been <del>constructed</del> discovered— no energy being absorbed or given out by The transformation of Cellulose into other Carbohydrates. Immense quantities of wood cheaply transformed
 
