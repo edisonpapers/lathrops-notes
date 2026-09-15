@@ -35,7 +35,7 @@ Edison wrote this set with ink on eight pages.  The editors have arranged the te
 
 7 Direct thrust— Sails done away with wave motion used to condense air— **OK**.
 
-8 <span style="color:red">*X*</span> ==Ballon=={description="In 1880 Edison experimented with a “captive balloon” for aerial navigation. <i>TAEB</i> 5: 776–78. See https://taep.s.gy/balloon."} only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, ==flotation sails=={description="This may be what Edison described in response to an inquiry about aerial navigation: “Inclined plane, apparatus held in air by power and propulsion forward obtained by falling and rising due to the wind—as with birds.” <i>TAEB</i> 8:745; see also 10: 738 n. 3; see also https://taep.s.gy/inclined-plane.}— small mail carriers—
+8 <span style="color:red">*X*</span> ==Ballon=={description="In 1880 Edison experimented with a “captive balloon” for aerial navigation. <i>TAEB</i> 5: 776–78. See https://taep.s.gy/balloon."} only for mail & passengers. poleing= Aluminium Engine. 6000 strokes shutter principle= Yachts, ==flotation sails=={description="This may be what Edison described in response to an inquiry about aerial navigation: “Inclined plane, apparatus held in air by power and propulsion forward obtained by falling and rising due to the wind—as with birds.” <i>TAEB</i> 8:745; see also 10: 738 n. 3; see also https://taep.s.gy/inclined-plane."}— small mail carriers—
 
 9 going NS & EW— blown out line generate current to put them back in line magnetic Lines keeps straight. automatic aneroid barometer working Valve keeps <del>continuous</del> proper altitude. Caught by sails on Towers— **OK**
 
