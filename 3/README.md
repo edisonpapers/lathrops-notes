@@ -16,8 +16,6 @@ Edison wrote these notes in pen on seven pages that he marked “1C,” “2C,�
 
 The editors have arranged the text in the way that seems to provide the greatest internal coherence, starting with the items that Edison numbered. This page sequence differs from that created earlier by an archivist. To see more information about the notes, hover over underlined words or letters in the transcript on the left.
 
-==the desert=={description=" 'once' interlined above"}
-
 ## 1C
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="1" right 
