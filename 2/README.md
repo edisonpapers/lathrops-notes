@@ -43,7 +43,7 @@ physiosgonmy an Exact science— criminal propensities plain to all men— hence
     
 <del>Perm?</del> Specilist by long practice have succeeded in habituating the body to deliterious gases with scarcely any oxygen=
 
-<span style="color:red">*X*</span> flexible window glass artificial Mica. <span style="color:red">*==How made=={description="See 6D of D Notes"}?*</span> <OK>
+<span style="color:red">*X*</span> flexible window glass artificial Mica. ==<span style="color:red">*How made?*</span>=={description="See 6D of D Notes"} <OK>
 
 <span style="color:red">*X*</span> Lubrication at high temperature by the Bromine substitution ==Compounds of the Hydrocarbons=={description="This may have occurred to Edison during experiments on filaments. See <i>TAEB</i> 8: 587, <i>TAEB</i> 9: 583–84"}
 
