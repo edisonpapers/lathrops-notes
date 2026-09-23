@@ -27,7 +27,7 @@ which are recorded photographically by continuously moving bands of photographic
 
 ## 5C
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3003/manifest seq="3" right 
-The experimental station of the international Darwinian Society at ==Para=={description="https://en.wikipedia.org/wiki/Par%C3%A1"} on the Amazons <del>who have</del> which has been established for the last four hundred years. Have at the station a great number of educated beings derived from the interbreeding and assiduous cultivation and care of the higher anthpoid apes. Two species being of the eleventh generation were capable of conversing in English= Rudiments of tails= walk upright= small hair— calculated that the 80th generation would equal, in intelligence & personal beauty the Bushman Tribe of Africa.
+The experimental station of the international Darwinian Society at ==Para=={description="https://en.wikipedia.org/wiki/Par%C3%A1"} on the Amazons <del>who have</del> which has been established for the last four hundred years. Have at the station a great number of educated beings derived from the interbreeding and assiduous cultivation and care of the higher anthpoid apes. Two species being of the eleventh generation were capable of conversing in English= Rudiments of tails= walk upright= small hair— calculated that the 80th generation would equal, in intelligence & personal beauty the ==Bushman Tribe of Africa=={description="In the nineteenth century ideas of racial differences led to the belief that the Bushmen of South Africa “rank with the savages of Australia as the lowest existing type of mankind.” Encyclopedia Britannica v. 4 (1876). <br><br>https://babel.hathitrust.org/cgi/pt?id=uiug.30112119741434&seq=580"}.
 
 (Lathrop you can enlarge on this subject yourself)
 
