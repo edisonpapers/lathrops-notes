@@ -341,6 +341,8 @@ Child care and personal service gave workers like Lena unusual access to the fam
 
 [Source: Thomas A. Edison Papers Digital Edition, Rutgers University, Document B037ABJ2](https://edisondigital.rutgers.edu/document/B037ABJ2)
 
+###
+
 #### Transcription
 
 I have been enjoying myself cleaning out the drawers where Lena deposits things taken from my pockets. I came across the living pictures enclosed which Sister June Marvin will enjoy if she can see the point.
