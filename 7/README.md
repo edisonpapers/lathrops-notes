@@ -408,7 +408,7 @@ The den offered another setting for family gathering within Glenmont. Like the s
 
 ## Laundry Work
 
-.ve-media https://edisondigital.rutgers.edu/iiif/570363 caption="First-floor plan of Glenmont"
+.ve-media https://edisondigital.rutgers.edu/iiif/570363 width=80% left caption="First-floor plan of Glenmont"
 
 Laundry at Glenmont evolved alongside the house itself. The original laundry room, located in the northeast corner of the service wing, measured just 13 by 12 feet. By July 1884, it was expanded to more than 19 by 15 feet and fitted with two additional windows—likely to improve ventilation, release steam, and reduce mildew. The enlargement suggests that washing, boiling, and drying were already generating substantial heat and moisture. The room grew because the labor required it. The laundry room was located to the left after entering through the servant entry.
 
