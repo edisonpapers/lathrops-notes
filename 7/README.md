@@ -295,6 +295,8 @@ The intimacy of Lena’s labor is especially visible in a July 21, 1889 letter f
 
 *About the image: Mary Valinda Miller to Mina Miller Edison and Thomas Alva Edison, July 21, 1889. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: X018D1AR. In this letter, Mary Valinda Miller describes observing Lena caring for young Madeleine Edison, offering unusually intimate evidence of Lena’s nursery work and the emotional bonds formed through child care.*
 
+###
+
 #### Transcription
 
 .ve-media https://edisondigital.rutgers.edu/iiif/570392 width=80% right caption="Madeleine Edison with Nurse Helena McCarthy and possibly Charles Edison"
