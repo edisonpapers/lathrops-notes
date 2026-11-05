@@ -239,7 +239,7 @@ On the second floor and in the adjoining sewing spaces, Martha Michel’s work u
 
 #### Mollie Schaar — General Servant
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570383 width=80% right caption="Historic image associated with servant labor in the circulation and support spaces of Glenmont"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570383 width=80% left caption="Historic image associated with servant labor in the circulation and support spaces of Glenmont"
 
 Mollie C. Schaar, a 45-year-old Swedish-born widow recorded in the 1910 federal census, represents the elastic category of “servant.” Born in Sweden around 1865 and immigrating in 1880, Mollie was fully literate, English-speaking, and steadily employed as a wage earner in private domestic service. Unlike the more specialized roles of chambermaid or parlor maid, Mollie’s labor likely moved across floors. General servants often maintained staircases and hallways, assisted with rug beating, carried linens between laundry and bedrooms, and absorbed overflow work during illness or heavy entertaining seasons. She would have supported Julia in deeper cleaning cycles and reinforced first-floor readiness when guest activity increased. If Jennie worked where guests saw and Julia worked where family slept, Mollie worked in the connective tissue of the house—circulation spaces, upper halls, and the third-floor servant quarters. Her labor was infrastructural: stabilizing the house after disruption, sustaining continuity between rooms, and ensuring that more specialized work could proceed smoothly.
 
