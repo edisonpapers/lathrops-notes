@@ -10,7 +10,7 @@
 
 This section examines Glenmont as a working household. Its rooms, staircases, service areas, and circulation routes shaped how domestic workers moved through the estate, maintained family life, and supported the public and private functions of the Edison home.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/first-floor-plan-color-coded.jpg left width=80% caption="First Floor Plan"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570363 left width=80% caption="First Floor Plan"
 
 *About the image: Color-coded first-floor plan of Glenmont showing formal rooms, family spaces, and service spaces, including the kitchen, pantry, refrigerator room, laundry, service hall, and service dining room. Redrawn from NPS Drawing–NHS Edi. 331 Sheet 3. Drawn by John G. Baite, 1963. Room labels added by Melissa Benbow Flowers, 2026. Rooms color coded by Michael Faist, 2026.*
 
@@ -54,7 +54,7 @@ Laundry work connected the household’s service spaces to the repeated labor of
 
 ## “Back of the House”: Domestic Work and Navigating the Glenmont Estate
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/50cbb47432da45e392d9dcfee8ee37d4/proxymdres.jpg width=80% right caption="Glenmont, interior, first floor"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570365 width=80% right caption="Glenmont, interior, first floor"
 
 *About the image: Interior view of Glenmont’s first-floor Servant’s Hall and staircase Servant’s Hall and staircase, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
@@ -62,7 +62,7 @@ Laundry work connected the household’s service spaces to the repeated labor of
 
 Women comprised most of the salaried employees who worked within the Glenmont household. Throughout the late nineteenth and early twentieth centuries, the composition of the domestic staff shifted according to the family’s needs, finances, and the availability of workers. Payroll records indicate that the household commonly employed a cook, waitress, maid, nurse, and laundress during the early 1890s, though Mina Edison periodically reduced or expanded the staff. By the late 1890s and early twentieth century, more specialized positions emerged, including chambermaids, kitchen maids, companions, and personal maids.
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/fd249814bce947bc991d98c385e71888/proxymdres.jpg width=80% left caption="Interior view, Glenmont’s first-floor Servant’s Hall and staircase"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570366 width=80% left caption="Interior view, Glenmont’s first-floor Servant’s Hall and staircase"
 
 *About the image: Interior view of Glenmont’s first-floor Servant’s Hall and staircase, showing the service circulation area used by domestic staff. October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
@@ -72,13 +72,13 @@ Domestic workers generally occupied spaces intentionally separated from the form
 
 <!-- Image needed: servant’s uniform. Possible use: place near discussion of staff roles, presentation, hierarchy, and visibility/invisibility of domestic labor. -->
 
-### Kitchen Duty: Cooks, Maids, and Butlers
+### Kitchen Duty: Cooks, Maids, and Butlers 
 
-`image #kitchen-duty src=images/kitchen-refrigerator-room-glenmont.png .right showannos alt="Line drawing of Glenmont’s first-floor kitchen and refrigerator room, showing the sink and drainboard, central worktable, storage cabinets, cooking range and hood, refrigerator room, and service work areas." caption="Rooms 107 and 107a, Kitchen and Refrigerator Room, Glenmont, first floor. This drawing shows the kitchen work areas, including the sink and drainboard, central worktable, storage cabinets, cooking range and hood, and adjacent refrigerator room. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570367 width=80% right caption="Rooms 107 and 107a, Kitchen and Refrigerator Room"
+
+*About the image: Line drawing of Glenmont’s first-floor kitchen and refrigerator room, showing the sink and drainboard, central worktable, storage cabinets, cooking range and hood, refrigerator room, and service work areas. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Kitchen.”](https://npgallery.nps.gov/EDIS/AssetDetail/7987b7fa-f0fc-4610-bc3f-a7b46a827f7a)
-
-src=images/kitchen-refrigerator-room-glenmont.png
 
 **Image annotations**
 
