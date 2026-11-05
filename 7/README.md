@@ -379,8 +379,7 @@ This kind of evidence helps show how intimacy work unfolded over time. Access to
 
 The den offered another setting for family gathering within Glenmont. Like the second-floor family living room, it was a more intimate domestic space than the formal rooms used for public reception. Its maintenance still depended on household labor: furniture arranged, surfaces dusted, rugs and upholstery cleaned, fires tended, and the room kept ready for family use.
 
-##### Views of the Den
-{: .cards}
+##### Views of the Den {.cards}
 
 ###### Glenmont Den, Facing South
 
