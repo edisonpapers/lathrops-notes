@@ -76,6 +76,8 @@ Domestic workers generally occupied spaces intentionally separated from the form
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/570367 width=80% right caption="Rooms 107 and 107a, Kitchen and Refrigerator Room"
 
+In 1900, Mary Flaherty appears in the federal census as the Edison household cook. Twenty-nine years old, Irish-born, single, and literate, she had been in the United States for seventeen years but was not naturalized. She reported working all twelve months of the year. Her labor would have included managing coal or wood-fired ranges, preparing multi-course meals, overseeing ingredient storage, and coordinating with the waitress for service timing. As Lucy Maynard Salmon noted in her early twentieth-century study of domestic service, a competent cook was expected not merely to follow recipes but to exercise judgment: to understand marketing and provisioning, calculate quantities for varying numbers of diners, manage fuel economy, supervise kitchen cleanliness, direct subordinate help, and maintain composure under time pressure. The cook’s authority in the kitchen was practical and immediate; meals could not be delayed. 
+
 **Image annotations**
 
 - [Kitchen worktable](kitchen-duty/zoomto/pct:47,48,28,19)
@@ -83,8 +85,6 @@ Domestic workers generally occupied spaces intentionally separated from the form
 - [Cooking range](kitchen-duty/zoomto/pct:68,31,22,26)
 - [Storage cabinets](kitchen-duty/zoomto/pct:50,35,23,18)
 - [Refrigerator room / cold storage area](kitchen-duty/zoomto/pct:7,23,19,35)
-
-In 1900, Mary Flaherty appears in the federal census as the Edison household cook. Twenty-nine years old, Irish-born, single, and literate, she had been in the United States for seventeen years but was not naturalized. She reported working all twelve months of the year. Her labor would have included managing coal or wood-fired ranges, preparing multi-course meals, overseeing ingredient storage, and coordinating with the waitress for service timing. As Lucy Maynard Salmon noted in her early twentieth-century study of domestic service, a competent cook was expected not merely to follow recipes but to exercise judgment: to understand marketing and provisioning, calculate quantities for varying numbers of diners, manage fuel economy, supervise kitchen cleanliness, direct subordinate help, and maintain composure under time pressure. The cook’s authority in the kitchen was practical and immediate; meals could not be delayed. 
 
 Mary McMahon’s work as cook required knowledge of household tools, kitchen equipment, food preparation, and provisioning. A 1900 Kinch Hardware Company advertisement from *The Atlanta Journal* illustrates the range of kitchen and household goods available to consumers at the turn of the century. [View “Shopping Made Easy” advertisement, *The Atlanta Journal*, March 29, 1900](images/shopping-made-easy-atlanta-journal-1900.jpg).
 
