@@ -327,7 +327,7 @@ Lena’s work placed her in close contact with the Edison children, Mina Edison 
 
 ### Intimacy and Access to Private Spaces
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/d575674ae559458d9bd079cc8f47d5c9/proxyhires.jpg width=80% right caption="Glenmont, interior, second floor"
+.ve-media https://edisondigital.rutgers.edu/iiif/570404 width=80% right caption="Glenmont, interior, second floor, Family Living Room"
 
 *About the image: Interior view of Glenmont’s second-floor Family Living Room, showing a sitting area facing the windows. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
@@ -425,7 +425,7 @@ Laundry at Glenmont evolved alongside the house itself. The original laundry roo
 
 [Source: NPGallery, “Glenmont, exterior, side and driveway to entrance.”](https://npgallery.nps.gov/EDIS/AssetDetail/aefd3388-0467-4304-ac03-512377df1d18)
 
-.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/d8f78dfc4f1247eb843b635f32b6dee6/proxyhires.jpg width=80% left caption="Glenmont, interior, first floor, Laundry Room, October 21, 1960."
+.ve-media https://edisondigital.rutgers.edu/iiif/570406 width=80% left caption="Glenmont, interior, first floor, Laundry Room, October 21, 1960."
 
 Between 1908 and 1912, Mrs. Michael Cox and Mrs. John Purdue were repeatedly paid for laundry labor in concentrated bursts. In February 1908, Mrs. Cox was paid for forty-two days at $1.25 per day, totaling $52.50. In March and April 1909, she worked forty-six combined days of “housecleaning and laundry,” earning $57.50. Mrs. Purdue’s compensation in 1909–1910 was often calculated at $1.50 per day, with stretches of twenty-eight or more days in a single month, amounting to $35 or more per cycle. These payments indicate wage labor performed in measured intervals rather than full-time live-in service. Laundry was accumulation-based: it surged after entertaining seasons, during spring cleaning, or before travel to Florida. Compensation by the day underscores the physical intensity of the work. At $1.25–$1.50 per day, a forty-day cycle could yield between $50 and $60—significant pay, but earned through prolonged manual exertion.
 
@@ -449,11 +449,7 @@ Laundry work also depended on smaller consumable goods that rarely survive in ho
 
 The Thor washer at Glenmont should be read alongside both older laundry routines and newer commercial products. Periodicals such as [*The Ladies’ Home Journal*](https://archive.org/details/sim_ladies-home-journal_1884-09_1_10/page/n7/mode/2up) circulated household advice and advertisements to middle-class women readers, while electrical trade publications such as [*Electrical World*](https://www.google.com/books/edition/Electrical_World/J0QIibVrgDAC?hl=en&gbpv=1&dq=Hurley+Machine+Co+Thor+Electric+Washer+and+Wringer&pg=PA1047&printsec=frontcover) and [*Electrical Record and Buyer’s Reference*](https://www.google.com/books/edition/Electrical_Record_and_Buyer_s_Reference/a4A2AQAAMAAJ?hl=en&gbpv=1&dq=Hurley+Machine+Co+Thor+Electric+Washer+and+Wringer&pg=PA183&printsec=frontcover) presented electric laundry equipment as part of a modernizing household economy.
 
-.ve-media 
-
-`image src=images/laundry-yard-clothesline-posts.jpg .right alt="View of wooden clothesline posts in Glenmont’s laundry yard, with trees, grass, and a service road in the background." caption="Figure 29. View of the wooden posts located in the laundry yard. The laundry yard contained clothesline posts and was used to dry laundry. Evergreen trees and shrubs screened this service area from view. From Cultural Landscapes Inventory: Glenmont Estate, Thomas Edison National Historical Park (National Park Service, 2011), 106 of 113."`
-
-[Source: National Park Service, *Cultural Landscapes Inventory: Glenmont Estate*](https://npshistory.com/publications/edis/cli-glenmont-estate.pdf)
+.ve-media https://edisondigital.rutgers.edu/iiif/570408 right width=80%
 
 By 1896, an outdoor drying yard was first documented. Wet linens—bed sheets from the second floor, tablecloths from the dining room, bath towels, and undergarments—would have been carried outside for fresh-air drying. Outdoor work areas were similarly screened from public view. The laundry yard was positioned to the side of the house behind trees and plantings, reflecting broader late nineteenth-century expectations that domestic labor remain largely invisible despite being essential to the operation of the estate.
 
@@ -461,11 +457,11 @@ Between 1935 and 1940, Mina Edison planted rhododendrons around the perimeter of
 
 Hooks inside the laundry room indicate that, during rain or winter, clotheslines were strung indoors. The room itself could transform into a drying chamber. A 1907 plan proposed adding an indoor dryer and closet, but the plan was never implemented. Mechanical convenience remained unrealized; manual drying persisted.
 
-.ve-media 
+*About the image: View of wooden clothesline posts in Glenmont’s laundry yard, with trees, grass, and a service road in the background. The laundry yard contained clothesline posts and was used to dry laundry. Evergreen trees and shrubs screened this service area from view. From Cultural Landscapes Inventory: Glenmont Estate, Thomas Edison National Historical Park (National Park Service, 2011), 106 of 113.*
 
-`image src=images/glenmont-sewing-room-drawing.jpg .left alt="Drawing of Glenmont’s third-floor Sewing Room, showing worktables, chairs, storage cabinets, windows, and a bed." caption="Room 305, Sewing Room. Drawing of the Sewing Room at Glenmont. From The House at Glenmont, Volume II: Furnishing Plan. Image credit: National Park Service, Thomas Edison National Historical Park."`
+[Source: National Park Service, *Cultural Landscapes Inventory: Glenmont Estate*](https://npshistory.com/publications/edis/cli-glenmont-estate.pdf)
 
-[Source: National Park Service, *The House at Glenmont, Volume II: Furnishing Plan*](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf)
+.ve-media https://edisondigital.rutgers.edu/iiif/570412 left width=80%
 
 Laundry work did not end with washing and drying. Clean textiles had to be sorted, folded, mended, pressed, and returned to bedrooms, bathrooms, dining spaces, and storage closets. The third-floor sewing room suggests how textile maintenance connected laundry to other forms of domestic labor. Sewing, mending, ironing, and clothing repair kept household goods usable and extended the life of garments, linens, and service textiles.
 
@@ -475,10 +471,15 @@ Marguerite Drury, listed as a “laundress” and “extra help,” appears in c
 
 Together, these records illustrate how laundry labor at Glenmont relied upon a shifting network of immigrant, working-class, and African American women whose work remained largely invisible despite being essential to the operation of the household.
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/3c21f0420e064c26bff1a1b40086818c/proxyhires.jpg width=80% right caption="Glenmont, linen closet in upper main hall, August 28, 1947"
+*About the image: Drawing of Glenmont’s third-floor Sewing Room, showing worktables, chairs, storage cabinets, windows, and a bed. From The House at Glenmont, Volume II: Furnishing Plan. Image credit: National Park Service, Thomas Edison National Historical Park.*
+
+[Source: National Park Service, *The House at Glenmont, Volume II: Furnishing Plan*](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf)
+
+.ve-media https://edisondigital.rutgers.edu/iiif/570410 width=80% right caption="Glenmont, linen closet in upper main hall, August 28, 1947"
+
+The linen closet offers a final reminder that laundry work extended throughout the house. Once washed, dried, ironed, and folded, linens returned to carefully managed storage spaces near the family bedrooms. Cleanliness was not only produced in the laundry room; it circulated through the estate in sheets, towels, tablecloths, napkins, clothing, and bedding.
 
 *About the image: Interior view of Glenmont’s second-floor linen closet in the upper main hall. August 28, 1947. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, second floor, linen closet in upper main hall.”](https://npgallery.nps.gov/EDIS/AssetDetail/3c21f042-0e06-4c26-bff1-a1b40086818c)
 
-The linen closet offers a final reminder that laundry work extended throughout the house. Once washed, dried, ironed, and folded, linens returned to carefully managed storage spaces near the family bedrooms. Cleanliness was not only produced in the laundry room; it circulated through the estate in sheets, towels, tablecloths, napkins, clothing, and bedding.
