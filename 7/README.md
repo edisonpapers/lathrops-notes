@@ -71,6 +71,8 @@ Domestic workers generally occupied spaces intentionally separated from the form
 
 <!-- Image needed: servant’s uniform. Possible use: place near discussion of staff roles, presentation, hierarchy, and visibility/invisibility of domestic labor. -->
 
+##
+
 ### Kitchen Duty: Cooks, Maids, and Butlers 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/570367 width=80% right caption="Rooms 107 and 107a, Kitchen and Refrigerator Room"
