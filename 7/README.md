@@ -78,6 +78,12 @@ Domestic workers generally occupied spaces intentionally separated from the form
 
 In 1900, Mary Flaherty appears in the federal census as the Edison household cook. Twenty-nine years old, Irish-born, single, and literate, she had been in the United States for seventeen years but was not naturalized. She reported working all twelve months of the year. Her labor would have included managing coal or wood-fired ranges, preparing multi-course meals, overseeing ingredient storage, and coordinating with the waitress for service timing. As Lucy Maynard Salmon noted in her early twentieth-century study of domestic service, a competent cook was expected not merely to follow recipes but to exercise judgment: to understand marketing and provisioning, calculate quantities for varying numbers of diners, manage fuel economy, supervise kitchen cleanliness, direct subordinate help, and maintain composure under time pressure. The cook’s authority in the kitchen was practical and immediate; meals could not be delayed. 
 
+Mary McMahon’s work as cook required knowledge of household tools, kitchen equipment, food preparation, and provisioning. A 1900 Kinch Hardware Company advertisement from *The Atlanta Journal* illustrates the range of kitchen and household goods available to consumers at the turn of the century. [View “Shopping Made Easy” advertisement, *The Atlanta Journal*, March 29, 1900](images/shopping-made-easy-atlanta-journal-1900.jpg).
+
+*About the image: Line drawing of Glenmont’s first-floor kitchen and refrigerator room, showing the sink and drainboard, central worktable, storage cabinets, cooking range and hood, refrigerator room, and service work areas. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery, “Glenmont, interior, first floor, Kitchen.”](https://npgallery.nps.gov/EDIS/AssetDetail/7987b7fa-f0fc-4610-bc3f-a7b46a827f7a)
+
 **Image annotations**
 
 - [Kitchen worktable](kitchen-duty/zoomto/pct:47,48,28,19)
@@ -85,12 +91,6 @@ In 1900, Mary Flaherty appears in the federal census as the Edison household coo
 - [Cooking range](kitchen-duty/zoomto/pct:68,31,22,26)
 - [Storage cabinets](kitchen-duty/zoomto/pct:50,35,23,18)
 - [Refrigerator room / cold storage area](kitchen-duty/zoomto/pct:7,23,19,35)
-
-Mary McMahon’s work as cook required knowledge of household tools, kitchen equipment, food preparation, and provisioning. A 1900 Kinch Hardware Company advertisement from *The Atlanta Journal* illustrates the range of kitchen and household goods available to consumers at the turn of the century. [View “Shopping Made Easy” advertisement, *The Atlanta Journal*, March 29, 1900](images/shopping-made-easy-atlanta-journal-1900.jpg).
-
-*About the image: Line drawing of Glenmont’s first-floor kitchen and refrigerator room, showing the sink and drainboard, central worktable, storage cabinets, cooking range and hood, refrigerator room, and service work areas. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
-
-[Source: NPGallery, “Glenmont, interior, first floor, Kitchen.”](https://npgallery.nps.gov/EDIS/AssetDetail/7987b7fa-f0fc-4610-bc3f-a7b46a827f7a)
 
 ### Collaboration with the Home Executive
 
@@ -133,7 +133,7 @@ Kitchen maids performed physically demanding work such as sweeping, tending fire
 
 .ve-media https://iiif.archive.org/iiif/householdengine00fredrich/manifest.json 
 
-<---`image src=images/frederick-household-engineering-p164.jpg .right caption="Christine Frederick, Household Engineering. Courtesy of Internet Archive---> NEED THIS IMAGE TO ADD TO PRIVATE TAED IMAGES FOR IIIF EMBED
+<---`image src=images/frederick-household-engineering-p164.jpg .right caption="Christine Frederick, Household Engineering. Courtesy of Internet Archive---> NEED THIS IMAGE TO ADD TO PRIVATE TAED IMAGES FOR IIIF EMBED. NOT WORKING FROM IA IIIF MANIFEST
 
 Kitchen maintenance differed from other domestic zones. Surfaces required daily scrubbing. Floors were wiped repeatedly to control grease. Ranges demanded ash removal and fuel management. Pots, knives, and preparation tables were washed after each meal. The cook oversaw not only flavor but sanitation. As household manuals such as [*Mrs. Beeton’s Book of Household Management*](https://en.wikisource.org/wiki/Mrs._Beeton%27s_Book_of_Household_Management) suggest, the kitchen was imagined as a space where order, discipline, economy, and cleanliness had to be constantly maintained; specific instructions for kitchen work and household order appear throughout the text, including in [this digitized page view](https://en.wikisource.org/wiki/Page:Mrs_Beeton%27s_Book_of_Household_Management.djvu/2013). Salmon likewise underscored that a cook’s success depended upon order, cleanliness, punctuality, and economy—qualities that required mental organization as much as physical endurance. The labor was not episodic but cyclical and relentless. Unlike bedroom work, which erased the trace of sleep, kitchen work produced visible transformation: raw ingredients into prepared meals.
 
@@ -143,23 +143,23 @@ Kitchen maintenance differed from other domestic zones. Surfaces required daily 
 
 ### The Butler and the Waitress: Navigating the Pantry and Dining Room
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/3bb190fa23b9431488e75e06f0a468de/proxyhires.jpg width=80% left caption="Interior view of Glenmont’s first-floor Butler’s Pantry"
-
-*About the image: Interior view of Glenmont’s first-floor Butler’s Pantry, showing cabinetry, counter space, and service storage used in connection with dining room service. October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
-
-[Source: NPGallery, “Glenmont, interior, first floor, Butler’s Pantry.”](https://npgallery.nps.gov/EDIS/AssetDetail/3bb190fa-23b9-4314-88e7-5e06f0a468de)
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570368 width=80% left caption="Interior view of Glenmont’s first-floor Butler’s Pantry"
 
 The butler occupied a distinct position within Glenmont’s labor hierarchy. Unlike the waitress, whose work was repetitive and highly physical, or the maid, whose duties required constant handling of surfaces and textiles, the butler’s labor was lower in frequency but higher in precision. His authority centered on timing, supervision, and the management of high-value objects. Edison table settings fit broader expectations for formal dining-room order, such as those described in household manuals like [*Mrs. Beeton’s Book of Household Management*](https://en.wikisource.org/wiki/Page:Mrs_Beeton%27s_Book_of_Household_Management.djvu/1995).
 
 Census records trace the continuity of this role across decades. In 1905, William Minor, a twenty-five-year-old Virginia-born butler, served the Edison household. That same year, Michael Flaherty, a naturalized Irish immigrant, worked as assistant butler. By 1910, Waldo Schaar, a German-born immigrant listed as an alien, had assumed the position. In 1940, Henry Horsey, born in England and employed full-time for fifty-two weeks of the year, earned $1,300 serving Mina Edison as butler. Though individuals changed, the role endured.
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/b1e01c9c58ca4832829dfbea67565d83/proxyhires.jpg width=80% left caption="Glenmont, interior, first floor, Dining Room"
+*About the image: Interior view of Glenmont’s first-floor Butler’s Pantry, showing cabinetry, counter space, and service storage used in connection with dining room service. October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery, “Glenmont, interior, first floor, Butler’s Pantry.”](https://npgallery.nps.gov/EDIS/AssetDetail/3bb190fa-23b9-4314-88e7-5e06f0a468de)
+
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570373 width=80% left caption="Glenmont, interior, first floor, Dining Room"
+
+Early twentieth-century manuals defined the responsibilities of a dining-room waitress with exacting detail. In *The Up-to-Date Waitress*, first published in 1906, Janet McKenzie Hill outlined the daily and weekly care required to maintain a properly ordered dining room. Each morning, a fire was to be laid ready for lighting. The hearth brushed. Brass and steel polished with a dry cloth. Rugs swept carefully “with the nap,” hardwood borders wiped clean, and dust collected—not scattered—with cheesecloth. Windows were opened to air the room thoroughly.
 
 *About the image: Interior view of Glenmont’s first-floor Dining Room with plates and silverware stacked on the table for the wedding of Grace Miller, Mina Edison’s sister. February 15, 1916. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Dining Room, plates and silverware stacked on table on the occasion of the wedding of Grace Miller, sister of Mina Edison.”](https://npgallery.nps.gov/EDIS/AssetDetail/b1e01c9c-58ca-4832-829d-fbea67565d83)
-
-Early twentieth-century manuals defined the responsibilities of a dining-room waitress with exacting detail. In *The Up-to-Date Waitress*, first published in 1906, Janet McKenzie Hill outlined the daily and weekly care required to maintain a properly ordered dining room. Each morning, a fire was to be laid ready for lighting. The hearth brushed. Brass and steel polished with a dry cloth. Rugs swept carefully “with the nap,” hardwood borders wiped clean, and dust collected—not scattered—with cheesecloth. Windows were opened to air the room thoroughly.
 
 ### The Butler and the Waitress: Visibility, Service, and the Dining Room
 
@@ -167,7 +167,7 @@ Johanna, remembered by Mina’s secretary Lynn Given in a 1990 interview as “t
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/819166c1ba64407da9d377b2e7984813/proxyhires.jpg width=80% right caption="Glenmont, interior, first floor, Dining Room, October 21, 1960."
 
-About this image: Interior view of Glenmont’s first-floor Dining Room, showing the dining table, chairs, fireplace, decorative objects, lighting fixtures, and a screen partially concealing the service area. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+*About the image: Interior view of Glenmont’s first-floor Dining Room, showing the dining table, chairs, fireplace, decorative objects, lighting fixtures, and a screen partially concealing the service area. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Dining Room.”](https://npgallery.nps.gov/EDIS/AssetDetail/819166c1-ba64-407d-a9d3-77b2e7984813)
 
@@ -177,9 +177,7 @@ About this image: Interior view of Glenmont’s first-floor Dining Room, showing
 
 The butler’s responsibilities revolved around what might be called objects of authority: the corner china closet, marble-topped serving table, Dutch hall clock, Tiffany clock, silver trays, fire implements, screens, and lighting fixtures. These were not objects of constant handling. They required supervision, inspection, and periodic care. Silver was polished at intervals, not daily. Fire implements were managed seasonally. Clocks regulated movement and ceremony. Lighting and sightlines structured the room’s presentation.
 
-.ve-media 
-
-`image #telegram-henry-bessie src=images/mina-telegram-henry-bessie-1925.jpg .left alt="Western Union telegram from Mina Edison to Theodore M. Edison dated April 17, 1925, instructing him to invite family members for lunch and to engage Henry to help serve." caption="Western Union telegram from Mina Edison to Theodore M. Edison, April 17, 1925. The message connects family hosting to domestic labor by instructing Theodore to invite relatives for lunch and to “engage Henry to help serve,” while also naming Bessie as part of the luncheon arrangements. Source and image credit to be confirmed."`
+<---NEED THIS IMAGE `image #telegram-henry-bessie src=images/mina-telegram-henry-bessie-1925.jpg left width=80% ---> NEED THIS IMAGE
 
 #### Transcription
 
@@ -198,51 +196,57 @@ SEVEN MARKET STREET STATION
 ALL WELL LOVE  
 MOTHER
 
+*About the image: Western Union telegram from Mina Edison to Theodore M. Edison dated April 17, 1925, instructing him to invite family members for lunch and to engage Henry to help serve. The message connects family hosting to domestic labor by instructing Theodore to invite relatives for lunch and to “engage Henry to help serve,” while also naming Bessie as part of the luncheon arrangements. Source and image credit to be confirmed.*
+
 ## Maintaining the Second Floor
 
-.ve-media 
-
-`image src=images/second-floor-plan-color-coded.jpg alt="Color-coded second-floor plan of Glenmont showing family bedrooms, bathrooms, halls, sitting rooms, and service-related circulation spaces." caption="Figure 117. Second-floor plan of Glenmont, 1963. Redrawn from NPS Drawing–NHS Edi. 331. Room labels added by Melissa Benbow Flowers, 2026. Rooms color coded by Michael Faist, 2026. From Barbara A. Yocum, The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I (Lowell, MA: National Park Service, U.S. Department of the Interior, 1998), 484."`
-
-[Source: Barbara A. Yocum, *The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I*](https://npshistory.com/publications/edis/hsr-glenmont-v1.pdf)
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570375 right width=80% caption="Figure 117. Second-floor plan of Glenmont, 1963."
 
 If the first floor of Glenmont functioned as a stage for hospitality, business, and public identity, the second floor operated as a carefully guarded interior. By the early twentieth century, the Edison family lived under the weight of international fame. Visitors arrived regularly—industrialists, politicians, reporters, and admirers of Thomas Edison’s inventions. Yet above the formal reception rooms lay spaces intended for retreat: bedrooms, family sitting rooms, and circulation halls that mediated intimacy. Privacy here was not simply architectural; it was managed through labor.
 
+*About the image: Color-coded second-floor plan of Glenmont showing family bedrooms, bathrooms, halls, sitting rooms, and service-related circulation spaces. Redrawn from NPS Drawing–NHS Edi. 331. Room labels added by Melissa Benbow Flowers, 2026. Rooms color coded by Michael Faist, 2026. From Barbara A. Yocum, The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I (Lowell, MA: National Park Service, U.S. Department of the Interior, 1998), 484.*
+
+[Source: Barbara A. Yocum, *The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I*](https://npshistory.com/publications/edis/hsr-glenmont-v1.pdf)
+
 Mina’s correspondence reveals how carefully this balance was maintained. In a [September 1925 letter](https://edisondigital.rutgers.edu/document/X018A9GP), writing of household disruptions, she noted that Madeleine did not wish to arrive to “a house full of maids.” The preference was not for the absence of labor, but for its discretion. Mina reassured her correspondent that Lena and Bessie could prepare the upstairs beds without unnecessary commotion, and that additional help need not be summoned. The work would be done—but unseen.
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/d68355392f264dd18cf81f628d26d789/proxyhires.jpg width=80% right caption="Glenmont, interior, second floor, upper main hall, facing northeast"
-
-*About the Image: Interior view of Glenmont’s second-floor upper main hall, facing northeast. August 28, 1947. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
-
-[Source: NPGallery, “Glenmont, interior, second floor, upper main hall, facing northeast.”](https://npgallery.nps.gov/EDIS/AssetDetail/d6835539-2f26-4dd1-8cf8-1f628d26d789)
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570377 width=80% right caption="Glenmont, interior, second floor, upper main hall, facing northeast"
 
 The second floor was a family-only zone that nonetheless required constant maintenance: beds aired and remade, linens smoothed, rugs brushed, baths refreshed, hallways kept immaculate. Unlike the public rooms below, labor here was less performative but more intimate. Servants entered spaces closest to the body—bedchambers, dressing tables, bath linens—and were expected to withdraw without leaving evidence of their presence. In a household where reputation mattered, discretion was as important as cleanliness.
 
 The second floor thus represents a paradox of elite domestic life: the more famous the family, the more carefully privacy had to be constructed. That construction depended on servants who were visible in duty yet invisible in effect. Their labor softened footsteps, reduced spectacle, and ensured that even in a house frequently open to the world, the family could preserve a level of seclusion.
 
+*About the Image: Interior view of Glenmont’s second-floor upper main hall, facing northeast. August 28, 1947. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery, “Glenmont, interior, second floor, upper main hall, facing northeast.”](https://npgallery.nps.gov/EDIS/AssetDetail/d6835539-2f26-4dd1-8cf8-1f628d26d789)
+
 ### Cleaning the Family Bedrooms
 
-.ve-media 
-
-`image src=images/edison-bedroom-drawing.jpg .right alt="Drawing of the Edison Bedroom at Glenmont, showing the large family bedroom with fireplace, seating, curtains, and adjoining domestic space." caption="Room 203, Edison Bedroom. Drawing of the Edison Bedroom at Glenmont. From The House at Glenmont, Volume II, p. 73 of 644. Image credit: National Park Service, Thomas Edison National Historical Park. Source: [The House at Glenmont, Volume II](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf#page=251.08)."`
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570379 left width=80% caption="Room 203, Edison Bedroom"
 
 The second floor demanded a form of labor that was both intimate and disciplined. Bedrooms had to be aired, beds remade, dressing areas maintained, and textiles kept in orderly rotation. Unlike the public spaces below, family bedrooms were not staged for guests, but they were no less carefully managed. Their maintenance depended on workers whose presence was meant to disappear into the finished order of the room.
 
+*About the Image: Drawing of the Edison Bedroom at Glenmont, showing the large family bedroom with fireplace, seating, curtains, and adjoining domestic space. From The House at Glenmont, Volume II, p. 73 of 644. Image credit: National Park Service, Thomas Edison National Historical Park.*
+
+[Source: The House at Glenmont, Volume II](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf#page=251.08)
+
 #### Martha Michel – Mina Edison’s Personal Maid
 
-On the second floor and in the adjoining sewing spaces, Martha Michel’s work unfolded in intimate proximity to the family. Remembered by Lynn Given as Madam Edison’s Swiss personal maid, Martha shared workspace with Given on the third floor and moved freely between bedrooms, dressing rooms, and private quarters. She sewed, ironed, and managed clothing; she prepared personal items and traveled regularly with the Edisons to Fort Myers, riding in the car with Edison himself while other staff took the train. Mina's secretary Lynn recalled her fierce wit and sharp humor, though formal boundaries remained intact: “I couldn’t really be as casual with her as I would love to have been.” Martha’s labor was more intimate than that of the waitress or houseman—but still structured by hierarchy.
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570381 width=80% right caption="Historic image associated with upper-floor domestic work at Glenmont."
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/d807142d4de84f24befe93cfcb825231/proxyhires.jpg width=80% left caption="Historic image associated with upper-floor domestic work at Glenmont."
+On the second floor and in the adjoining sewing spaces, Martha Michel’s work unfolded in intimate proximity to the family. Remembered by Lynn Given as Madam Edison’s Swiss personal maid, Martha shared workspace with Given on the third floor and moved freely between bedrooms, dressing rooms, and private quarters. She sewed, ironed, and managed clothing; she prepared personal items and traveled regularly with the Edisons to Fort Myers, riding in the car with Edison himself while other staff took the train. Mina's secretary Lynn recalled her fierce wit and sharp humor, though formal boundaries remained intact: “I couldn’t really be as casual with her as I would love to have been.” Martha’s labor was more intimate than that of the waitress or houseman—but still structured by hierarchy.
 
 *About the image: Historic interior image associated with second-floor domestic work and the maintenance of family bedrooms at Glenmont. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain. Source: [NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/d807142d-4de8-4f24-befe-93cfcb825231).*
 
 #### Mollie Schaar — General Servant
 
-Mollie C. Schaar, a 45-year-old Swedish-born widow recorded in the 1910 federal census, represents the elastic category of “servant.” Born in Sweden around 1865 and immigrating in 1880, Mollie was fully literate, English-speaking, and steadily employed as a wage earner in private domestic service. Unlike the more specialized roles of chambermaid or parlor maid, Mollie’s labor likely moved across floors. General servants often maintained staircases and hallways, assisted with rug beating, carried linens between laundry and bedrooms, and absorbed overflow work during illness or heavy entertaining seasons. She would have supported Julia in deeper cleaning cycles and reinforced first-floor readiness when guest activity increased. If Jennie worked where guests saw and Julia worked where family slept, Mollie worked in the connective tissue of the house—circulation spaces, upper halls, and the third-floor servant quarters. Her labor was infrastructural: stabilizing the house after disruption, sustaining continuity between rooms, and ensuring that more specialized work could proceed smoothly.
-
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/6838c9af6e9342d68376f3b0a24376fc/proxyhires.jpg width=80% right caption="Historic image associated with servant labor in the circulation and support spaces of Glenmont"
 
-*About the image: Historic image associated with circulation spaces or servant work connected to the upper floors at Glenmont. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain. Source: [NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/6838c9af-6e93-42d6-8376-f3b0a24376fc)."`
+Mollie C. Schaar, a 45-year-old Swedish-born widow recorded in the 1910 federal census, represents the elastic category of “servant.” Born in Sweden around 1865 and immigrating in 1880, Mollie was fully literate, English-speaking, and steadily employed as a wage earner in private domestic service. Unlike the more specialized roles of chambermaid or parlor maid, Mollie’s labor likely moved across floors. General servants often maintained staircases and hallways, assisted with rug beating, carried linens between laundry and bedrooms, and absorbed overflow work during illness or heavy entertaining seasons. She would have supported Julia in deeper cleaning cycles and reinforced first-floor readiness when guest activity increased. If Jennie worked where guests saw and Julia worked where family slept, Mollie worked in the connective tissue of the house—circulation spaces, upper halls, and the third-floor servant quarters. Her labor was infrastructural: stabilizing the house after disruption, sustaining continuity between rooms, and ensuring that more specialized work could proceed smoothly.
+
+*About the image: Historic image associated with circulation spaces or servant work connected to the upper floors at Glenmont. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/6838c9af-6e93-42d6-8376-f3b0a24376fc)
 
 #### Cleaning Supplies
 
@@ -252,29 +256,25 @@ Floor cleaning required a changing set of tools, many of which may have been sto
 
 ## 2c. Child Care & Intimacy Work
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/1973b98812bc42648d442144c635e5df/proxyhires.jpg left width=80% caption="Madeleine Edison with nurse Helena McCarthy"
-
-*About the image: Madeleine Edison with nurse Helena McCarthy. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
-
-[Source: NPGallery, “Madeleine Edison with Nurse Helena McCarthy”](https://npgallery.nps.gov/EDIS/AssetDetail/1973b988-12bc-4264-8d44-2144c635e5df)
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570385 left width=80% caption="Madeleine Edison with nurse Helena McCarthy"
 
 Helena “Lena” McCarthy was born in Ireland in September 1863 and immigrated to the United States in the late 1880s. By the early 1890s, she had entered service in the Edison household at Glenmont, where a photograph of Lena holding Madeleine Edison suggests her early duties included nursery and child care. By 1895, she appears in the New Jersey State Census at Glenmont as Lena McCarthy, confirming her position as a live-in servant.
 
 Child care at Glenmont belonged to a category of domestic labor that was both practical and intimate. Nurses, maids, and other women workers cared for children’s bodies, clothing, meals, rooms, movement, and routines. Their work required physical closeness, emotional steadiness, and trust, yet it remained structured by class hierarchy. In the Edison household, care work could make a servant indispensable without making her equal.
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/9a4f64453d5c4a67867a2800688ad28b/proxyhires.jpg width=80% right caption="Glenmont, interior, third floor, hall, October 21, 1960."
+*About the image: Madeleine Edison with nurse Helena McCarthy. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery, “Madeleine Edison with Nurse Helena McCarthy”](https://npgallery.nps.gov/EDIS/AssetDetail/1973b988-12bc-4264-8d44-2144c635e5df)
+
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570388 width=80% right caption="Glenmont, interior, third floor, hall, October 21, 1960."
+
+The third floor helps make this intimacy visible as architecture. Domestic workers who cared for children and maintained family life often moved between nursery spaces, bedrooms, storage areas, and their own servant quarters. Their labor crossed boundaries between work space and living space, between family privacy and staff presence. Child care was therefore not only a task but a form of constant access: to children, to family routines, and to the private rhythms of the household.
 
 *About the image: Interior view of Glenmont’s third-floor hall. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
 
 [Source: NPGallery, “Glenmont, interior, third floor, hall.”](https://npgallery.nps.gov/EDIS/AssetDetail/9a4f6445-3d5c-4a67-867a-2800688ad28b)
 
-The third floor helps make this intimacy visible as architecture. Domestic workers who cared for children and maintained family life often moved between nursery spaces, bedrooms, storage areas, and their own servant quarters. Their labor crossed boundaries between work space and living space, between family privacy and staff presence. Child care was therefore not only a task but a form of constant access: to children, to family routines, and to the private rhythms of the household.
-
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/284e62f11da84ce1b9fba3fd4610ae6e/proxyhires.jpg width=80% left caption="Glenmont, interior, third floor, Charles Edison’s Bedroom, October 21, 1960"
-
-*About the image: Interior view of Charles Edison’s third-floor bedroom at Glenmont. Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
-
-[Source: NPGallery, “Glenmont, interior, third floor, Charles Edison’s Bedroom.”](https://npgallery.nps.gov/EDIS/AssetDetail/284e62f1-1da8-4ce1-b9fb-a3fd4610ae6e)
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570390 width=80% left caption="Glenmont, interior, third floor, Charles Edison’s Bedroom, October 21, 1960"
 
 Lena’s work consisted primarily of intimacy work. She moved through nursery, bedroom, and dressing spaces, tending to clothing, routines, and the emotional steadiness of the household. When she fell ill with “La Grippe,” her absence was remarked upon with concern—evidence that her labor extended beyond task to attachment.
 
@@ -282,39 +282,39 @@ Her responsibilities did not end in West Orange. When the family relocated seaso
 
 Mina’s correspondence reveals both dependence and anxiety at the thought of losing her. When Lena considered marriage in 1898, Mina admitted she was “on the anxious seat,” unsure how the household would function without her.
 
+*About the image: Interior view of Charles Edison’s third-floor bedroom at Glenmont. Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery, “Glenmont, interior, third floor, Charles Edison’s Bedroom.”](https://npgallery.nps.gov/EDIS/AssetDetail/284e62f1-1da8-4ce1-b9fb-a3fd4610ae6e)
+
 ### Mary Valinda Miller Observes Lena’s Care Work
+
+.ve-media https://edisondigital.rutgers.edu/iiif/2/X018D1AR 
 
 The intimacy of Lena’s labor is especially visible in a July 21, 1889 letter from Mary Valinda Miller to Mina and Thomas Edison. Writing from Oak Place, Mary Valinda described watching Lena dress and comfort young Madeleine Edison. The letter captures a rare moment in which child care becomes visible not through wages or job titles, but through gestures: stockings and shoes, kisses, laughter, and the child’s attachment to the woman who cared for her.
 
-.ve-media 
-
-<iframe src="https://edisondigital.rutgers.edu/uv.html#?manifest=https://edisondigital.rutgers.edu/iiif/2/X018D1AR/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-681,-126,2011,1324&r=0" width="560" height="420" allowfullscreen frameborder="0" title="[X018D1AR], Letter from Mary Valinda (Mrs Lewis) Miller to Mina Miller (Mrs Thomas A.) Edison, Thomas Alva Edison, July 21st, 1889"></iframe>
-
-*Mary Valinda Miller to Mina Miller Edison and Thomas Alva Edison, July 21, 1889. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: X018D1AR. In this letter, Mary Valinda Miller describes observing Lena caring for young Madeleine Edison, offering unusually intimate evidence of Lena’s nursery work and the emotional bonds formed through child care.*
+*About the image: Mary Valinda Miller to Mina Miller Edison and Thomas Alva Edison, July 21, 1889. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: X018D1AR. In this letter, Mary Valinda Miller describes observing Lena caring for young Madeleine Edison, offering unusually intimate evidence of Lena’s nursery work and the emotional bonds formed through child care.*
 
 #### Transcription
 
-“Your little pet is well [Lena] and I have just come in from taking out in her little carriage around the lawn. Leana has her now. She walked three or four steps all alone today. I think she will walk soon. I went upstairs to see her this morning just as she waked up and Leana has her putting on her stocking and shoes neither of them saw me. I took a long time and watched them. Leana is very kind and good to dear little pet. She would ask where is papa’s babe. Madeline would put her hand on her breast and pat it and the same when asked where Mama’s pet was and Leana would ask do you want to see mama and papa and then she look in Leana in the face and laugh — want to go right away she would kiss Leana and do everything to get Leana started. I do not think she ever forget her dear Papa and Mama no no she looks at each picture and kisses them. I do hope these few lines will find you well also all the dear ones that are with you.”
+.ve-media https://edisondigital.rutgers.edu/iiif/570392 width=80% right caption="Madeleine Edison with Nurse Helena McCarthy and possibly Charles Edison"
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/40670a420a5b439cb4e84109e1535c7f/proxyhires.jpg width=80% right caption="Madeleine Edison with Nurse Helena McCarthy and possibly Charles Edison"
+“Your little pet is well [Lena] and I have just come in from taking out in her little carriage around the lawn. Leana has her now. She walked three or four steps all alone today. I think she will walk soon. I went upstairs to see her this morning just as she waked up and Leana has her putting on her stocking and shoes neither of them saw me. I took a long time and watched them. Leana is very kind and good to dear little pet. She would ask where is papa’s babe. Madeline would put her hand on her breast and pat it and the same when asked where Mama’s pet was and Leana would ask do you want to see mama and papa and then she look in Leana in the face and laugh — want to go right away she would kiss Leana and do everything to get Leana started. I do not think she ever forget her dear Papa and Mama no no she looks at each picture and kisses them. I do hope these few lines will find you well also all the dear ones that are with you.”
 
 *About the image: Madeleine Edison with Nurse Helena McCarthy and possibly Charles Edison in a stroller, photographed outdoors in winter around 1890 or 1891. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Madeleine Edison with Nurse Helena McCarthy and [Charles Edison?] in the stroller.”](https://npgallery.nps.gov/EDIS/AssetDetail/40670a42-0a5b-439c-b4e8-4109e1535c7f)
 
+.ve-media https://edisondigital.rutgers.edu/iiif/2/X018D1AR left width=80%
+
 Lena’s care work was embedded within a larger family network. Her labor connected Mina Edison’s role as mother to the watchful concern of Mina’s own mother, Mary Valinda Miller. In letters, child care appears not as a simple household task, but as a shared emotional responsibility: Madeleine’s steps, clothing, carriage rides, gestures of affection, and attachment to her parents were all observed, reported, and preserved through correspondence. Lena stood at the center of this exchange. She cared for the child directly, while Mary Valinda interpreted that care for Mina and Thomas from a distance.
 
-.ve-media 
-
-<iframe src="https://edisondigital.rutgers.edu/uv.html#?manifest=https://edisondigital.rutgers.edu/iiif/2/X018D1AR/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-629,-91,1906,1255&r=0" width="560" height="420" allowfullscreen frameborder="0" title="[X018D1AR], Letter from Mary Valinda (Mrs Lewis) Miller to Mina Miller (Mrs Thomas A.) Edison, Thomas Alva Edison, July 21st, 1889"></iframe>
-
-*Mary Valinda Miller to Mina Miller Edison and Thomas Alva Edison, July 21, 1889. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: X018D1AR. In this letter, Mary Valinda Miller describes Lena caring for young Madeleine Edison, documenting the intimate, bodily, and emotional dimensions of nursery work.*
+*About the image: Mary Valinda Miller to Mina Miller Edison and Thomas Alva Edison, July 21, 1889. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: X018D1AR. In this letter, Mary Valinda Miller describes Lena caring for young Madeleine Edison, documenting the intimate, bodily, and emotional dimensions of nursery work.*
 
 #### Transcription
 
-“Your little pet is well Eddie and I have just come in from taking out in her little carriage around the lawn. Leana has her now she walked three or four steps all alone today. I think she will walk soon. I went upstairs to see her this morning just as she waked up and Leana has her putting on her stocking and shoes neither of them saw me. I took a long time and watched them. Leana is very kind and good to dear little pet. She would ask where is papa’s babe. Madeline would put her hand on her breast and pat it and the same when asked where Mama’s pet was and Leana would ask do you want to see mema and papa and then she look in Leana in the face and laugh — want to go right away she would kiss Leana and do everything to get Leana started. I do not think she ever forget her dear Papa and Mama no no she looks at each picture and kisses them. I do hope these few lines will find you well also all the dear ones that are with you. I received those night dress and will get them. The — did not get here until Saturday afternoon. I wish we could hear from each other often. How is dear little Theodore I do hope well also all the other will they all come home before going to the lake. Pa and ___ is there now. This is a lovely day here. I do hope you will have fine weather while on the water why does Jennie not write to me and tell me how all are and what all are going to do. I would love to hear. O there is a locust singing just now the first I have heard. I do hope they will not get — around here, they do a great deal of damage to everything. Well darling I will close hoping all are well and happy kiss each other for mother.”
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570394 width=80% left caption="Mina Miller Edison with her children at Glenmont, circ 1900"
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/c89effee619b4c7f88ec8d2e46a592ec/proxyhires.jpg width=80% left caption="Mina Miller Edison with her children at Glenmont, circ 1900"
+“Your little pet is well Eddie and I have just come in from taking out in her little carriage around the lawn. Leana has her now she walked three or four steps all alone today. I think she will walk soon. I went upstairs to see her this morning just as she waked up and Leana has her putting on her stocking and shoes neither of them saw me. I took a long time and watched them. Leana is very kind and good to dear little pet. She would ask where is papa’s babe. Madeline would put her hand on her breast and pat it and the same when asked where Mama’s pet was and Leana would ask do you want to see mema and papa and then she look in Leana in the face and laugh — want to go right away she would kiss Leana and do everything to get Leana started. I do not think she ever forget her dear Papa and Mama no no she looks at each picture and kisses them. I do hope these few lines will find you well also all the dear ones that are with you. I received those night dress and will get them. The — did not get here until Saturday afternoon. I wish we could hear from each other often. How is dear little Theodore I do hope well also all the other will they all come home before going to the lake. Pa and ___ is there now. This is a lovely day here. I do hope you will have fine weather while on the water why does Jennie not write to me and tell me how all are and what all are going to do. I would love to hear. O there is a locust singing just now the first I have heard. I do hope they will not get — around here, they do a great deal of damage to everything. Well darling I will close hoping all are well and happy kiss each other for mother.”
 
 *About the image: Mina Miller Edison with her children Madeleine Edison and Charles Edison inside Glenmont, photographed around 1900. Photograph by Underhill Photographer, New York. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
