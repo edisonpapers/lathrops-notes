@@ -6,7 +6,7 @@
     - [Beyond the House](/4)
     - [Rest and Respite](/5)
 
-# The Household at Work
+# Section 2 - The Household at Work
 
 This section examines Glenmont as a working household. Its rooms, staircases, service areas, and circulation routes shaped how domestic workers moved through the estate, maintained family life, and supported the public and private functions of the Edison home.
 
@@ -56,29 +56,25 @@ Laundry work connected the household’s service spaces to the repeated labor of
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/570365 width=80% right caption="Glenmont, interior, first floor"
 
+Women comprised most of the salaried employees who worked within the Glenmont household. Throughout the late nineteenth and early twentieth centuries, the composition of the domestic staff shifted according to the family’s needs, finances, and the availability of workers. Payroll records indicate that the household commonly employed a cook, waitress, maid, nurse, and laundress during the early 1890s, though Mina Edison periodically reduced or expanded the staff. By the late 1890s and early twentieth century, more specialized positions emerged, including chambermaids, kitchen maids, companions, and personal maids.
+
 *About the image: Interior view of Glenmont’s first-floor Servant’s Hall and staircase Servant’s Hall and staircase, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Servant’s Hall and staircase.”](https://npgallery.nps.gov/EDIS/AssetDetail/50cbb474-32da-45e3-92d9-dcfee8ee37d4)
 
-Women comprised most of the salaried employees who worked within the Glenmont household. Throughout the late nineteenth and early twentieth centuries, the composition of the domestic staff shifted according to the family’s needs, finances, and the availability of workers. Payroll records indicate that the household commonly employed a cook, waitress, maid, nurse, and laundress during the early 1890s, though Mina Edison periodically reduced or expanded the staff. By the late 1890s and early twentieth century, more specialized positions emerged, including chambermaids, kitchen maids, companions, and personal maids.
-
 .ve-media https://edisondigital.rutgers.edu/iiif/2/570366 width=80% left caption="Interior view, Glenmont’s first-floor Servant’s Hall and staircase"
+
+Domestic workers generally occupied spaces intentionally separated from the formal public areas of the house. Service rooms—including the kitchen, pantry, laundry, service hall, and back staircases—were concentrated along the north side of Glenmont, while formal entertaining rooms occupied the south and east portions of the first floor.
 
 *About the image: Interior view of Glenmont’s first-floor Servant’s Hall and staircase, showing the service circulation area used by domestic staff. October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Servant’s Hall and staircase.”](https://npgallery.nps.gov/EDIS/AssetDetail/fd249814-bce9-47bc-991d-98c385e71888)
-
-Domestic workers generally occupied spaces intentionally separated from the formal public areas of the house. Service rooms—including the kitchen, pantry, laundry, service hall, and back staircases—were concentrated along the north side of Glenmont, while formal entertaining rooms occupied the south and east portions of the first floor.
 
 <!-- Image needed: servant’s uniform. Possible use: place near discussion of staff roles, presentation, hierarchy, and visibility/invisibility of domestic labor. -->
 
 ### Kitchen Duty: Cooks, Maids, and Butlers 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/570367 width=80% right caption="Rooms 107 and 107a, Kitchen and Refrigerator Room"
-
-*About the image: Line drawing of Glenmont’s first-floor kitchen and refrigerator room, showing the sink and drainboard, central worktable, storage cabinets, cooking range and hood, refrigerator room, and service work areas. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
-
-[Source: NPGallery, “Glenmont, interior, first floor, Kitchen.”](https://npgallery.nps.gov/EDIS/AssetDetail/7987b7fa-f0fc-4610-bc3f-a7b46a827f7a)
 
 **Image annotations**
 
@@ -91,6 +87,10 @@ Domestic workers generally occupied spaces intentionally separated from the form
 In 1900, Mary Flaherty appears in the federal census as the Edison household cook. Twenty-nine years old, Irish-born, single, and literate, she had been in the United States for seventeen years but was not naturalized. She reported working all twelve months of the year. Her labor would have included managing coal or wood-fired ranges, preparing multi-course meals, overseeing ingredient storage, and coordinating with the waitress for service timing. As Lucy Maynard Salmon noted in her early twentieth-century study of domestic service, a competent cook was expected not merely to follow recipes but to exercise judgment: to understand marketing and provisioning, calculate quantities for varying numbers of diners, manage fuel economy, supervise kitchen cleanliness, direct subordinate help, and maintain composure under time pressure. The cook’s authority in the kitchen was practical and immediate; meals could not be delayed. 
 
 Mary McMahon’s work as cook required knowledge of household tools, kitchen equipment, food preparation, and provisioning. A 1900 Kinch Hardware Company advertisement from *The Atlanta Journal* illustrates the range of kitchen and household goods available to consumers at the turn of the century. [View “Shopping Made Easy” advertisement, *The Atlanta Journal*, March 29, 1900](images/shopping-made-easy-atlanta-journal-1900.jpg).
+
+*About the image: Line drawing of Glenmont’s first-floor kitchen and refrigerator room, showing the sink and drainboard, central worktable, storage cabinets, cooking range and hood, refrigerator room, and service work areas. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery, “Glenmont, interior, first floor, Kitchen.”](https://npgallery.nps.gov/EDIS/AssetDetail/7987b7fa-f0fc-4610-bc3f-a7b46a827f7a)
 
 ### Collaboration with the Home Executive
 
@@ -131,11 +131,15 @@ Mina A. Edison
 
 Kitchen maids performed physically demanding work such as sweeping, tending fires, washing dishes, and assisting the cook, while chambermaids maintained bedrooms, prepared baths, aired linens, and cleaned private family spaces. Manuals such as Christine Frederick’s [*Household Engineering*](https://archive.org/details/householdengine00fredrich/page/164/mode/2up) treated household labor as a system of organized tasks, time management, and efficient movement. Mina also employed personal maids, including Mollie Johnson in the years around 1909–1914 and, later, a Swiss maid named Martha. By 1910 and 1912, other cooks—such as Marion Renard, a thirty-two-year-old French-born widow and mother of three—appear in census and voucher records. Renard had immigrated only two years earlier and worked as both cook and general servant. In 1915 and 1920, Mary McMahon, also recorded as McMann, an English-born cook of Irish parentage, is listed as a wage-earning, non-naturalized alien. Like Flaherty before her, she was single and fully literate. These records reveal a pattern: immigrant women, often unmarried or widowed, working as professional cooks in private domestic service. Period discussions of household cold storage and refrigeration, including references to Lorillard equipment in [*Architecture*, vol. 32, no. 4, October 1915](https://babel.hathitrust.org/cgi/pt?id=ufl.31262046276183&seq=94&q1=lorillard) and [*Arts & Decoration*](https://babel.hathitrust.org/cgi/pt?id=hvd.32044039482294&seq=307&q1=lorillard), help contextualize the kinds of specialized kitchen technologies that shaped elite household work. The National Park Service’s overview of [the icebox as the predecessor of modern refrigeration](https://www.nps.gov/articles/000/the-icebox-the-predecessor-of-modern-refrigeration.htm) also helps explain how cold storage remained labor-intensive before modern electric refrigeration. Salmon emphasized that cooks in large households were often the highest-paid female servants because they combined manual skill with managerial oversight. Their compensation, though recorded simply as “wage earner” in census schedules, reflected the centrality of their role. Unlike laundresses paid by the day, cooks were typically salaried monthly employees, anchoring the household’s daily survival.
 
-`image src=images/frederick-household-engineering-p164.jpg .right alt="Page 164 from Christine Frederick’s Household Engineering: Scientific Management in the Home, showing guidance related to efficient household work and domestic labor organization." caption="Christine Frederick, Household Engineering: Scientific Management in the Home (Chicago: American School of Home Economics, 1923), 164. Courtesy of Internet Archive."`
+.ve-media https://iiif.archive.org/iiif/householdengine00fredrich/manifest.json 
 
-[Source: Internet Archive, Christine Frederick, *Household Engineering: Scientific Management in the Home*, p. 164](https://archive.org/details/householdengine00fredrich/page/164/mode/2up)
+<---`image src=images/frederick-household-engineering-p164.jpg .right caption="Christine Frederick, Household Engineering. Courtesy of Internet Archive---> NEED THIS IMAGE TO ADD TO PRIVATE TAED IMAGES FOR IIIF EMBED
 
 Kitchen maintenance differed from other domestic zones. Surfaces required daily scrubbing. Floors were wiped repeatedly to control grease. Ranges demanded ash removal and fuel management. Pots, knives, and preparation tables were washed after each meal. The cook oversaw not only flavor but sanitation. As household manuals such as [*Mrs. Beeton’s Book of Household Management*](https://en.wikisource.org/wiki/Mrs._Beeton%27s_Book_of_Household_Management) suggest, the kitchen was imagined as a space where order, discipline, economy, and cleanliness had to be constantly maintained; specific instructions for kitchen work and household order appear throughout the text, including in [this digitized page view](https://en.wikisource.org/wiki/Page:Mrs_Beeton%27s_Book_of_Household_Management.djvu/2013). Salmon likewise underscored that a cook’s success depended upon order, cleanliness, punctuality, and economy—qualities that required mental organization as much as physical endurance. The labor was not episodic but cyclical and relentless. Unlike bedroom work, which erased the trace of sleep, kitchen work produced visible transformation: raw ingredients into prepared meals.
+
+*About the image: Page 164 from Christine Frederick’s Household Engineering: Scientific Management in the Home, showing guidance related to efficient household work and domestic labor organization. Courtesy of Internet Archive."`
+
+[Source: Internet Archive, Christine Frederick, *Household Engineering: Scientific Management in the Home*, p. 164](https://archive.org/details/householdengine00fredrich/page/164/mode/2up)
 
 ### The Butler and the Waitress: Navigating the Pantry and Dining Room
 
@@ -173,6 +177,8 @@ About this image: Interior view of Glenmont’s first-floor Dining Room, showing
 
 The butler’s responsibilities revolved around what might be called objects of authority: the corner china closet, marble-topped serving table, Dutch hall clock, Tiffany clock, silver trays, fire implements, screens, and lighting fixtures. These were not objects of constant handling. They required supervision, inspection, and periodic care. Silver was polished at intervals, not daily. Fire implements were managed seasonally. Clocks regulated movement and ceremony. Lighting and sightlines structured the room’s presentation.
 
+.ve-media 
+
 `image #telegram-henry-bessie src=images/mina-telegram-henry-bessie-1925.jpg .left alt="Western Union telegram from Mina Edison to Theodore M. Edison dated April 17, 1925, instructing him to invite family members for lunch and to engage Henry to help serve." caption="Western Union telegram from Mina Edison to Theodore M. Edison, April 17, 1925. The message connects family hosting to domestic labor by instructing Theodore to invite relatives for lunch and to “engage Henry to help serve,” while also naming Bessie as part of the luncheon arrangements. Source and image credit to be confirmed."`
 
 #### Transcription
@@ -194,6 +200,8 @@ MOTHER
 
 ## Maintaining the Second Floor
 
+.ve-media 
+
 `image src=images/second-floor-plan-color-coded.jpg alt="Color-coded second-floor plan of Glenmont showing family bedrooms, bathrooms, halls, sitting rooms, and service-related circulation spaces." caption="Figure 117. Second-floor plan of Glenmont, 1963. Redrawn from NPS Drawing–NHS Edi. 331. Room labels added by Melissa Benbow Flowers, 2026. Rooms color coded by Michael Faist, 2026. From Barbara A. Yocum, The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I (Lowell, MA: National Park Service, U.S. Department of the Interior, 1998), 484."`
 
 [Source: Barbara A. Yocum, *The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I*](https://npshistory.com/publications/edis/hsr-glenmont-v1.pdf)
@@ -213,6 +221,8 @@ The second floor was a family-only zone that nonetheless required constant maint
 The second floor thus represents a paradox of elite domestic life: the more famous the family, the more carefully privacy had to be constructed. That construction depended on servants who were visible in duty yet invisible in effect. Their labor softened footsteps, reduced spectacle, and ensured that even in a house frequently open to the world, the family could preserve a level of seclusion.
 
 ### Cleaning the Family Bedrooms
+
+.ve-media 
 
 `image src=images/edison-bedroom-drawing.jpg .right alt="Drawing of the Edison Bedroom at Glenmont, showing the large family bedroom with fireplace, seating, curtains, and adjoining domestic space." caption="Room 203, Edison Bedroom. Drawing of the Edison Bedroom at Glenmont. From The House at Glenmont, Volume II, p. 73 of 644. Image credit: National Park Service, Thomas Edison National Historical Park. Source: [The House at Glenmont, Volume II](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf#page=251.08)."`
 
@@ -276,6 +286,8 @@ Mina’s correspondence reveals both dependence and anxiety at the thought of lo
 
 The intimacy of Lena’s labor is especially visible in a July 21, 1889 letter from Mary Valinda Miller to Mina and Thomas Edison. Writing from Oak Place, Mary Valinda described watching Lena dress and comfort young Madeleine Edison. The letter captures a rare moment in which child care becomes visible not through wages or job titles, but through gestures: stockings and shoes, kisses, laughter, and the child’s attachment to the woman who cared for her.
 
+.ve-media 
+
 <iframe src="https://edisondigital.rutgers.edu/uv.html#?manifest=https://edisondigital.rutgers.edu/iiif/2/X018D1AR/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-681,-126,2011,1324&r=0" width="560" height="420" allowfullscreen frameborder="0" title="[X018D1AR], Letter from Mary Valinda (Mrs Lewis) Miller to Mina Miller (Mrs Thomas A.) Edison, Thomas Alva Edison, July 21st, 1889"></iframe>
 
 *Mary Valinda Miller to Mina Miller Edison and Thomas Alva Edison, July 21, 1889. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: X018D1AR. In this letter, Mary Valinda Miller describes observing Lena caring for young Madeleine Edison, offering unusually intimate evidence of Lena’s nursery work and the emotional bonds formed through child care.*
@@ -291,6 +303,8 @@ The intimacy of Lena’s labor is especially visible in a July 21, 1889 letter f
 [Source: NPGallery, “Madeleine Edison with Nurse Helena McCarthy and [Charles Edison?] in the stroller.”](https://npgallery.nps.gov/EDIS/AssetDetail/40670a42-0a5b-439c-b4e8-4109e1535c7f)
 
 Lena’s care work was embedded within a larger family network. Her labor connected Mina Edison’s role as mother to the watchful concern of Mina’s own mother, Mary Valinda Miller. In letters, child care appears not as a simple household task, but as a shared emotional responsibility: Madeleine’s steps, clothing, carriage rides, gestures of affection, and attachment to her parents were all observed, reported, and preserved through correspondence. Lena stood at the center of this exchange. She cared for the child directly, while Mary Valinda interpreted that care for Mina and Thomas from a distance.
+
+.ve-media 
 
 <iframe src="https://edisondigital.rutgers.edu/uv.html#?manifest=https://edisondigital.rutgers.edu/iiif/2/X018D1AR/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-629,-91,1906,1255&r=0" width="560" height="420" allowfullscreen frameborder="0" title="[X018D1AR], Letter from Mary Valinda (Mrs Lewis) Miller to Mina Miller (Mrs Thomas A.) Edison, Thomas Alva Edison, July 21st, 1889"></iframe>
 
@@ -317,6 +331,8 @@ Lena’s work placed her in close contact with the Edison children, Mina Edison 
 [Source: NPGallery, “Glenmont, interior, second floor, Family Living Room, living and sitting room, facing windows.”](https://npgallery.nps.gov/EDIS/AssetDetail/d575674a-e559-458d-9bd0-79cc8f47d5c9)
 
 Child care and personal service gave workers like Lena unusual access to the family’s private spaces. Her work did not remain confined to the nursery. It extended into bedrooms, sitting rooms, clothing, drawers, and personal belongings. A brief 1896 letter from Thomas Edison to Mina Edison captures this intimacy almost casually. Writing to Mina, Edison mentions cleaning out drawers where Lena had placed things taken from his pockets. The reference is small, but revealing: Lena’s work brought her into contact with the family’s everyday objects and routines, including the handling of garments and personal effects.
+
+.ve-media 
 
 <iframe src="https://edisondigital.rutgers.edu/uv.html#?manifest=https://edisondigital.rutgers.edu/iiif/2/B037ABJ2/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-362,-61,1100,725&r=0" width="560" height="420" allowfullscreen frameborder="0" title="[B037ABJ2], Letter from Thomas Alva Edison to Mina Miller (Mrs Thomas A.) Edison, 1896"></iframe>
 
@@ -353,6 +369,8 @@ Private family rooms such as the living room remind us that intimacy work was no
 Family photographs such as this one offer a glimpse of the domestic world that servants helped maintain. Although Lena does not appear here, the order and comfort of family life depended on the work of people who moved quietly through the household over many years. For trusted workers, familiarity developed gradually. They came to know the rhythms of the family and, in turn, were known personally by name, habit, and character.
 
 #### Trust, Long Service, and Access to Private Space
+
+.ve-media 
 
 <iframe src="https://edisondigital.rutgers.edu/uv.html#?manifest=https://edisondigital.rutgers.edu/iiif/2/X456CA/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-521,-105,1716,1130&r=0" width="560" height="420" allowfullscreen frameborder="0" title="[X456CA], Letter from Mina Miller (Mrs Thomas A.) Edison to Theodore Miller Edison, Ann Osterhout (Mrs Theodore M.) Edison, August 14th, 1927"></iframe>
 
@@ -431,6 +449,8 @@ Laundry work also depended on smaller consumable goods that rarely survive in ho
 
 The Thor washer at Glenmont should be read alongside both older laundry routines and newer commercial products. Periodicals such as [*The Ladies’ Home Journal*](https://archive.org/details/sim_ladies-home-journal_1884-09_1_10/page/n7/mode/2up) circulated household advice and advertisements to middle-class women readers, while electrical trade publications such as [*Electrical World*](https://www.google.com/books/edition/Electrical_World/J0QIibVrgDAC?hl=en&gbpv=1&dq=Hurley+Machine+Co+Thor+Electric+Washer+and+Wringer&pg=PA1047&printsec=frontcover) and [*Electrical Record and Buyer’s Reference*](https://www.google.com/books/edition/Electrical_Record_and_Buyer_s_Reference/a4A2AQAAMAAJ?hl=en&gbpv=1&dq=Hurley+Machine+Co+Thor+Electric+Washer+and+Wringer&pg=PA183&printsec=frontcover) presented electric laundry equipment as part of a modernizing household economy.
 
+.ve-media 
+
 `image src=images/laundry-yard-clothesline-posts.jpg .right alt="View of wooden clothesline posts in Glenmont’s laundry yard, with trees, grass, and a service road in the background." caption="Figure 29. View of the wooden posts located in the laundry yard. The laundry yard contained clothesline posts and was used to dry laundry. Evergreen trees and shrubs screened this service area from view. From Cultural Landscapes Inventory: Glenmont Estate, Thomas Edison National Historical Park (National Park Service, 2011), 106 of 113."`
 
 [Source: National Park Service, *Cultural Landscapes Inventory: Glenmont Estate*](https://npshistory.com/publications/edis/cli-glenmont-estate.pdf)
@@ -440,6 +460,8 @@ By 1896, an outdoor drying yard was first documented. Wet linens—bed sheets fr
 Between 1935 and 1940, Mina Edison planted rhododendrons around the perimeter of the laundry yard and a hemlock hedge along Honeysuckle Avenue. Similar to its historic appearance, the laundry yard remained bounded by secondary drives and perimeter evergreen plantings. Its interior contained a hose house and original clothesline posts, material evidence of the outdoor labor required to dry household laundry.
 
 Hooks inside the laundry room indicate that, during rain or winter, clotheslines were strung indoors. The room itself could transform into a drying chamber. A 1907 plan proposed adding an indoor dryer and closet, but the plan was never implemented. Mechanical convenience remained unrealized; manual drying persisted.
+
+.ve-media 
 
 `image src=images/glenmont-sewing-room-drawing.jpg .left alt="Drawing of Glenmont’s third-floor Sewing Room, showing worktables, chairs, storage cabinets, windows, and a bed." caption="Room 305, Sewing Room. Drawing of the Sewing Room at Glenmont. From The House at Glenmont, Volume II: Furnishing Plan. Image credit: National Park Service, Thomas Edison National Historical Park."`
 
