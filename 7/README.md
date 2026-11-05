@@ -287,7 +287,7 @@ Mina’s correspondence reveals both dependence and anxiety at the thought of lo
 
 ### Mary Valinda Miller Observes Lena’s Care Work
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/X018D1AR width=8% left
+.ve-media https://edisondigital.rutgers.edu/iiif/2/X018D1AR width=80% left
 
 The intimacy of Lena’s labor is especially visible in a July 21, 1889 letter from Mary Valinda Miller to Mina and Thomas Edison. Writing from Oak Place, Mary Valinda described watching Lena dress and comfort young Madeleine Edison. The letter captures a rare moment in which child care becomes visible not through wages or job titles, but through gestures: stockings and shoes, kisses, laughter, and the child’s attachment to the woman who cared for her.
 
