@@ -257,7 +257,7 @@ Floor cleaning required a changing set of tools, many of which may have been sto
 
 ## 2c. Child Care & Intimacy Work
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570385 left width=80% caption="Madeleine Edison with nurse Helena McCarthy"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570385 right width=80% caption="Madeleine Edison with nurse Helena McCarthy"
 
 Helena “Lena” McCarthy was born in Ireland in September 1863 and immigrated to the United States in the late 1880s. By the early 1890s, she had entered service in the Edison household at Glenmont, where a photograph of Lena holding Madeleine Edison suggests her early duties included nursery and child care. By 1895, she appears in the New Jersey State Census at Glenmont as Lena McCarthy, confirming her position as a live-in servant.
 
@@ -267,7 +267,7 @@ Child care at Glenmont belonged to a category of domestic labor that was both pr
 
 [Source: NPGallery, “Madeleine Edison with Nurse Helena McCarthy”](https://npgallery.nps.gov/EDIS/AssetDetail/1973b988-12bc-4264-8d44-2144c635e5df)
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570388 width=80% right caption="Glenmont, interior, third floor, hall, October 21, 1960."
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570388 width=80% left caption="Glenmont, interior, third floor, hall, October 21, 1960."
 
 The third floor helps make this intimacy visible as architecture. Domestic workers who cared for children and maintained family life often moved between nursery spaces, bedrooms, storage areas, and their own servant quarters. Their labor crossed boundaries between work space and living space, between family privacy and staff presence. Child care was therefore not only a task but a form of constant access: to children, to family routines, and to the private rhythms of the household.
 
@@ -275,7 +275,7 @@ The third floor helps make this intimacy visible as architecture. Domestic worke
 
 [Source: NPGallery, “Glenmont, interior, third floor, hall.”](https://npgallery.nps.gov/EDIS/AssetDetail/9a4f6445-3d5c-4a67-867a-2800688ad28b)
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570390 width=80% left caption="Glenmont, interior, third floor, Charles Edison’s Bedroom, October 21, 1960"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570390 width=80% right caption="Glenmont, interior, third floor, Charles Edison’s Bedroom, October 21, 1960"
 
 Lena’s work consisted primarily of intimacy work. She moved through nursery, bedroom, and dressing spaces, tending to clothing, routines, and the emotional steadiness of the household. When she fell ill with “La Grippe,” her absence was remarked upon with concern—evidence that her labor extended beyond task to attachment.
 
