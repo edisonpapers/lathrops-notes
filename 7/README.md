@@ -163,9 +163,9 @@ Early twentieth-century manuals defined the responsibilities of a dining-room wa
 
 ### The Butler and the Waitress: Visibility, Service, and the Dining Room
 
-Johanna, remembered by Mina’s secretary Lynn Given in a 1990 interview as “the German waitress,” worked in one of the most visible rooms of Glenmont—the dining room. While others labored in kitchens or private chambers, Johanna’s work unfolded at the threshold between family and guest. She was present when meals were served, yet her presence was meant to dissolve into the background. A contemporary [idealized image of a maid or waitress in domestic service](https://www.thehenryford.org/collections/explore/artifact/480947?AssetId=THF290826), preserved by The Henry Ford, suggests how early twentieth-century visual culture often represented women servants as orderly, efficient, and quietly attentive.
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570396 width=80% right caption="Glenmont, interior, first floor, Dining Room, October 21, 1960."
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/819166c1ba64407da9d377b2e7984813/proxyhires.jpg width=80% right caption="Glenmont, interior, first floor, Dining Room, October 21, 1960."
+Johanna, remembered by Mina’s secretary Lynn Given in a 1990 interview as “the German waitress,” worked in one of the most visible rooms of Glenmont—the dining room. While others labored in kitchens or private chambers, Johanna’s work unfolded at the threshold between family and guest. She was present when meals were served, yet her presence was meant to dissolve into the background. A contemporary [idealized image of a maid or waitress in domestic service](https://www.thehenryford.org/collections/explore/artifact/480947?AssetId=THF290826), preserved by The Henry Ford, suggests how early twentieth-century visual culture often represented women servants as orderly, efficient, and quietly attentive.
 
 *About the image: Interior view of Glenmont’s first-floor Dining Room, showing the dining table, chairs, fireplace, decorative objects, lighting fixtures, and a screen partially concealing the service area. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
@@ -240,7 +240,7 @@ On the second floor and in the adjoining sewing spaces, Martha Michel’s work u
 
 #### Mollie Schaar — General Servant
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/6838c9af6e9342d68376f3b0a24376fc/proxyhires.jpg width=80% right caption="Historic image associated with servant labor in the circulation and support spaces of Glenmont"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570383 width=80% right caption="Historic image associated with servant labor in the circulation and support spaces of Glenmont"
 
 Mollie C. Schaar, a 45-year-old Swedish-born widow recorded in the 1910 federal census, represents the elastic category of “servant.” Born in Sweden around 1865 and immigrating in 1880, Mollie was fully literate, English-speaking, and steadily employed as a wage earner in private domestic service. Unlike the more specialized roles of chambermaid or parlor maid, Mollie’s labor likely moved across floors. General servants often maintained staircases and hallways, assisted with rug beating, carried linens between laundry and bedrooms, and absorbed overflow work during illness or heavy entertaining seasons. She would have supported Julia in deeper cleaning cycles and reinforced first-floor readiness when guest activity increased. If Jennie worked where guests saw and Julia worked where family slept, Mollie worked in the connective tissue of the house—circulation spaces, upper halls, and the third-floor servant quarters. Her labor was infrastructural: stabilizing the house after disruption, sustaining continuity between rooms, and ensuring that more specialized work could proceed smoothly.
 
@@ -330,11 +330,9 @@ Lena’s work placed her in close contact with the Edison children, Mina Edison 
 
 [Source: NPGallery, “Glenmont, interior, second floor, Family Living Room, living and sitting room, facing windows.”](https://npgallery.nps.gov/EDIS/AssetDetail/d575674a-e559-458d-9bd0-79cc8f47d5c9)
 
+.ve-media https://edisondigital.rutgers.edu/iiif/2/B037ABJ2 width=80% left
+
 Child care and personal service gave workers like Lena unusual access to the family’s private spaces. Her work did not remain confined to the nursery. It extended into bedrooms, sitting rooms, clothing, drawers, and personal belongings. A brief 1896 letter from Thomas Edison to Mina Edison captures this intimacy almost casually. Writing to Mina, Edison mentions cleaning out drawers where Lena had placed things taken from his pockets. The reference is small, but revealing: Lena’s work brought her into contact with the family’s everyday objects and routines, including the handling of garments and personal effects.
-
-.ve-media 
-
-<iframe src="https://edisondigital.rutgers.edu/uv.html#?manifest=https://edisondigital.rutgers.edu/iiif/2/B037ABJ2/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-362,-61,1100,725&r=0" width="560" height="420" allowfullscreen frameborder="0" title="[B037ABJ2], Letter from Thomas Alva Edison to Mina Miller (Mrs Thomas A.) Edison, 1896"></iframe>
 
 *Thomas Alva Edison to Mina Miller Edison, 1896. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: B037ABJ2. Edison’s reference to Lena placing items from his pockets into drawers offers a small glimpse into the personal access required by domestic service inside the Edison household.*
 
@@ -352,15 +350,15 @@ Loving you
 Your lover  
 TAE
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/74af63a156734b07b2375dc7a4b5d616/proxyhires.jpg width=80% right caption="Glenmont, interior, second floor, 1955"
+.ve-media https://edisondigital.rutgers.edu/iiif/570400 width=80% right caption="Glenmont, interior, second floor, 1955"
 
 *About the image: Glenmont, interior, second floor, Family Living Room, living and sitting room, facing northwest and rear of house, 1955. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, second floor, Family Living Room, living and sitting room, facing northwest and rear of house.”](https://npgallery.nps.gov/EDIS/AssetDetail/74af63a1-5673-4b07-b237-5dc7a4b5d616)
 
-Private family rooms such as the living room remind us that intimacy work was not confined to the nursery. Workers like Lena moved through sitting rooms, bedrooms, dressing spaces, and hallways as part of the family’s everyday life. Over time, this kind of labor required not only skill, but trust. Long-term employees were permitted into spaces that held the family’s routines, conversations, illnesses, clothing, and personal belongings. Lena’s years of service meant that she became a familiar presence in these rooms, helping to sustain comfort and continuity across decades.
+.ve-media https://edisondigital.rutgers.edu/iiif/570398 width=80% left caption="Mina Edison and Charles Edison at Glenmont, circa 1940."
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/bbee552aac424f33b0a4408923c7872c/proxyhires.jpg width=80% left caption="Mina Edison and Charles Edison at Glenmont, circa 1940."
+Private family rooms such as the living room remind us that intimacy work was not confined to the nursery. Workers like Lena moved through sitting rooms, bedrooms, dressing spaces, and hallways as part of the family’s everyday life. Over time, this kind of labor required not only skill, but trust. Long-term employees were permitted into spaces that held the family’s routines, conversations, illnesses, clothing, and personal belongings. Lena’s years of service meant that she became a familiar presence in these rooms, helping to sustain comfort and continuity across decades.
 
 *About the image: Mina Edison and Charles Edison at Glenmont. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
@@ -370,15 +368,13 @@ Family photographs such as this one offer a glimpse of the domestic world that s
 
 #### Trust, Long Service, and Access to Private Space
 
-.ve-media 
-
-<iframe src="https://edisondigital.rutgers.edu/uv.html#?manifest=https://edisondigital.rutgers.edu/iiif/2/X456CA/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-521,-105,1716,1130&r=0" width="560" height="420" allowfullscreen frameborder="0" title="[X456CA], Letter from Mina Miller (Mrs Thomas A.) Edison to Theodore Miller Edison, Ann Osterhout (Mrs Theodore M.) Edison, August 14th, 1927"></iframe>
-
-*Mina Miller Edison to Theodore Miller Edison and Ann Osterhout Edison, August 19, 1927. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: X456CA. In this letter, Mina describes Lena coming upstairs to help with dinner and refers to her as a “faithful, loyal girl” who “really cares for us,” offering evidence of long-term service, trust, and continued access to private family space.*
+.ve-media https://edisondigital.rutgers.edu/iiif/2/X456CA width=80% right
 
 In August 1927, Mina Edison wrote that she had started a letter but was interrupted when “Lena came upstairs,” because Mina was having her help with dinner that evening. Mina then reflected on Lena’s age, her physical complaints, and her years of service, writing that Lena “has been a faithful, loyal girl and I think really cares for us.” The passage is revealing in several ways. It shows Lena moving easily into the family’s upstairs space, assisting with household preparation, and speaking with Mina directly. It also shows how long employment could deepen familiarity. Lena was still part of the household after many years, not simply as a worker who completed tasks, but as someone whose loyalty, health, and continued presence mattered to the family.
 
 This kind of evidence helps show how intimacy work unfolded over time. Access to bedrooms, sitting rooms, clothing, and family routines was not momentary. It was sustained across years of service, and it depended on confidence that private household life would be handled with care and discretion.
+
+*About the Image: Mina Miller Edison to Theodore Miller Edison and Ann Osterhout Edison, August 19, 1927. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: X456CA. In this letter, Mina describes Lena coming upstairs to help with dinner and refers to her as a “faithful, loyal girl” who “really cares for us,” offering evidence of long-term service, trust, and continued access to private family space.*
 
 #### The Den Was Another Gathering Space for the Family
 
@@ -413,31 +409,33 @@ The den offered another setting for family gathering within Glenmont. Like the s
 
 ## Laundry Work
 
+.ve-media https://edisondigital.rutgers.edu/iiif/570363 caption="First-floor plan of Glenmont"
+
 Laundry at Glenmont evolved alongside the house itself. The original laundry room, located in the northeast corner of the service wing, measured just 13 by 12 feet. By July 1884, it was expanded to more than 19 by 15 feet and fitted with two additional windows—likely to improve ventilation, release steam, and reduce mildew. The enlargement suggests that washing, boiling, and drying were already generating substantial heat and moisture. The room grew because the labor required it. The laundry room was located to the left after entering through the servant entry.
 
-`image src=images/first-floor-plan-color-coded.jpg alt="Color-coded first-floor plan of Glenmont showing the location of the servant entry, laundry room, kitchen, pantry, service hall, and surrounding first-floor rooms." caption="First-floor plan of Glenmont, showing service spaces including the servant entry, laundry room, kitchen, pantry, and service hall. Redrawn from NPS Drawing–NHS Edi. 331 Sheet 3. Drawn by John G. Baite, 1963. Room labels added by Melissa Benbow Flowers, 2026. Rooms color coded by Michael Faist, 2026. From Barbara A. Yocum, The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I (Lowell, MA: National Park Service, U.S. Department of the Interior, 1998), 211."`
+*About the image: Color-coded first-floor plan of Glenmont showing the location of the servant entry, laundry room, kitchen, pantry, service hall, and surrounding first-floor rooms. Redrawn from NPS Drawing–NHS Edi. 331 Sheet 3. Drawn by John G. Baite, 1963. Room labels added by Melissa Benbow Flowers, 2026. Rooms color coded by Michael Faist, 2026. From Barbara A. Yocum, The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I (Lowell, MA: National Park Service, U.S. Department of the Interior, 1998), 211.*
 
 [Source: Barbara A. Yocum, *The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I*](https://npshistory.com/publications/edis/hsr-glenmont-v1.pdf)
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=80% right caption="Glenmont, exterior, side and driveway to entrance, October 21, 1960."
+.ve-media https://edisondigital.rutgers.edu/iiif/570402 width=80% right caption="Glenmont, exterior, side and driveway to entrance, October 21, 1960."
 
 *About the image: Exterior view of Glenmont showing the side of the house and driveway entrance near the service wing. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, exterior, side and driveway to entrance.”](https://npgallery.nps.gov/EDIS/AssetDetail/aefd3388-0467-4304-ac03-512377df1d18)
 
-Between 1908 and 1912, Mrs. Michael Cox and Mrs. John Purdue were repeatedly paid for laundry labor in concentrated bursts. In February 1908, Mrs. Cox was paid for forty-two days at $1.25 per day, totaling $52.50. In March and April 1909, she worked forty-six combined days of “housecleaning and laundry,” earning $57.50. Mrs. Purdue’s compensation in 1909–1910 was often calculated at $1.50 per day, with stretches of twenty-eight or more days in a single month, amounting to $35 or more per cycle. These payments indicate wage labor performed in measured intervals rather than full-time live-in service. Laundry was accumulation-based: it surged after entertaining seasons, during spring cleaning, or before travel to Florida. Compensation by the day underscores the physical intensity of the work. At $1.25–$1.50 per day, a forty-day cycle could yield between $50 and $60—significant pay, but earned through prolonged manual exertion.
-
 .ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/d8f78dfc4f1247eb843b635f32b6dee6/proxyhires.jpg width=80% left caption="Glenmont, interior, first floor, Laundry Room, October 21, 1960."
+
+Between 1908 and 1912, Mrs. Michael Cox and Mrs. John Purdue were repeatedly paid for laundry labor in concentrated bursts. In February 1908, Mrs. Cox was paid for forty-two days at $1.25 per day, totaling $52.50. In March and April 1909, she worked forty-six combined days of “housecleaning and laundry,” earning $57.50. Mrs. Purdue’s compensation in 1909–1910 was often calculated at $1.50 per day, with stretches of twenty-eight or more days in a single month, amounting to $35 or more per cycle. These payments indicate wage labor performed in measured intervals rather than full-time live-in service. Laundry was accumulation-based: it surged after entertaining seasons, during spring cleaning, or before travel to Florida. Compensation by the day underscores the physical intensity of the work. At $1.25–$1.50 per day, a forty-day cycle could yield between $50 and $60—significant pay, but earned through prolonged manual exertion.
 
 *About the image: Interior view of Glenmont’s first-floor Laundry Room, showing laundry tubs, pipes, work surfaces, and service-room finishes. October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Laundry Room.”](https://npgallery.nps.gov/EDIS/AssetDetail/d8f78dfc-4f12-47eb-843b-635f32b6dee6)
 
+.ve-media default:https%3A//collections-media.thehenryford.org/CollectionImages/_detail/photos/thf109595.jpg width=80% right caption="Thor Electric Washing Machine, circa 1907."
+
 The 1900 federal census provides additional context for Annie Cox, likely the same Mrs. Michael Cox later appearing in Glenmont vouchers. At age thirty, born in September 1869 in New Jersey to an Irish-born father and New Jersey-born mother, Annie lived in Matawan, Monmouth County, with her husband Michael Cox and five young children: Frank, Leo, Mary, Hannah, and Phyllis Jane. Her husband worked outside the home, but Annie’s wage-earning laundry labor supplemented a large household economy. The seasonal or concentrated nature of her Glenmont work suggests she balanced paid domestic labor with responsibilities to her own family.
 
 In 1916, Glenmont’s laundry room was updated again: new tubs, new flooring, and a relocated stove. These improvements likely increased efficiency and sanitation, yet they did not eliminate manual strain. Washing still required lifting, wringing, boiling, starching, pressing, and hauling linens between floors and yard. Even without mechanized drying, the architectural adjustments show the estate responding incrementally to labor demands.
-
-.ve-media default:https%3A//collections-media.thehenryford.org/CollectionImages/_detail/photos/thf109595.jpg width=80% right caption="Thor Electric Washing Machine, circa 1907."
 
 *About the image: Thor electric washing machine with wooden tub, wringer, wheels, belts, and motor, made around 1907. Patented by Alva J. Fisher and manufactured by Hurley Machine Company of Chicago, Illinois. From the Collections of The Henry Ford, Gift of Hurley Machine Company. This image provides a comparative example of the kind of early electric washing technology associated with domestic laundry work in the early twentieth century.*
 
