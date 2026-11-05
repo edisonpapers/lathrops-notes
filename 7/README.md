@@ -28,7 +28,6 @@ The service hall, back staircase, kitchen, pantry, and servants’ dining room s
 
 ### Maintaining the Second Floor
 
-
 ![Glenmont, interior, second floor, upper main hall, facing northeast.](https://npgallery.nps.gov/EDIS/GetAsset/d68355392f264dd18cf81f628d26d789/proxymdres.jpg)
 
 The second floor required ongoing labor connected to bedrooms, bathrooms, linens, cleaning, privacy, and the maintenance of family life.
@@ -200,7 +199,7 @@ MOTHER
 
 ## Maintaining the Second Floor
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570375 right width=80% caption="Figure 117. Second-floor plan of Glenmont, 1963."
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570375 left width=80% caption="Figure 117. Second-floor plan of Glenmont, 1963."
 
 If the first floor of Glenmont functioned as a stage for hospitality, business, and public identity, the second floor operated as a carefully guarded interior. By the early twentieth century, the Edison family lived under the weight of international fame. Visitors arrived regularly—industrialists, politicians, reporters, and admirers of Thomas Edison’s inventions. Yet above the formal reception rooms lay spaces intended for retreat: bedrooms, family sitting rooms, and circulation halls that mediated intimacy. Privacy here was not simply architectural; it was managed through labor.
 
