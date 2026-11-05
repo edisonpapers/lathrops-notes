@@ -154,7 +154,7 @@ Census records trace the continuity of this role across decades. In 1905, Willia
 
 [Source: NPGallery, “Glenmont, interior, first floor, Butler’s Pantry.”](https://npgallery.nps.gov/EDIS/AssetDetail/3bb190fa-23b9-4314-88e7-5e06f0a468de)
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570373 width=80% left caption="Glenmont, interior, first floor, Dining Room"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570373 width=80% right caption="Glenmont, interior, first floor, Dining Room"
 
 Early twentieth-century manuals defined the responsibilities of a dining-room waitress with exacting detail. In *The Up-to-Date Waitress*, first published in 1906, Janet McKenzie Hill outlined the daily and weekly care required to maintain a properly ordered dining room. Each morning, a fire was to be laid ready for lighting. The hearth brushed. Brass and steel polished with a dry cloth. Rugs swept carefully “with the nap,” hardwood borders wiped clean, and dust collected—not scattered—with cheesecloth. Windows were opened to air the room thoroughly.
 
@@ -164,7 +164,7 @@ Early twentieth-century manuals defined the responsibilities of a dining-room wa
 
 ### The Butler and the Waitress: Visibility, Service, and the Dining Room
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570396 width=80% right caption="Glenmont, interior, first floor, Dining Room, October 21, 1960."
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570396 width=80% left caption="Glenmont, interior, first floor, Dining Room, October 21, 1960."
 
 Johanna, remembered by Mina’s secretary Lynn Given in a 1990 interview as “the German waitress,” worked in one of the most visible rooms of Glenmont—the dining room. While others labored in kitchens or private chambers, Johanna’s work unfolded at the threshold between family and guest. She was present when meals were served, yet her presence was meant to dissolve into the background. A contemporary [idealized image of a maid or waitress in domestic service](https://www.thehenryford.org/collections/explore/artifact/480947?AssetId=THF290826), preserved by The Henry Ford, suggests how early twentieth-century visual culture often represented women servants as orderly, efficient, and quietly attentive.
 
