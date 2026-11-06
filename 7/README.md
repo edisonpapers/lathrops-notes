@@ -177,6 +177,7 @@ Social life at Glenmont reflected Mina Edison’s active role as hostess and cul
 
 [Source: NPGallery, “Glenmont, exterior, driveway to front entrance.”](https://npgallery.nps.gov/EDIS/AssetDetail/fd97c654-3ceb-488f-9750-2d298461c595)
 
+###
 #### The Reception Hall
 
 .ve-media https://edisondigital.rutgers.edu/iiif/570426 right width=80% caption="Figure 26. Reception Hall, looking southwest, 1891."
