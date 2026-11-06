@@ -190,7 +190,7 @@ Yet this apparent stillness depended on daily intervention. Dust settled quickly
 
 [Source: National Park Service, *The House at Glenmont, Volume II: Furnishing Plan*](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf)
 
-.ve-media https://edisondigital.rutgers.edu/iiif/570428 left width-80% caption="Glenmont, interior, first floor, foyer and stairway"
+.ve-media https://edisondigital.rutgers.edu/iiif/570428 left width=80% caption="Glenmont, interior, first floor, foyer and stairway"
 
 The reception hall organized movement through the house. From this space, guests could be directed toward the dining room, drawing room, reception room, library, or main stairway. Its arrangement made hospitality appear natural, but the room’s order depended on repeated acts of maintenance: rugs aligned, furniture positioned, portieres arranged, and decorative objects kept clean and stable. In this sense, the reception hall was both a social threshold and a working space.
 
