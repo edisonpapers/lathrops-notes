@@ -268,19 +268,19 @@ images/drawing-room-drawing-glenmont.png
 
 ###### Library
 
-![Drawing of Glenmont’s Library, Room 104, showing bookshelves, fireplace, seating, rugs, tables, framed art, and formal furnishings.](images/library-drawing-glenmont.png)
+![Drawing of Glenmont’s Library, Room 104, showing bookshelves, fireplace, seating, rugs, tables, framed art, and formal furnishings.](https://edison.rutgers.edu/images/exhibits/working-estate/library-drawing-glenmont.png)
 
 *Room 104, Library. Drawing of Glenmont’s Library. From *The House at Glenmont, Volume II: Furnishing Plan*. Image credit: National Park Service, Thomas Edison National Historical Park.*
 
 ###### Drawing Room, 1891
 
-![1891 drawing of Mr. Edison’s Drawing Room, looking northwest, showing seating, fireplace, curtains, portieres, and decorative furnishings.](images/drawing-room-decorator-1891.png)
+![1891 drawing of Mr. Edison’s Drawing Room, looking northwest, showing seating, fireplace, curtains, portieres, and decorative furnishings.](https://edison.rutgers.edu/images/exhibits/working-estate/drawing-room-decorator-1891.png)
 
 *“Mr. Edison’s Drawing Room,” looking northwest, 1891. Drawing from *Decorator*, 1891. From *The House at Glenmont, Volume II: Furnishing Plan*. Image credit: National Park Service, Thomas Edison National Historical Park.*
 
 ###### Drawing Room
 
-![Drawing of Glenmont’s Drawing Room, Room 109, showing a piano, fireplace, seating, rugs, curtains, and formal furnishings.](images/drawing-room-drawing-glenmont.png)
+![Drawing of Glenmont’s Drawing Room, Room 109, showing a piano, fireplace, seating, rugs, curtains, and formal furnishings.](https://edison.rutgers.edu/images/exhibits/working-estate/drawing-room-drawing-glenmont.png)
 
 *Room 109, Drawing Room. Drawing of Glenmont’s Drawing Room. From *The House at Glenmont, Volume II: Furnishing Plan*. Image credit: National Park Service, Thomas Edison National Historical Park.*
 
