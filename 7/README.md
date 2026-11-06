@@ -83,6 +83,7 @@ February 25th, 1927
 Dear Mother Edison,
 
 This is a post script to Ted’s letter to give you a picture of the housekeeping end of this enterprise. Everything is going along very nicely. Margaret does very well and we all get on beautifully together. The rooms on the second floor have been closed except the north room where Peter and Mlle. are spending the week-end. The idea at first was that they both sleep in the one bed but I thought it best that Peter sleeps by himself. When he came he was going up to the 3rd floor just to see his crib, and when he found it was downstairs and he was going to sleep in it he was overjoyed.
+
 *About the document: Ann Osterhout Edison to Mina Miller Edison, February 25, 1927. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: X018A1AD. Ann describes the “housekeeping end” of Glenmont during Mina’s absence, including second-floor rooms, weekend guests, bed-making, mending, and the work of household staff.*
 
 [Source: Thomas A. Edison Papers Digital Edition, Rutgers University, Document X018A1AD](https://edisondigital.rutgers.edu/document/X018A1AD)
