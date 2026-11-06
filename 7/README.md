@@ -47,7 +47,7 @@ Guest-room preparation belonged especially to chambermaids and maids, but it als
 
 Guest rooms extended the work of hosting upstairs. Before visitors arrived, chambermaids and maids prepared beds, aired rooms, checked towels, refreshed water, and made sure the room felt private and settled. After guests departed, the same rooms required another cycle of work: stripping linens, sending textiles to the laundry, cleaning surfaces, brushing rugs, emptying vessels or waste, and returning the room to order.
 
-#### Guest-Room Views{.cards}
+#### Guest-Room Views {.cards}
 
 ##### West Guest Bedroom
 
