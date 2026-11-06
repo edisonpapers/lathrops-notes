@@ -6,7 +6,7 @@
     - [Beyond the House](/4)
     - [Rest and Respite](/5)
 
-# Section 2 - Hosting at Glenmont
+# Section 3 - Hosting at Glenmont
 
 Hosting at Glenmont transformed the house into a social and public-facing space. Guests arrived for meals, family celebrations, laboratory-related visits, holidays, and formal occasions connected to Thomas Edison’s fame and Mina Edison’s role as hostess. These visits activated work across the estate: rooms had to be cleaned, fires prepared, flowers arranged, silver polished, meals planned, guest rooms readied, automobiles received, and extra help sometimes brought in.
 
