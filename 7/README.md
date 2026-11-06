@@ -49,16 +49,23 @@ Guest rooms extended the work of hosting upstairs. Before visitors arrived, cham
 
 #### Guest-Room Views {.cards}
 
-##### West Guest Bedroom
-
-[Source: NPGallery, facing southeast](https://npgallery.nps.gov/EDIS/AssetDetail/f5fb823f-ca59-4403-8ea0-97ec2e4138d5)  
-[Source: NPGallery, facing northwest](https://npgallery.nps.gov/EDIS/AssetDetail/7f5b9a17-395a-4873-927a-05e93893ac2b)
+##### West Guest Bedroom, Facing Southeast
 
 ![Glenmont’s second-floor West Guest Bedroom, facing southeast, with the upper main hall visible beyond the doorway.](https://npgallery.nps.gov/EDIS/GetAsset/f5fb823fca5944038ea097ec2e4138d5/proxyhires.jpg)
 
+*Glenmont, interior, second floor, West Guest Bedroom, facing southeast, upper main hall beyond doorway. Image dated August 28, 1947. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery, facing southeast](https://npgallery.nps.gov/EDIS/AssetDetail/f5fb823f-ca59-4403-8ea0-97ec2e4138d5)  
+
+##### West Guest Bedroom, Facing Northwest
+
 ![Glenmont’s second-floor West Guest Bedroom, facing northwest and rear of house.](https://npgallery.nps.gov/EDIS/GetAsset/7f5b9a17395a4873927a05e93893ac2b/proxyhires.jpg)
 
-*Glenmont, interior, second floor, West Guest Bedroom, facing southeast, upper main hall beyond doorway; and West Guest Bedroom, facing northwest and rear of house. Both images dated August 28, 1947. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+*Glenmont, interior, second floor, West Guest Bedroom, facing northwest and rear of house. Images date August 28, 1947. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery, facing northwest](https://npgallery.nps.gov/EDIS/AssetDetail/7f5b9a17-395a-4873-927a-05e93893ac2b)
+
+####
 
 Guest rooms were used intermittently, but their preparation could be intense. A room might sit quiet for days or weeks, then suddenly need to be made ready for relatives, business associates, visiting dignitaries, or friends connected to Edison’s laboratory and public life. In this way, guest-room labor linked the second floor to the social life of the first floor. Hospitality began at the front door and continued in the careful preparation of beds, towels, curtains, and quiet spaces upstairs.
 
