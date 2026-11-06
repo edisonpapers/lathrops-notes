@@ -284,7 +284,7 @@ images/drawing-room-drawing-glenmont.png
 
 *Room 109, Drawing Room. Drawing of Glenmont’s Drawing Room. From *The House at Glenmont, Volume II: Furnishing Plan*. Image credit: National Park Service, Thomas Edison National Historical Park.*
 
-<br>
+<br><br>
 ##### Weekly, Monthly, and Seasonal Cleaning
 
 Jennie Evenson’s work as parlor maid would have included daily attention to Glenmont’s public rooms, but those spaces also required weekly, monthly, and seasonal care. Rooms such as the reception hall, library, drawing room, and conservatory contained rugs, upholstered furniture, portieres, fireplaces, decorative objects, bookshelves, lamps, and polished surfaces. These materials did not all require the same kind of care, but they all had to be kept ready for visitors.
