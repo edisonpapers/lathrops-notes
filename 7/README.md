@@ -206,15 +206,19 @@ The reception hall organized movement through the house. From this space, guests
 
 #### Signing the Guest Book
 
+.ve-media https://edisondigital.rutgers.edu/iiif/570432 right width=80% caption="Glenmont, interior, first floor, Foyer/Entrance Hall, October 21, 1960"
+
 Guests entering Glenmont passed first through the public spaces of arrival: the entrance hall, reception hall, and nearby rooms where visitors could be received, seated, or directed farther into the house. Signing a guest book, presenting a card, removing coats, or waiting to be announced were small acts, but they depended on a system of household service. A butler, waitress, or parlor maid could help manage these transitions, depending on the period and staffing.
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/06b2f865f6ef41b69a42e43de52eefc4/proxyhires.jpg .right alt="Interior view of Glenmont’s first-floor foyer and entrance hall." caption="Glenmont, interior, first floor, Foyer/Entrance Hall, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+*About the image: Interior view of Glenmont’s first-floor foyer and entrance hall, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Foyer/Entrance Hall.”](https://npgallery.nps.gov/EDIS/AssetDetail/06b2f865-f6ef-41b6-9a42-e43de52eefc4)
 
+.ve-media https://edisondigital.rutgers.edu/iiif/570434 left width=80% caption="Glenmont, interior, first floor, Pedder Library, facing west, October 21, 1960"
+
 The library offered one possible setting for more controlled forms of welcome: conversation, waiting, reading, signing in, or being received by family members. Its dense furnishings, bookshelves, rugs, upholstered chairs, framed pictures, lamps, and fireplace required steady maintenance. A room like this had to look settled rather than newly arranged. Its comfort depended on preparation that was meant to disappear.
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/a6dbc183e0a8405eb038bec7e5bba711/proxyhires.jpg .left alt="Interior view of Glenmont’s first-floor Pedder Library, facing west." caption="Glenmont, interior, first floor, Pedder Library, facing west, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+*About the image: Interior view of Glenmont’s first-floor Pedder Library, facing west, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Pedder Library, facing west.”](https://npgallery.nps.gov/EDIS/AssetDetail/a6dbc183-e0a8-405e-b038-bec7e5bba711)
 
@@ -226,9 +230,11 @@ As parlor maid, Jennie’s work would have centered on the rooms where guests fo
 
 #### From Reception to Drawing Room
 
+.ve-media https://edisondigital.rutgers.edu/iiif/570438 right width=80% caption="Interior view of Glenmont’s first-floor foyer and entrance hall fireplace"
+
 From the entrance hall, visitors could be guided into the reception and drawing rooms, spaces designed for sociability, display, and controlled movement. Portieres helped shape this movement. They framed doorways, softened sound, and allowed rooms to be partly opened or partly screened depending on the occasion. For unfamiliar visitors, these fabric boundaries helped protect family privacy while still allowing Glenmont to function as a place of welcome.
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/bc0e7ba30c654f8da0636191d5693ee8/proxyhires.jpg .right alt="Interior view of Glenmont’s first-floor foyer and entrance hall fireplace." caption="Glenmont, interior, first floor, foyer, entrance hall, fireplace, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+*About the image: Interior view of Glenmont’s first-floor foyer and entrance hall fireplace, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, foyer, entrance hall, fireplace.”](https://npgallery.nps.gov/EDIS/AssetDetail/bc0e7ba3-0c65-4f8d-a063-6191d5693ee8)
 
