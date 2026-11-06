@@ -169,44 +169,53 @@ Before guests arrived, domestic workers also prepared the room itself. Fires mig
 
 [Source: National Park Service, *The House at Glenmont, Volume II: Furnishing Plan*](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf)
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/fd97c6543ceb488f97502d298461c595/proxyhires.jpg .left alt="Exterior view of Glenmont showing the driveway leading to the front entrance." caption="Glenmont, exterior, driveway to front entrance, August 28, 1947. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
-
-[Source: NPGallery, “Glenmont, exterior, driveway to front entrance.”](https://npgallery.nps.gov/EDIS/AssetDetail/fd97c654-3ceb-488f-9750-2d298461c595)
+.ve-media https://edisondigital.rutgers.edu/iiif/570424 left width=80% caption="Glenmont, exterior, driveway to front entrance, August 28, 1947."
 
 Social life at Glenmont reflected Mina Edison’s active role as hostess and cultural organizer, even though Thomas Edison himself disliked formal dinners. Mina regularly entertained a wide range of notable guests, including Helen Keller, Maria Montessori, Orville Wright, Charles and Anne Lindbergh, Henry Ford, and George Eastman. Gatherings at Glenmont included dinner parties, musicales, and celebrations connected to laboratory visits. For Mina, music was central to domestic life; in a 1929 talk she described it as “the very soul of recreation in the home.” Major holidays such as Christmas and the Fourth of July were especially important occasions.
 
+*About the image: Exterior view of Glenmont showing the driveway leading to the front entrance. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery, “Glenmont, exterior, driveway to front entrance.”](https://npgallery.nps.gov/EDIS/AssetDetail/fd97c654-3ceb-488f-9750-2d298461c595)
+
 #### The Reception Hall
 
-`image src=images/reception-hall-decorator-1891.png .right alt="1891 drawing of Glenmont’s reception hall looking southwest, showing the main stairway, table, fireplace, seating, wall decoration, and formal hall furnishings." caption="Figure 26. Reception Hall, looking southwest, 1891. Drawing from Decorator, 1891. From The House at Glenmont, Volume II: Furnishing Plan. Image credit: National Park Service, Thomas Edison National Historical Park."`
-
-[Source: National Park Service, *The House at Glenmont, Volume II: Furnishing Plan*](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf)
+.ve-media https://edisondigital.rutgers.edu/iiif/570426 right width=80% caption="Figure 26. Reception Hall, looking southwest, 1891."
 
 The Reception Hall and Reception Room functioned less as rooms of occasional gathering than as continuous sites of display. Layered Middle Eastern rugs, carved oak furniture, silk velvet hangings, framed paintings, ceramics, and polished metal objects created a dense visual field that appeared static and effortless. Comparable museum objects, such as [nineteenth-century decorative textiles in the Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/19995), [woven or ornamental furnishing materials](https://www.metmuseum.org/art/collection/search/770928), and [decorative domestic objects in the Carnegie Museum of Art collection](https://collection.carnegieart.org/objects/4944b92e-13b3-479b-a085-229a21d4aae9), help show the kinds of delicate surfaces and display objects that required careful handling in elite interiors.
 
 Yet this apparent stillness depended on daily intervention. Dust settled quickly on carved surfaces and gilt frames; textiles shifted with air currents and use; rugs required brushing to maintain pile and alignment. These rooms were curated. Servants moved through them carefully each morning, straightening, brushing, adjusting, and inspecting so that the illusion of permanence could be sustained. The labor was constant but deliberately unobtrusive, producing an environment that looked untouched. A comparative description of a housemaid’s daily duties, including dusting, cleaning grates, tending fires, and keeping rooms in order, helps contextualize the routine work required to maintain spaces like Glenmont’s reception hall. [See PBS, *Manor House*: “Becky’s Duties.”](https://www.pbs.org/manorhouse/thepeople/becky_duties.html)
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/1dc3ccb9309846c29add41d6d62e148f/proxyhires.jpg .left alt="Interior view of Glenmont’s first-floor foyer and stairway, with the dining room visible in the distance." caption="Glenmont, interior, first floor, foyer and stairway, dining room in distance. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+*About the image; 1891 drawing of Glenmont’s reception hall looking southwest, showing the main stairway, table, fireplace, seating, wall decoration, and formal hall furnishings. Drawing from Decorator, 1891. From The House at Glenmont, Volume II: Furnishing Plan. Image credit: National Park Service, Thomas Edison National Historical Park.*
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/5d04f116771646fab297a1f5489a8a88/proxyhires.jpg .left alt="Interior view of Glenmont’s first-floor reception hall and stairway, showing formal furnishings, rugs, woodwork, and circulation into the public rooms." caption="Glenmont, interior, first floor, reception hall and stairway. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+[Source: National Park Service, *The House at Glenmont, Volume II: Furnishing Plan*](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf)
 
-[Source: NPGallery, “Glenmont, interior, first floor, foyer and stairway, dining room in distance.”](https://npgallery.nps.gov/EDIS/AssetDetail/1dc3ccb9-3098-46c2-9add-41d6d62e148f)  
-[Source: NPGallery, Glenmont interior view](https://npgallery.nps.gov/EDIS/AssetDetail/5d04f116-7716-46fa-b297-a1f5489a8a88)
+.ve-media https://edisondigital.rutgers.edu/iiif/570428 left width-80% caption="Glenmont, interior, first floor, foyer and stairway"
 
 The reception hall organized movement through the house. From this space, guests could be directed toward the dining room, drawing room, reception room, library, or main stairway. Its arrangement made hospitality appear natural, but the room’s order depended on repeated acts of maintenance: rugs aligned, furniture positioned, portieres arranged, and decorative objects kept clean and stable. In this sense, the reception hall was both a social threshold and a working space.
 
+*About the image: Interior view of Glenmont’s first-floor foyer and stairway, with the dining room visible in the distance. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery, “Glenmont, interior, first floor, foyer and stairway, dining room in distance.”](https://npgallery.nps.gov/EDIS/AssetDetail/1dc3ccb9-3098-46c2-9add-41d6d62e148f)  
+
+.ve-media https://edisondigital.rutgers.edu/iiif/570430 right width=80% caption="Glenmont, interior, first floor, reception hall and stairway"
+
+*About the image: Interior view of Glenmont’s first-floor reception hall and stairway, showing formal furnishings, rugs, woodwork, and circulation into the public rooms. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
+
+[Source: NPGallery, Glenmont interior view](https://npgallery.nps.gov/EDIS/AssetDetail/5d04f116-7716-46fa-b297-a1f5489a8a88)
+
 #### Signing the Guest Book
+
+Guests entering Glenmont passed first through the public spaces of arrival: the entrance hall, reception hall, and nearby rooms where visitors could be received, seated, or directed farther into the house. Signing a guest book, presenting a card, removing coats, or waiting to be announced were small acts, but they depended on a system of household service. A butler, waitress, or parlor maid could help manage these transitions, depending on the period and staffing.
 
 `image src=https://npgallery.nps.gov/EDIS/GetAsset/06b2f865f6ef41b69a42e43de52eefc4/proxyhires.jpg .right alt="Interior view of Glenmont’s first-floor foyer and entrance hall." caption="Glenmont, interior, first floor, Foyer/Entrance Hall, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
 
 [Source: NPGallery, “Glenmont, interior, first floor, Foyer/Entrance Hall.”](https://npgallery.nps.gov/EDIS/AssetDetail/06b2f865-f6ef-41b6-9a42-e43de52eefc4)
 
-Guests entering Glenmont passed first through the public spaces of arrival: the entrance hall, reception hall, and nearby rooms where visitors could be received, seated, or directed farther into the house. Signing a guest book, presenting a card, removing coats, or waiting to be announced were small acts, but they depended on a system of household service. A butler, waitress, or parlor maid could help manage these transitions, depending on the period and staffing.
+The library offered one possible setting for more controlled forms of welcome: conversation, waiting, reading, signing in, or being received by family members. Its dense furnishings, bookshelves, rugs, upholstered chairs, framed pictures, lamps, and fireplace required steady maintenance. A room like this had to look settled rather than newly arranged. Its comfort depended on preparation that was meant to disappear.
 
 `image src=https://npgallery.nps.gov/EDIS/GetAsset/a6dbc183e0a8405eb038bec7e5bba711/proxyhires.jpg .left alt="Interior view of Glenmont’s first-floor Pedder Library, facing west." caption="Glenmont, interior, first floor, Pedder Library, facing west, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
 
 [Source: NPGallery, “Glenmont, interior, first floor, Pedder Library, facing west.”](https://npgallery.nps.gov/EDIS/AssetDetail/a6dbc183-e0a8-405e-b038-bec7e5bba711)
-
-The library offered one possible setting for more controlled forms of welcome: conversation, waiting, reading, signing in, or being received by family members. Its dense furnishings, bookshelves, rugs, upholstered chairs, framed pictures, lamps, and fireplace required steady maintenance. A room like this had to look settled rather than newly arranged. Its comfort depended on preparation that was meant to disappear.
 
 ##### Jennie Evenson, Parlor Maid
 
@@ -216,39 +225,39 @@ As parlor maid, Jennie’s work would have centered on the rooms where guests fo
 
 #### From Reception to Drawing Room
 
+From the entrance hall, visitors could be guided into the reception and drawing rooms, spaces designed for sociability, display, and controlled movement. Portieres helped shape this movement. They framed doorways, softened sound, and allowed rooms to be partly opened or partly screened depending on the occasion. For unfamiliar visitors, these fabric boundaries helped protect family privacy while still allowing Glenmont to function as a place of welcome.
+
 `image src=https://npgallery.nps.gov/EDIS/GetAsset/bc0e7ba30c654f8da0636191d5693ee8/proxyhires.jpg .right alt="Interior view of Glenmont’s first-floor foyer and entrance hall fireplace." caption="Glenmont, interior, first floor, foyer, entrance hall, fireplace, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
 
 [Source: NPGallery, “Glenmont, interior, first floor, foyer, entrance hall, fireplace.”](https://npgallery.nps.gov/EDIS/AssetDetail/bc0e7ba3-0c65-4f8d-a063-6191d5693ee8)
 
-From the entrance hall, visitors could be guided into the reception and drawing rooms, spaces designed for sociability, display, and controlled movement. Portieres helped shape this movement. They framed doorways, softened sound, and allowed rooms to be partly opened or partly screened depending on the occasion. For unfamiliar visitors, these fabric boundaries helped protect family privacy while still allowing Glenmont to function as a place of welcome.
+The drawing room was one of Glenmont’s most formal social rooms. Here, furniture arrangement, lighting, textiles, rugs, and decorative objects helped create a setting for conversation, music, tea, or receiving guests. A parlor maid’s work in such a room was careful and repetitive. She did not simply clean; she preserved an appearance of ease.
 
 `image src=https://npgallery.nps.gov/EDIS/GetAsset/ba63dcb8a7c8444d9021eb45c1b54fdf/proxyhires.jpg .left alt="Interior view of Glenmont’s first-floor Drawing Room, facing northeast." caption="Glenmont, interior, first floor, Drawing Room, facing northeast, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
 
 [Source: NPGallery, “Glenmont, interior, first floor, Drawing Room, facing northeast.”](https://npgallery.nps.gov/EDIS/AssetDetail/ba63dcb8-a7c8-444d-9021-eb45c1b54fdf)
 
-The drawing room was one of Glenmont’s most formal social rooms. Here, furniture arrangement, lighting, textiles, rugs, and decorative objects helped create a setting for conversation, music, tea, or receiving guests. A parlor maid’s work in such a room was careful and repetitive. She did not simply clean; she preserved an appearance of ease.
-
 #### Organized Visiting and Women’s Social Networks
+
+This photograph shows Glenmont as a space for organized women’s sociability as well as family hospitality. Visits by groups such as the Daughters of the American Revolution required preparation beyond ordinary housekeeping. Chairs might be arranged, rooms aired, flowers refreshed, tea or light refreshments prepared, and public rooms kept ready for guests to move through them. Jennie Evenson’s work as parlor maid helps us imagine the labor behind this kind of occasion: the quiet work of making a formal room appear naturally ready for social life.
 
 `image src=https://npgallery.nps.gov/EDIS/GetAsset/a67fb7a322b042a79b4e3d2d906de843/original.jpg .right alt="Mina Edison with members of the Daughters of the American Revolution, Essex chapter, at Glenmont." caption="Mina Edison with Daughters of the American Revolution, Essex chapter, at Glenmont, 1912. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
 
 [Source: NPGallery, “Mina Edison with Daughters of the American Revolution, Essex chapter, at Glenmont.”](https://npgallery.nps.gov/EDIS/AssetDetail/a67fb7a3-22b0-42a7-9b4e-3d2d906de843)
 
-This photograph shows Glenmont as a space for organized women’s sociability as well as family hospitality. Visits by groups such as the Daughters of the American Revolution required preparation beyond ordinary housekeeping. Chairs might be arranged, rooms aired, flowers refreshed, tea or light refreshments prepared, and public rooms kept ready for guests to move through them. Jennie Evenson’s work as parlor maid helps us imagine the labor behind this kind of occasion: the quiet work of making a formal room appear naturally ready for social life.
-
 #### The Drawing Room and Conservatory
+
+The drawing room connected to the conservatory, extending the social route through Glenmont into a space associated with plants, display, light, and refinement. The conservatory was beautiful, but it was also labor-intensive. Plants required watering, cleaning, pruning, arranging, and seasonal care. When guests moved from the drawing room into the conservatory, they entered another kind of prepared space—one where household display depended on both indoor service and the broader work of gardeners and estate staff.
 
 `image src=https://npgallery.nps.gov/EDIS/GetAsset/e31507ab305a456ab61b2817830f7076/proxyhires.jpg .left alt="Interior view of Glenmont’s first-floor Conservatory." caption="Glenmont, interior, first floor, Conservatory, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
 
 [Source: NPGallery, “Glenmont, interior, first floor, Conservatory.”](https://npgallery.nps.gov/EDIS/AssetDetail/e31507ab-305a-456a-b61b-2817830f7076)
 
-The drawing room connected to the conservatory, extending the social route through Glenmont into a space associated with plants, display, light, and refinement. The conservatory was beautiful, but it was also labor-intensive. Plants required watering, cleaning, pruning, arranging, and seasonal care. When guests moved from the drawing room into the conservatory, they entered another kind of prepared space—one where household display depended on both indoor service and the broader work of gardeners and estate staff.
+For Mina Edison, these rooms were not simply decorative. They were part of the social environment she managed as hostess and home executive. Guests could be welcomed, seated, entertained, and guided through a sequence of rooms that made Glenmont feel refined and orderly. That order depended on staff members like Jennie Evenson, whose public-room labor helped transform architecture and furnishings into hospitality.
 
 `image src=https://npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg .right alt="Portrait of Mina Edison seated in the Conservatory at Glenmont." caption="Portrait of Mina Edison, seated in the Conservatory at Glenmont, circa 1885. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
 
 [Source: NPGallery, “Portrait of Mina Edison, seated in the Conservatory at Glenmont.”](https://npgallery.nps.gov/EDIS/AssetDetail/2429bd7f-0836-4833-a083-e570482f5358)
-
-For Mina Edison, these rooms were not simply decorative. They were part of the social environment she managed as hostess and home executive. Guests could be welcomed, seated, entertained, and guided through a sequence of rooms that made Glenmont feel refined and orderly. That order depended on staff members like Jennie Evenson, whose public-room labor helped transform architecture and furnishings into hospitality.
 
 images/library-drawing-glenmont.png
 images/drawing-room-decorator-1891.png
