@@ -137,6 +137,8 @@ The elegance of a formal dinner required more than preparation; it required elas
 
 [Source: NPGallery, “Glenmont, interior, first floor, Dining Room, table set for Christmas party.”](https://npgallery.nps.gov/EDIS/AssetDetail/3e8ae550-8580-40cf-93a0-39b4760151a6)
 
+####
+
 ### Service Systems: The Dumbwaiter and the Butler
 
 The dumbwaiter helped move objects through Glenmont. The butler helped organize how those objects appeared, disappeared, and circulated during meals and special occasions. Together, they show that household service depended on both architecture and supervision. A lift, speaking tube, pantry, dining room, and service staff all worked together to make meals appear orderly and effortless.
