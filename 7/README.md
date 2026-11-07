@@ -266,9 +266,9 @@ The drawing room connected to the conservatory, extending the social route throu
 
 [Source: NPGallery, “Glenmont, interior, first floor, Conservatory.”](https://npgallery.nps.gov/EDIS/AssetDetail/e31507ab-305a-456a-b61b-2817830f7076)
 
-For Mina Edison, these rooms were not simply decorative. They were part of the social environment she managed as hostess and home executive. Guests could be welcomed, seated, entertained, and guided through a sequence of rooms that made Glenmont feel refined and orderly. That order depended on staff members like Jennie Evenson, whose public-room labor helped transform architecture and furnishings into hospitality.
-
 .ve-media https://edisondigital.rutgers.edu/iiif/570444 right width=80% caption="Portrait of Mina Edison, seated in the Conservatory at Glenmont"
+
+For Mina Edison, these rooms were not simply decorative. They were part of the social environment she managed as hostess and home executive. Guests could be welcomed, seated, entertained, and guided through a sequence of rooms that made Glenmont feel refined and orderly. That order depended on staff members like Jennie Evenson, whose public-room labor helped transform architecture and furnishings into hospitality.
 
 *About the image: Portrait of Mina Edison seated in the Conservatory at Glenmont, circa 1885. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
