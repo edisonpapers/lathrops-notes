@@ -274,6 +274,7 @@ For Mina Edison, these rooms were not simply decorative. They were part of the s
 
 [Source: NPGallery, “Portrait of Mina Edison, seated in the Conservatory at Glenmont.”](https://npgallery.nps.gov/EDIS/AssetDetail/2429bd7f-0836-4833-a083-e570482f5358)
 
+####
 ##### Library and Drawing Room Views {.cards}
 
 ###### Library
