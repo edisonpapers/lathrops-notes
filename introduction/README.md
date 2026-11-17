@@ -1,4 +1,4 @@
-.ve-header "Edison’s Notes for George Parsons Lathrop" default:https://edisondigital.rutgers.edu/iiif/570448 "A Digital Essay" sticky
+.ve-header "Edison’s Notes for George Parsons Lathrop" https://edisondigital.rutgers.edu/iiif/570448 "A Digital Essay" sticky
 
     - [Home](/)
     - [Introduction](/introduction)
