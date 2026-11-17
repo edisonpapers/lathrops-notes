@@ -6,7 +6,7 @@
     - [Pencil Notes](/2)
     - [C Notes](/3)
     - [D Notes](/4)
-    - [F Notes](/5)]
+    - [F Notes](/5)
 
 # 1 Pen Notes
 
