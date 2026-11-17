@@ -65,7 +65,7 @@ Mowing machines run by ==electro motors trolley wire system=={description="Comme
 
 <span style="color:red">*X*</span> Soft pig iron slow cooling—
 
-Carriage horses provided by small receptible for ==Nitrite Amyl=={description="Edison experimented with nitrite and nitrate of amyl as an ingredient in his patent medicine, Polyform, which was used externally to cure “relieves neurologic pains etc.” <i>TAEB</i> 4:228. See also J. Mitchell Bruce, Materia medica and therapeutics (Philadelphia : Lea Brothers, & Co., 1893). https://babel.hathitrust.org/cgi/pt?id=chi.086950916&seq=197"} which connected by safety string to Carriage almost instantly benumbed the horse when attempting to run away  **OK**
+Carriage horses provided by small receptible for ==Nitrite Amyl=={description="Edison experimented with nitrite and nitrate of amyl as an ingredient in his patent medicine, Polyform, which was used externally to cure “relieves neurologic pains etc.” <i>TAEB</i> 4:228. See also J. Mitchell Bruce, Materia medica and therapeutics (Philadelphia : Lea Brothers, & Co., 1893). <br><br>https://babel.hathitrust.org/cgi/pt?id=chi.086950916&seq=197"} which connected by safety string to Carriage almost instantly benumbed the horse when attempting to run away  **OK**
 ##
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PA3002/manifest seq="5" right
 
